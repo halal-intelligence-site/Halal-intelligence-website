@@ -1,0 +1,90 @@
+[
+  {
+    "id": "hcb-001",
+    "name": "Global Halal Certification (GHC)",
+    "country": "United Arab Emirates",
+    "cc": "AE",
+    "scopes": [
+      "Food",
+      "Cosmetics"
+    ],
+    "accs": [
+      "GAC",
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-08-25",
+    "site": "https://example.com/ghc"
+  },
+  {
+    "id": "hcb-002",
+    "name": "HCE Certification Center",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "scopes": [
+      "Food"
+    ],
+    "accs": [
+      "GAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-08-20",
+    "site": "https://example.com/hce"
+  },
+  {
+    "id": "hcb-003",
+    "name": "Central Islamic Committee of Thailand (CICOT)",
+    "country": "Thailand",
+    "cc": "TH",
+    "scopes": [
+      "Food",
+      "Slaughter",
+      "Logistics"
+    ],
+    "accs": [
+      "JAKIM",
+      "BPJPH",
+      "GAC",
+      "MUIS"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-08-15",
+    "site": "https://www.cicot.or.th"
+  },
+  {
+    "id": "hcb-004",
+    "name": "SGS Halal Services",
+    "country": "Malaysia",
+    "cc": "MY",
+    "scopes": [
+      "Food",
+      "Pharma"
+    ],
+    "accs": [
+      "JAKIM"
+    ],
+    "status": "Suspended",
+    "lastVerified": "2025-07-30",
+    "site": "https://example.com/sgs"
+  },
+  {
+    "id": "hcb-005",
+    "name": "Halal Quality Control (HQC)",
+    "country": "Netherlands",
+    "cc": "NL",
+    "scopes": [
+      "Food",
+      "Cosmetics",
+      "Logistics"
+    ],
+    "accs": [
+      "GAC",
+      "EIAC",
+      "MUIS",
+      "BPJPH"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-08-26",
+    "site": "https://example.com/hqc"
+  }
+]
