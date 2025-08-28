@@ -1,52 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Halal Intelligence</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(to right, #2c3e50, #3498db);
-      color: white;
-      text-align: center;
-      padding: 100px 20px;
-    }
-    h1 {
-      font-size: 3em;
-    }
-    p {
-      font-size: 1.2em;
-      margin-top: 20px;
-    }
-    .email-box {
-      margin-top: 30px;
-    }
-    input[type="email"] {
-      padding: 10px;
-      border: none;
-      border-radius: 5px;
-      width: 250px;
-    }
-    button {
-      padding: 10px 20px;
-      border: none;
-      border-radius: 5px;
-      background: #f39c12;
-      color: white;
-      font-weight: bold;
-      margin-left: 10px;
-      cursor: pointer;
-    }
-  </style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Halal Intelligence — Accredited Halal Certification Bodies</title>
+  <meta name="description" content="Global, verified directory of accredited Halal Certification Bodies. Search, filter, verify, and subscribe to updates.">
+  <link rel="icon" href="/assets/logo.svg">
+  <link rel="stylesheet" href="/assets/style.css" />
 </head>
 <body>
-  <h1>🚀 Halal Intelligence</h1>
-  <p>Your trusted directory of accredited Halal Certification Bodies.</p>
-  <p>Website under development. Stay tuned!</p>
-  <div class="email-box">
-    <input type="email" placeholder="Enter your email" />
-    <button>Notify Me</button>
+<header class="header">
+  <div class="container nav">
+    <a class="brand" href="/">
+      <img class="logo" src="/assets/logo.svg" alt="Halal Intelligence logo" />
+      <div class="brand-text">Halal <span class="brand-accent">Intelligence</span></div>
+    </a>
+    <nav class="menu">
+      <a href="#directory">Directory</a>
+      <a href="#api">API</a>
+      <a href="#contact">Contact</a>
+    </nav>
   </div>
+</header>
+
+<section class="hero">
+  <div class="container hero-inner">
+    <div>
+      <span class="pill">Verified • Evidence-linked • Global</span>
+      <h1>Find & Verify <span class="gradient-text">Accredited Halal Bodies</span></h1>
+      <p class="lead">Filter by country, accreditation body, scope, and status. Ratings are based on number of accreditations.</p>
+      <div class="kpis">
+        <div class="kpi"><b id="kpiTotal">—</b><div class="kpi-caption">Total HCBs</div></div>
+        <div class="kpi"><b id="kpiVerified">—</b><div class="kpi-caption">Active / Verified</div></div>
+        <div class="kpi"><b id="kpiUpdated">—</b><div class="kpi-caption">Last dataset update</div></div>
+      </div>
+      <div class="panel mt-12">
+        <div class="filters">
+          <select id="country"><option value="">Country</option></select>
+          <select id="ab"><option value="">Accreditation Body</option></select>
+          <select id="status">
+            <option value="">Status</option>
+            <option>Accredited</option><option>Suspended</option><option>Withdrawn</option><option>Expired</option>
+          </select>
+        </div>
+        <div class="searchbar">
+          <input id="q" placeholder="Search name, scope, website…" aria-label="Search" />
+          <select id="scope"><option value="">Scope</option></select>
+          <select id="sort">
+            <option value="rating">Sort: Trust rating</option>
+            <option value="name">Sort: Name (A→Z)</option>
+            <option value="recent">Sort: Last Verified</option>
+          </select>
+        </div>
+        <div class="range-row">
+          <label for="minA" class="muted">Minimum # of accreditations: <b id="minAVal">0</b></label>
+          <input id="minA" type="range" min="0" max="5" value="0" />
+        </div>
+        <div class="row mt-8">
+          <button class="btn btn-dark" onclick="resetFilters()">Reset Filters</button>
+          <button class="btn btn-primary" onclick="window.location.hash='#contact'">Contact</button>
+        </div>
+      </div>
+    </div>
+    <div class="ad ad-h56">Hero Ad (970×250)</div>
+  </div>
+</section>
+
+<main id="directory" class="container layout">
+  <aside class="aside">
+    <div class="panel">
+      <div class="muted strong">Sidebar Ad (300×250)</div>
+      <div class="ad ad-h40 mt-6">Ad Slot</div>
+    </div>
+    <div class="panel mt-12">
+      <div class="muted strong">Why trust us?</div>
+      <ul class="bullets">
+        <li>Evidence link to official source on every record</li>
+        <li>Two-stage change detection for accuracy</li>
+        <li>Enterprise API & webhooks (coming)</li>
+      </ul>
+    </div>
+  </aside>
+
+  <section class="content">
+    <div class="ad ad-h24">Leaderboard Ad (728×90)</div>
+    <div class="muted mt-8">Showing <b id="countShown">—</b> of <b id="countTotal">—</b> HCBs</div>
+    <div id="grid" class="grid mt-8" role="region" aria-live="polite"></div>
+    <div class="ad ad-h24 mt-12">In-feed Ad</div>
+  </section>
+</main>
+
+<section id="api" class="container section">
+  <div class="panel">
+    <h3>Developer API (Preview)</h3>
+    <p class="muted">Programmatic access to our unified registry. Webhooks for SAP/ERP vendor monitoring.</p>
+<pre class="code">GET /api/v1/hcbs?country=AE&status=Accredited
+GET /api/v1/hcb/{id}</pre>
+  </div>
+</section>
+
+<section id="contact" class="container section">
+  <div class="panel">
+    <h3>Contact</h3>
+    <p class="muted">For partnerships and enterprise access: <a href="mailto:info@halalintelligence.org">info@halalintelligence.org</a></p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <div class="foot-brand">Halal Intelligence</div>
+      <div class="muted">Directory • Verification • Insights</div>
+    </div>
+    <div>
+      <div class="muted strong">Product</div>
+      <div class="muted"><a href="#directory">Directory</a></div>
+      <div class="muted"><a href="#api">API</a></div>
+    </div>
+    <div>
+      <div class="muted strong">Company</div>
+      <div class="muted"><a href="#contact">Contact</a></div>
+      <div class="muted"><a href="/privacy.html">Privacy</a></div>
+      <div class="muted"><a href="/terms.html">Terms</a></div>
+    </div>
+    <div>
+      <div class="muted strong">Newsletter</div>
+      <form class="newsletter mt-6" action="https://formspree.io/f/yourFormID" method="POST">
+        <input type="email" name="email" placeholder="Work email" required />
+        <button class="btn btn-primary" type="submit">Subscribe</button>
+      </form>
+    </div>
+  </div>
+  <div class="container tiny">© <span id="yr"></span> Halal Intelligence. All rights reserved.</div>
+</footer>
+
+<script src="/assets/main.js" defer></script>
 </body>
 </html>
