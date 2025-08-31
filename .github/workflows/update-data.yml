@@ -1,4 +1,5 @@
 name: Update HCB Data
+
 on:
   schedule:
     - cron: "0 */2 * * *"   # every 2 hours
@@ -8,17 +9,56 @@ jobs:
   build-data:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install deps
+
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml pdfplumber python-dateutil rapidfuzz
+
+      # ===== DEBUG: confirm files/paths =====
+      - name: Show repo tree (debug)
+        run: |
+          echo "Working directory:"
+          pwd
+          echo "Git status:"
+          git status
+          echo "Top-level files:"
+          ls -la
+          echo "First 3 directory levels:"
+          find . -maxdepth 3 -type f | sort
+
+      # ===== SAFETY: ensure data file exists so commit step always has a target =====
+      - name: Ensure data/index.json exists
+        run: |
+          mkdir -p data
+          if [ ! -f data/index.json ]; then
+            echo "[]" > data/index.json
+            echo "Created data/index.json placeholder."
+          else
+            echo "data/index.json already exists."
+          fi
+
+      # ===== RUN THE SCRAPER PIPELINE =====
       - name: Run pipeline
-        run: python scripts/update_data.py
+        run: |
+          set -e
+          echo "Running scripts/update_data.py ..."
+          python scripts/update_data.py
+          echo "Pipeline finished."
+          echo "File size & preview:"
+          wc -c data/index.json || true
+          head -n 50 data/index.json || true
+
+      # ===== COMMIT ONLY IF CHANGED =====
       - name: Commit if data changed
         run: |
           if [[ -n "$(git status --porcelain data/index.json)" ]]; then
@@ -27,6 +67,7 @@ jobs:
             git add data/index.json
             git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
+            echo "Changes pushed."
           else
             echo "No changes to commit."
           fi
