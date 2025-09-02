@@ -995,7 +995,7 @@
   },
   {
     "id": "eiac-al-sarh-medical-analysis-llc-medical-laboratories-accredita",
-    "name": "Al Sarh Medical Analysis LLC Medical Laboratories Accreditation No. LB-MED-320 Initial Accreditation Date May 22, 2025 | Ras Al Khaimah | United Arab Emirates Active",
+    "name": "Al Sarh Medical Analysis LLC Medical Laboratories Accreditation No. LB-MED-320 Initial Accreditation Date May 22, 2025 Ras al khaima - Al Khuzam opposite Rak Mall Office 102 | Ras Al Khaimah Ras a Khaima | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5098,6 +5098,20 @@
   {
     "id": "eiac-halal-quality-control-italia-halal-bodies-accreditation-no.",
     "name": "Halal Quality Control Italia Halal Bodies Accreditation No. HBN-CB-066 Initial Accreditation Date Feb 18, 2022 Viale Giorgio Ribotta 11 | Roma Rome | Italy Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-halal-quality-control-poland-halal-bodies-accreditation-no.",
+    "name": "Halal Quality Control Poland Halal Bodies Accreditation No. HBN-CB-093 Initial Accreditation Date Aug 15, 2025 UL. ŻURAWIA 32 / 34, 00-515 WARSZAWA Poland | Warszawa Mazowieckie | Poland Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10122,20 +10136,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-total-power-technical-services-llc-spc-calibration-laborato",
-    "name": "Total Power Technical Services LLC-SPC Calibration Laboratories Accreditation No. LB-CAL-103 Initial Accreditation Date Dec 31, 2024 | Al Fujairah City | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-total-quality-halal-correct-certification-(tqhcc)-halal-bod",
     "name": "Total Quality Halal Correct Certification (TQHCC) Halal Bodies Accreditation No. HBN-CB-034 Initial Accreditation Date Jul 25, 2018 | Leiden | United Arab Emirates Active",
     "country": "",
@@ -10333,7 +10333,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
