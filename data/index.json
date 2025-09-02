@@ -462,6 +462,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-al-abbar-laboratory-for-research-&-medical-analysis-medsole",
+    "name": "Al Abbar Laboratory for Research & Medical Analysis-Medsole  Group Medical Laboratories Accreditation No. LB-MED-012 Initial Accreditation Date Feb 17, 2010 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-al-ahli-hospital-company-llc-branch-1-medical-laboratories-",
     "name": "Al Ahli Hospital Company LLC Branch 1 Medical Laboratories Accreditation No. LB-MED-221 Initial Accreditation Date Oct 26, 2020 | Musaffah | United Arab Emirates Active",
     "country": "",
@@ -1821,7 +1835,7 @@
   },
   {
     "id": "eiac-bscic-certifications-pvt.-ltd.-certification-bodies-managem",
-    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 | Haryana | India Active",
+    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-017 Initial Accreditation Date Dec 08, 2009 | Haryana | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1835,21 +1849,7 @@
   },
   {
     "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-FSMS-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5391,7 +5391,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-OHSMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5405,7 +5405,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-FSMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6511,7 +6511,7 @@
   },
   {
     "id": "eiac-life-line-safety-consultancy-inspection-bodies-accreditatio",
-    "name": "Life Line Safety Consultancy Inspection Bodies Accreditation No. IB-231 Initial Accreditation Date Mar 08, 2024 | Dubai | United Arab Emirates Active",
+    "name": "Life Line Safety Consultancy Inspection Bodies Accreditation No. IB-231 Initial Accreditation Date Mar 08, 2024 R03 , AL MULLA PLAZA , DUBAI | Dubai AL NAHDA 1 | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8485,7 +8485,7 @@
   },
   {
     "id": "eiac-promax-safety-training-inspection-bodies-accreditation-no.-",
-    "name": "Promax Safety Training Inspection Bodies Accreditation No. IB-243 Initial Accreditation Date Dec 12, 2024 | Dubai | United Arab Emirates Active",
+    "name": "Promax Safety Training Inspection Bodies Accreditation No. IB-243 Initial Accreditation Date Dec 12, 2024 127, City Bay Business Center, Abu Hail, Dubai | Dubai Deira | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
