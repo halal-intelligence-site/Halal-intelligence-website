@@ -742,8 +742,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-hoty-stanger-laboratories-testing-laboratories-accredita",
-    "name": "Al Hoty Stanger Laboratories Testing Laboratories Accreditation No. LB-TEST-023 Initial Accreditation Date Jul 18, 2007 | Abu Dhabi | United Arab Emirates Active",
+    "id": "eiac-al-hoty-stanger-laboratory-l.l.c-testing-laboratories-accre",
+    "name": "Al Hoty Stanger Laboratory L.L.C Testing Laboratories Accreditation No. LB-TEST-023 Initial Accreditation Date Jul 18, 2007 ICAD, Mussafah, Abu Dhabi - United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1835,7 +1835,7 @@
   },
   {
     "id": "eiac-bscic-certifications-pvt.-ltd.-certification-bodies-managem",
-    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-017 Initial Accreditation Date Dec 08, 2009 | Haryana | India Active",
+    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 | Haryana | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1849,7 +1849,21 @@
   },
   {
     "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-FSMS-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-10",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5391,7 +5405,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-OHSMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5405,7 +5419,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-FSMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
