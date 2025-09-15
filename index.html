@@ -1,139 +1,176 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Halal Intelligence — Accredited Halal Certification Bodies</title>
-  <meta name="description" content="Global, verified directory of accredited Halal Certification Bodies. Search, filter, verify, and subscribe to updates.">
-  <link rel="icon" href="/assets/logo.svg">
-  <link rel="stylesheet" href="/assets/style.css" />
-</head>
-<body>
-<header class="header">
-  <div class="container nav">
-    <a class="brand" href="/">
-      <img class="logo" src="/assets/logo.svg" alt="Halal Intelligence logo" />
-      <div class="brand-text">Halal <span class="brand-accent">Intelligence</span></div>
-    </a>
-    <nav class="menu">
-      <a href="#directory">Directory</a>
-      <a href="#api">API</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </div>
-</header>
+// assets/main.js
 
-<section class="hero">
-  <div class="container hero-inner">
-    <div>
-      <span class="pill">Verified • Evidence-linked • Global</span>
-      <h1>Find & Verify <span class="gradient-text">Accredited Halal Bodies</span></h1>
-      <p class="lead">Filter by country, accreditation body, scope, and status. Ratings are based on number of accreditations.</p>
-      <div class="kpis">
-        <div class="kpi"><b id="kpiTotal">—</b><div class="kpi-caption">Total HCBs</div></div>
-        <div class="kpi"><b id="kpiVerified">—</b><div class="kpi-caption">Active / Verified</div></div>
-        <div class="kpi"><b id="kpiUpdated">—</b><div class="kpi-caption">Last dataset update</div></div>
-      </div>
-      <div class="panel mt-12">
-        <div class="filters">
-          <select id="country"><option value="">Country</option></select>
-          <select id="ab"><option value="">Accreditation Body</option></select>
-          <select id="status">
-            <option value="">Status</option>
-            <option>Accredited</option><option>Suspended</option><option>Withdrawn</option><option>Expired</option>
-          </select>
-        </div>
-        <div class="searchbar">
-          <input id="q" placeholder="Search name, scope, website…" aria-label="Search" />
-          <select id="scope"><option value="">Scope</option></select>
-          <select id="sort">
-            <option value="rating">Sort: Trust rating</option>
-            <option value="name">Sort: Name (A→Z)</option>
-            <option value="recent">Sort: Last Verified</option>
-          </select>
-        </div>
-        <div class="range-row">
-          <label for="minA" class="muted">Minimum # of accreditations: <b id="minAVal">0</b></label>
-          <input id="minA" type="range" min="0" max="5" value="0" />
-        </div>
-        <div class="row mt-8">
-          <button class="btn btn-dark" onclick="resetFilters()">Reset Filters</button>
-          <button class="btn btn-primary" onclick="window.location.hash='#contact'">Contact</button>
-        </div>
-      </div>
-    </div>
-    <div class="ad ad-h56">Hero Ad (970×250)</div>
-  </div>
-</section>
+// Load dataset
+async function loadDataset() {
+  try {
+    const resp = await fetch("data/index.json");
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    return await resp.json();
+  } catch (err) {
+    console.error("Failed to load dataset:", err);
+    return [];
+  }
+}
 
-<main id="directory" class="container layout">
-  <aside class="aside">
-    <div class="panel">
-      <div class="muted strong">Sidebar Ad (300×250)</div>
-      <div class="ad ad-h40 mt-6">Ad Slot</div>
-    </div>
-    <div class="panel mt-12">
-      <div class="muted strong">Why trust us?</div>
-      <ul class="bullets">
-        <li>Evidence link to official source on every record</li>
-        <li>Two-stage change detection for accuracy</li>
-        <li>Enterprise API & webhooks (coming)</li>
-      </ul>
-    </div>
-  </aside>
+// ---------- Build Filters ----------
 
-  <section class="content">
-    <div class="ad ad-h24">Leaderboard Ad (728×90)</div>
-    <div class="muted mt-8">Showing <b id="countShown">—</b> of <b id="countTotal">—</b> HCBs</div>
-    <div id="grid" class="grid mt-8" role="region" aria-live="polite"></div>
-    <div class="ad ad-h24 mt-12">In-feed Ad</div>
-  </section>
-</main>
+// Country filter
+function buildCountryOptions(records, selectEl) {
+  const countries = new Map();
 
-<section id="api" class="container section">
-  <div class="panel">
-    <h3>Developer API (Preview)</h3>
-    <p class="muted">Programmatic access to our unified registry. Webhooks for SAP/ERP vendor monitoring.</p>
-<pre class="code">GET /api/v1/hcbs?country=AE&status=Accredited
-GET /api/v1/hcb/{id}</pre>
-  </div>
-</section>
+  records.forEach(r => {
+    const country = (r.country || "").trim();
+    const cc = (r.cc || "").trim();
+    if (!country) return;
 
-<section id="contact" class="container section">
-  <div class="panel">
-    <h3>Contact</h3>
-    <p class="muted">For partnerships and enterprise access: <a href="mailto:info@halalintelligence.org">info@halalintelligence.org</a></p>
-  </div>
-</section>
+    const label = cc ? `${country} (${cc})` : country;
+    countries.set(country.toLowerCase(), label);
+  });
 
-<footer class="footer">
-  <div class="container footer-grid">
-    <div>
-      <div class="foot-brand">Halal Intelligence</div>
-      <div class="muted">Directory • Verification • Insights</div>
-    </div>
-    <div>
-      <div class="muted strong">Product</div>
-      <div class="muted"><a href="#directory">Directory</a></div>
-      <div class="muted"><a href="#api">API</a></div>
-    </div>
-    <div>
-      <div class="muted strong">Company</div>
-      <div class="muted"><a href="#contact">Contact</a></div>
-      <div class="muted"><a href="/privacy.html">Privacy</a></div>
-      <div class="muted"><a href="/terms.html">Terms</a></div>
-    </div>
-    <div>
-      <div class="muted strong">Newsletter</div>
-      <form class="newsletter mt-6" action="https://formspree.io/f/yourFormID" method="POST">
-        <input type="email" name="email" placeholder="Work email" required />
-        <button class="btn btn-primary" type="submit">Subscribe</button>
-      </form>
-    </div>
-  </div>
-  <div class="container tiny">© <span id="yr"></span> Halal Intelligence. All rights reserved.</div>
-</footer>
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All countries";
+  selectEl.appendChild(allOpt);
 
-<script src="/assets/main.js" defer></script>
-</body>
-</html>
+  [...countries.values()]
+    .sort((a, b) => a.localeCompare(b))
+    .forEach(label => {
+      const opt = document.createElement("option");
+      opt.value = label.replace(/\s*\([A-Z]{2}\)$/, ""); // store pure name
+      opt.textContent = label;
+      selectEl.appendChild(opt);
+    });
+}
+
+// Accreditation Body filter
+function buildAccBodyOptions(records, selectEl) {
+  const bodies = new Set();
+  records.forEach(r => {
+    if (r.accreditation_body) bodies.add(r.accreditation_body.trim());
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All bodies";
+  selectEl.appendChild(allOpt);
+
+  [...bodies].sort().forEach(body => {
+    const opt = document.createElement("option");
+    opt.value = body;
+    opt.textContent = body;
+    selectEl.appendChild(opt);
+  });
+}
+
+// Status filter
+function buildStatusOptions(records, selectEl) {
+  const statuses = new Set();
+  records.forEach(r => {
+    if (r.status) statuses.add(r.status.trim());
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All statuses";
+  selectEl.appendChild(allOpt);
+
+  [...statuses].sort().forEach(status => {
+    const opt = document.createElement("option");
+    opt.value = status;
+    opt.textContent = status;
+    selectEl.appendChild(opt);
+  });
+}
+
+// Scope filter
+function buildScopeOptions(records, selectEl) {
+  const scopes = new Set();
+  records.forEach(r => {
+    if (r.scope) scopes.add(r.scope.trim());
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All scopes";
+  selectEl.appendChild(allOpt);
+
+  [...scopes].sort().forEach(scope => {
+    const opt = document.createElement("option");
+    opt.value = scope;
+    opt.textContent = scope;
+    selectEl.appendChild(opt);
+  });
+}
+
+// ---------- Render List ----------
+function renderList(records, container) {
+  container.innerHTML = "";
+
+  if (!records.length) {
+    container.textContent = "No records found.";
+    return;
+  }
+
+  records.forEach(r => {
+    const div = document.createElement("div");
+    div.className = "hcb-card";
+    div.innerHTML = `
+      <h3>${r.name || "Unknown"}</h3>
+      <p><strong>Country:</strong> ${r.country || ""}</p>
+      <p><strong>Accreditation Body:</strong> ${r.accreditation_body || ""}</p>
+      <p><strong>Status:</strong> ${r.status || ""}</p>
+      <p><strong>Scope:</strong> ${r.scope || ""}</p>
+    `;
+    container.appendChild(div);
+  });
+}
+
+// ---------- Filtering ----------
+function applyFilters(data) {
+  const country = document.querySelector("#filter-country")?.value || "";
+  const body = document.querySelector("#filter-body")?.value || "";
+  const status = document.querySelector("#filter-status")?.value || "";
+  const scope = document.querySelector("#filter-scope")?.value || "";
+
+  return data.filter(r => {
+    if (country && r.country && !r.country.toLowerCase().includes(country.toLowerCase())) {
+      return false;
+    }
+    if (body && r.accreditation_body !== body) return false;
+    if (status && r.status !== status) return false;
+    if (scope && r.scope !== scope) return false;
+    return true;
+  });
+}
+
+// ---------- Init ----------
+(async function init() {
+  const data = await loadDataset();
+  if (!data.length) return;
+
+  const countrySel = document.querySelector("#filter-country");
+  const bodySel = document.querySelector("#filter-body");
+  const statusSel = document.querySelector("#filter-status");
+  const scopeSel = document.querySelector("#filter-scope");
+  const container = document.querySelector("#results");
+
+  if (countrySel) buildCountryOptions(data, countrySel);
+  if (bodySel) buildAccBodyOptions(data, bodySel);
+  if (statusSel) buildStatusOptions(data, statusSel);
+  if (scopeSel) buildScopeOptions(data, scopeSel);
+
+  function update() {
+    const filtered = applyFilters(data);
+    renderList(filtered, container);
+  }
+
+  [countrySel, bodySel, statusSel, scopeSel].forEach(sel => {
+    if (sel) sel.addEventListener("change", update);
+  });
+
+  update();
+})();
