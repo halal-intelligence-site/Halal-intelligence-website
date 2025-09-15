@@ -1,111 +1,176 @@
-const $ = (id)=>document.getElementById(id);
-
-const grid   = $('grid');
-const q      = $('q');
-const country= $('country');
-const ab     = $('ab');
-const status = $('status');
-const scope  = $('scope');
-const minA   = $('minA');
-const sort   = $('sort');
-const minAVal= $('minAVal');
-
-document.getElementById('yr') && (document.getElementById('yr').textContent = new Date().getFullYear());
-
-const ABS    = ['GAC','EIAC','JAKIM','BPJPH','SFDA','MUIS','HAK','IMANOR'];
-const SCOPES = ['Food','Slaughter','Cosmetics','Pharma','Logistics','Management Systems'];
-
-ABS.forEach(x=> ab.appendChild(new Option(x, x)));
-SCOPES.forEach(x=> scope.appendChild(new Option(x, x)));
-
-let DATA = [];  // loaded from /data/index.json
-
-function starSVG(fill){return `<svg viewBox="0 0 20 20" width="16" height="16" fill="${fill}" aria-hidden="true"><path d="M10 1.5l2.59 5.25 5.8.84-4.19 4.09.99 5.78L10 14.98 4.81 17.46l.99-5.78L1.6 7.59l5.8-.84L10 1.5z"/></svg>`}
-function toneStatus(s){ if(s==='Accredited') return '#e6f4ff'; if(s==='Suspended') return '#fff7e6'; if(s==='Withdrawn') return '#ffe6e6'; return '#eef2ff'; }
-
-function render(list){
-  grid.innerHTML='';
-  list.forEach(h=>{
-    const stars = Array.from({length:5}).map((_,i)=> starSVG(i < Math.min(5,h.accs.length) ? '#fbbf24' : '#e5e7eb')).join('');
-    const card = document.createElement('div');
-    card.className='card';
-    card.innerHTML = `
-      <div style="display:flex;justify-content:space-between;gap:8px">
-        <div style="min-width:0">
-          <div style="font-weight:800">${h.name}</div>
-          <div class="meta" title="${h.country}">${h.country}</div>
-        </div>
-        <div class="stars" aria-label="rating">${stars}</div>
-      </div>
-      <div class="tags">
-        ${h.accs.map(a=>`<span class="badge" style="background:#e7f8ee;border-color:#c8f0d7;color:#166534">Accredited: ${a}</span>`).join('')}
-        ${h.scopes.map(s=>`<span class="badge" style="background:#f3e8ff;border-color:#ead8ff;color:#6b21a8">${s}</span>`).join('')}
-        <span class="badge" style="background:${toneStatus(h.status)}">${h.status}</span>
-      </div>
-      <div class="meta">Last verified: ${new Date(h.lastVerified).toLocaleDateString()}</div>
-      <div class="actions">
-        <a class="meta" href="${h.site || '#'}" target="_blank" rel="noreferrer">Official site</a>
-        <button class="btn btn-dark" onclick="alert('Details coming soon')">View details</button>
-      </div>`;
-    grid.appendChild(card);
-  });
-  $('countShown') && ($('countShown').textContent = list.length);
-}
-
-function apply(){
-  const query = q.value.trim().toLowerCase();
-  let list = DATA.filter(d=>{
-    const matchesQ = !query || (d.name+' '+d.country+' '+d.scopes.join(' ')+' '+d.accs.join(' ')+' '+(d.site||'')).toLowerCase().includes(query);
-    const matchesC = !country.value || d.cc===country.value;
-    const matchesAB = !ab.value || d.accs.includes(ab.value);
-    const matchesS = !status.value || d.status===status.value;
-    const matchesScope = !scope.value || d.scopes.includes(scope.value);
-    const matchesMin = d.accs.length >= +minA.value;
-    return matchesQ && matchesC && matchesAB && matchesS && matchesScope && matchesMin;
-  });
-  if (sort.value==='rating') list.sort((a,b)=> b.accs.length - a.accs.length);
-  if (sort.value==='name')   list.sort((a,b)=> a.name.localeCompare(b.name));
-  if (sort.value==='recent') list.sort((a,b)=> +new Date(b.lastVerified) - +new Date(a.lastVerified));
-  render(list);
-  minAVal.textContent = minA.value;
-}
-
-function resetFilters(){
-  q.value=''; country.value=''; ab.value=''; status.value=''; scope.value='';
-  minA.value=0; sort.value='rating'; apply();
-}
-
-[q,country,ab,status,scope,minA,sort].forEach(el=> el.addEventListener('input', apply));
+// assets/main.js
 
 // Load dataset
-(async function loadData(){
+async function loadDataset() {
   try {
-    const res = await fetch('/data/index.json', { cache: 'no-store' });
-    const json = await res.json();
-    DATA = json;
-
-    // Populate Country options
-    const pairs = [...new Set(DATA.map(d=>`${d.cc}|${d.country}`))];
-    pairs.sort((a,b)=> a.split('|')[1].localeCompare(b.split('|')[1]))
-      .forEach(s=>{
-        const [cc,n]=s.split('|');
-        country.appendChild(new Option(n, cc));
-      });
-
-    // KPIs
-    const kpiTotal = document.getElementById('kpiTotal');
-    const kpiVerified = document.getElementById('kpiVerified');
-    const kpiUpdated = document.getElementById('kpiUpdated');
-    const countTotal = document.getElementById('countTotal');
-
-    if (kpiTotal) kpiTotal.textContent   = DATA.length;
-    if (kpiVerified) kpiVerified.textContent= DATA.filter(d=>d.status==='Accredited').length;
-    if (kpiUpdated) kpiUpdated.textContent = new Date(Math.max(...DATA.map(d=>+new Date(d.lastVerified)))).toLocaleDateString();
-    if (countTotal) countTotal.textContent = DATA.length;
-
-    apply();
-  } catch (e){
-    grid.innerHTML = `<div class="card">Failed to load data/index.json. Please add that file to your repo.</div>`;
-    console.error(e);
+    const resp = await fetch("data/index.json");
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    return await resp.json();
+  } catch (err) {
+    console.error("Failed to load dataset:", err);
+    return [];
   }
+}
+
+// ---------- Build Filters ----------
+
+// Country filter
+function buildCountryOptions(records, selectEl) {
+  const countries = new Map();
+
+  records.forEach(r => {
+    const country = (r.country || "").trim();
+    const cc = (r.cc || "").trim();
+    if (!country) return;
+
+    const label = cc ? `${country} (${cc})` : country;
+    countries.set(country.toLowerCase(), label);
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All countries";
+  selectEl.appendChild(allOpt);
+
+  [...countries.values()]
+    .sort((a, b) => a.localeCompare(b))
+    .forEach(label => {
+      const opt = document.createElement("option");
+      opt.value = label.replace(/\s*\([A-Z]{2}\)$/, ""); // store pure name
+      opt.textContent = label;
+      selectEl.appendChild(opt);
+    });
+}
+
+// Accreditation Body filter
+function buildAccBodyOptions(records, selectEl) {
+  const bodies = new Set();
+  records.forEach(r => {
+    if (r.accreditation_body) bodies.add(r.accreditation_body.trim());
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All bodies";
+  selectEl.appendChild(allOpt);
+
+  [...bodies].sort().forEach(body => {
+    const opt = document.createElement("option");
+    opt.value = body;
+    opt.textContent = body;
+    selectEl.appendChild(opt);
+  });
+}
+
+// Status filter
+function buildStatusOptions(records, selectEl) {
+  const statuses = new Set();
+  records.forEach(r => {
+    if (r.status) statuses.add(r.status.trim());
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All statuses";
+  selectEl.appendChild(allOpt);
+
+  [...statuses].sort().forEach(status => {
+    const opt = document.createElement("option");
+    opt.value = status;
+    opt.textContent = status;
+    selectEl.appendChild(opt);
+  });
+}
+
+// Scope filter
+function buildScopeOptions(records, selectEl) {
+  const scopes = new Set();
+  records.forEach(r => {
+    if (r.scope) scopes.add(r.scope.trim());
+  });
+
+  selectEl.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "All scopes";
+  selectEl.appendChild(allOpt);
+
+  [...scopes].sort().forEach(scope => {
+    const opt = document.createElement("option");
+    opt.value = scope;
+    opt.textContent = scope;
+    selectEl.appendChild(opt);
+  });
+}
+
+// ---------- Render List ----------
+function renderList(records, container) {
+  container.innerHTML = "";
+
+  if (!records.length) {
+    container.textContent = "No records found.";
+    return;
+  }
+
+  records.forEach(r => {
+    const div = document.createElement("div");
+    div.className = "hcb-card";
+    div.innerHTML = `
+      <h3>${r.name || "Unknown"}</h3>
+      <p><strong>Country:</strong> ${r.country || ""}</p>
+      <p><strong>Accreditation Body:</strong> ${r.accreditation_body || ""}</p>
+      <p><strong>Status:</strong> ${r.status || ""}</p>
+      <p><strong>Scope:</strong> ${r.scope || ""}</p>
+    `;
+    container.appendChild(div);
+  });
+}
+
+// ---------- Filtering ----------
+function applyFilters(data) {
+  const country = document.querySelector("#filter-country")?.value || "";
+  const body = document.querySelector("#filter-body")?.value || "";
+  const status = document.querySelector("#filter-status")?.value || "";
+  const scope = document.querySelector("#filter-scope")?.value || "";
+
+  return data.filter(r => {
+    if (country && r.country && !r.country.toLowerCase().includes(country.toLowerCase())) {
+      return false;
+    }
+    if (body && r.accreditation_body !== body) return false;
+    if (status && r.status !== status) return false;
+    if (scope && r.scope !== scope) return false;
+    return true;
+  });
+}
+
+// ---------- Init ----------
+(async function init() {
+  const data = await loadDataset();
+  if (!data.length) return;
+
+  const countrySel = document.querySelector("#filter-country");
+  const bodySel = document.querySelector("#filter-body");
+  const statusSel = document.querySelector("#filter-status");
+  const scopeSel = document.querySelector("#filter-scope");
+  const container = document.querySelector("#results");
+
+  if (countrySel) buildCountryOptions(data, countrySel);
+  if (bodySel) buildAccBodyOptions(data, bodySel);
+  if (statusSel) buildStatusOptions(data, statusSel);
+  if (scopeSel) buildScopeOptions(data, scopeSel);
+
+  function update() {
+    const filtered = applyFilters(data);
+    renderList(filtered, container);
+  }
+
+  [countrySel, bodySel, statusSel, scopeSel].forEach(sel => {
+    if (sel) sel.addEventListener("change", update);
+  });
+
+  update();
 })();
