@@ -1835,7 +1835,7 @@
   },
   {
     "id": "eiac-bscic-certifications-pvt.-ltd.-certification-bodies-managem",
-    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 | Haryana | India Active",
+    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-017 Initial Accreditation Date Dec 08, 2009 | Haryana | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1849,21 +1849,7 @@
   },
   {
     "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-18",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-FSMS-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5237,7 +5223,7 @@
   },
   {
     "id": "eiac-health-plus-medical-laboratory-l.l.c-medical-laboratories-a",
-    "name": "Health Plus Medical Laboratory L.L.C Medical Laboratories Accreditation No. LB-MED-237 Initial Accreditation Date Oct 05, 2021 | Zayed City | United Arab Emirates Active",
+    "name": "Health Plus Medical Laboratory L.L.C Medical Laboratories Accreditation No. LB-MED-237 Initial Accreditation Date Oct 05, 2021 Street # 11 | Haza Bin Zayed Street | Al Karama  Abu Dhabi | United Arab Emirates | Zayed City Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7659,7 +7645,7 @@
   },
   {
     "id": "eiac-national-reference-laboratory-(nrl)-at-healthpoint-hospital",
-    "name": "National Reference Laboratory (NRL) at Healthpoint Hospital Medical Laboratories Accreditation No. LB-MED-098 Initial Accreditation Date Mar 02, 2017 | Abu Dhabi | United Arab Emirates Active",
+    "name": "National Reference Laboratory (NRL) at Healthpoint Hospital Medical Laboratories Accreditation No. LB-MED-098 Initial Accreditation Date Mar 02, 2017 Zayed Sports City Abu Dhabi |- United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7673,7 +7659,21 @@
   },
   {
     "id": "eiac-national-reference-laboratory-(nrl)-at-icad-abu-dhabi-medic",
-    "name": "National Reference Laboratory (NRL) at ICAD Abu Dhabi Medical Laboratories Accreditation No. LB-MED-096 Initial Accreditation Date Feb 19, 2017 | Abu Dhabi | United Arab Emirates Active",
+    "name": "National Reference Laboratory (NRL) at ICAD Abu Dhabi Medical Laboratories Accreditation No. LB-MED-096 Initial Accreditation Date Feb 19, 2017 Abu Dhabi Business Hub | Unit C25/26 | ICAD 1 | P.O. Box 92323 Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-18",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-national-reference-laboratory-(nrl)-at-icldc-abu-dhabi-medi",
+    "name": "National Reference Laboratory (NRL) at ICLDC Abu Dhabi Medical Laboratories Accreditation No. LB-MED-107 Initial Accreditation Date Mar 09, 2017 Bedside Zayed Military Hosp | Al Khaleej Al Arabi Street (30th)  Abu Dhabi 48338 | United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7687,7 +7687,7 @@
   },
   {
     "id": "eiac-national-reference-laboratory-(nrl)-at-icldc-al-ain-medical",
-    "name": "National Reference Laboratory (NRL) at ICLDC Al Ain Medical Laboratories Accreditation No. LB-MED-106 Initial Accreditation Date Mar 09, 2017 | Al Ain | United Arab Emirates Active",
+    "name": "National Reference Laboratory (NRL) at ICLDC Al Ain Medical Laboratories Accreditation No. LB-MED-106 Initial Accreditation Date Mar 09, 2017 Tawam Medical City | Tawam Roundabout  Al Ain 22464 | United Arab Emirates | Al Ain Al Ain | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9003,7 +9003,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-FSMS-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-BCMS-007 Initial Accreditation Date May 06, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
