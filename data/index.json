@@ -5405,7 +5405,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-OHSMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5419,7 +5419,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-FSMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6469,7 +6469,21 @@
   },
   {
     "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
-    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-QMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
+    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-FSMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-18",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
+    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-HACCP-009 Initial Accreditation Date May 21, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9003,7 +9017,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-HACCP-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-FSMS-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
