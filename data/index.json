@@ -6441,21 +6441,7 @@
   },
   {
     "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
-    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-FSMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-19",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
-    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-HACCP-009 Initial Accreditation Date May 21, 2009 | Dubai | United Arab Emirates Active",
+    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-QMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7015,7 +7001,7 @@
   },
   {
     "id": "eiac-mediclinic--madinat-zayed-clinic-laboratory-medical-laborat",
-    "name": "Mediclinic  Madinat Zayed Clinic Laboratory Medical Laboratories Accreditation No. LB-MED-166 Initial Accreditation Date Jun 19, 2018 | Abu Dhabi | United Arab Emirates Active",
+    "name": "Mediclinic  Madinat Zayed Clinic Laboratory Medical Laboratories Accreditation No. LB-MED-166 Initial Accreditation Date Jun 19, 2018 Western Region | Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7029,7 +7015,21 @@
   },
   {
     "id": "eiac-mediclinic-airport-road-hospital-laboratory-medical-laborat",
-    "name": "Mediclinic Airport Road Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-168 Initial Accreditation Date Jun 19, 2018 | Abu Dhabi | United Arab Emirates Active",
+    "name": "Mediclinic Airport Road Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-168 Initial Accreditation Date Jun 19, 2018 Airport Road | Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-mediclinic-al-ain-hospital-laboratory-medical-laboratories-",
+    "name": "Mediclinic Al Ain Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-167 Initial Accreditation Date Jun 19, 2018 Al Mada Complex Khalifa Street  Al Ain | United Arab Emirates | Al Ain Al Ain | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7043,7 +7043,21 @@
   },
   {
     "id": "eiac-mediclinic-al-jowhara-hospital-laboratory-medical-laborator",
-    "name": "Mediclinic Al Jowhara Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-169 Initial Accreditation Date Jun 19, 2018 | Al Ain | United Arab Emirates Active",
+    "name": "Mediclinic Al Jowhara Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-169 Initial Accreditation Date Jun 19, 2018 AL Jimmi | Al Jowhara Al Ain | United Arab Emirates | Al Ain Al Ain | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-mediclinic-al-noor-hospital-laboratory-medical-laboratories",
+    "name": "Mediclinic Al Noor Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-170 Initial Accreditation Date Jun 19, 2018 Khalifa Street Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7057,7 +7071,7 @@
   },
   {
     "id": "eiac-mediclinic-city-hospital,-dhcc-medical-laboratories-accredi",
-    "name": "Mediclinic City Hospital, DHCC Medical Laboratories Accreditation No. LB-MED-015 Initial Accreditation Date May 23, 2010 | Dubai | United Arab Emirates Active",
+    "name": "Mediclinic City Hospital, DHCC Medical Laboratories Accreditation No. LB-MED-015 Initial Accreditation Date May 23, 2010 Building 37 | Ground Floor | Dubai Healthcare City Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7071,7 +7085,7 @@
   },
   {
     "id": "eiac-mediclinic-dubai-mall-medical-laboratories-accreditation-no",
-    "name": "Mediclinic Dubai Mall Medical Laboratories Accreditation No. LB-MED-042 Initial Accreditation Date Mar 20, 2013 | Dubai | United Arab Emirates Active",
+    "name": "Mediclinic Dubai Mall Medical Laboratories Accreditation No. LB-MED-042 Initial Accreditation Date Mar 20, 2013 Level 7 | Fashion Parking | The Dubai Mall Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7085,7 +7099,7 @@
   },
   {
     "id": "eiac-mediclinic-park-view-hospital-laboratory-medical-laboratori",
-    "name": "Mediclinic Park View Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-246 Initial Accreditation Date Mar 02, 2022 | Dubai | United Arab Emirates Active",
+    "name": "Mediclinic Park View Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-246 Initial Accreditation Date Mar 02, 2022 Umm Sequim | Al Barsha South 3 Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9913,7 +9927,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-FSMS-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10459,7 +10473,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-OHSMS-020 Initial Accreditation Date Nov 13, 2023 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
