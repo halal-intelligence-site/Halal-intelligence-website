@@ -4004,6 +4004,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-fahss-w.l.l-certification-bodies-management-systems-accredi",
+    "name": "FAHSS W.L.L Certification Bodies Management systems Accreditation No. CB-ISMS-011 Initial Accreditation Date Dec 23, 2024 Mezzanine Floor | Danat Tower A | Airport Road | PO Box No. 46030 Abu Dhabi–United Arab Emirates | AbuDhabi Abu Dhabi Emirate | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-24",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-facade-development-services-co-wll-testing-laboratories-acc",
     "name": "Facade Development Services Co WLL Testing Laboratories Accreditation No. LB-TEST-143 Initial Accreditation Date Apr 28, 2016 Gate 167A/ Road 4903 | Al Muaskar Riffa | Bahrain Active",
     "country": "",
@@ -9802,20 +9816,6 @@
   {
     "id": "eiac-tuv-apex-standardization-certifications-certification-bodie",
     "name": "TUV Apex Standardization Certifications Certification Bodies Management systems Accreditation No. CB-QMS-101 Initial Accreditation Date Nov 25, 2022 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-24",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tuv-middle-east-certification-bodies-management-systems-acc",
-    "name": "TUV Middle East Certification Bodies Management systems Accreditation No. CB-ISMS-011 Initial Accreditation Date Dec 23, 2024 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
