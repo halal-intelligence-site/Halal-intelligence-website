@@ -2576,6 +2576,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-covenant-halal-services-llc.-halal-bodies-accreditation-no.",
+    "name": "Covenant Halal Services LLC. Halal Bodies Accreditation No. HBN-CB-074 Initial Accreditation Date Sep 20, 2022 | Roswell | United States Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-28",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-crown-star-nondestructive-testing-services-llc-inspection-b",
     "name": "Crown Star Nondestructive Testing Services LLC Inspection Bodies Accreditation No. IB-248 Initial Accreditation Date Mar 30, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -4886,6 +4900,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-halal-center,-russia-halal-bodies-accreditation-no.-hbn-cb-",
+    "name": "Halal Center, Russia Halal Bodies Accreditation No. HBN-CB-069 Initial Accreditation Date Mar 15, 2022 | Moscow | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-28",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-halal-certification-europe-(hce)-halal-bodies-accreditation",
     "name": "Halal Certification Europe (HCE) Halal Bodies Accreditation No. HBN-CB-092 Initial Accreditation Date Aug 15, 2025 4 Stoughton Road, Oadby, Leicester, LE2 4DS | Leicester Leicestershire | United Kingdom Active",
     "country": "",
@@ -6469,21 +6497,7 @@
   },
   {
     "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
-    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-FSMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-28",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
-    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-HACCP-009 Initial Accreditation Date May 21, 2009 | Dubai | United Arab Emirates Active",
+    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-QMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9045,7 +9059,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-FSMS-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-BCMS-007 Initial Accreditation Date May 06, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9200,20 +9214,6 @@
   {
     "id": "eiac-samaa-assisted-fertilization-center-healthcare-providers-ac",
     "name": "Samaa Assisted Fertilization Center Healthcare Providers Accreditation No. HCO-001 Initial Accreditation Date Sep 16, 2021 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-09-28",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-sanimed-international-lab-medical-laboratories-accreditatio",
-    "name": "Sanimed International Lab Medical Laboratories Accreditation No. LB-MED-333 Initial Accreditation Date Aug 04, 2025 5th Floor | King Faisal 2 building | Qutadah Bin A | Sharjah Sharjah Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10487,7 +10487,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-OHSMS-020 Initial Accreditation Date Nov 13, 2023 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
