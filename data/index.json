@@ -2380,6 +2380,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-certification-center-halal-llc-halal-bodies-accreditation-n",
+    "name": "Certification Center Halal LLC Halal Bodies Accreditation No. HBN-CB-030 Initial Accreditation Date May 10, 2018 | Kyiv | Ukraine Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-09-29",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-chemical-analysis-laboratories-section-dubai-central-labora",
     "name": "Chemical Analysis Laboratories Section Dubai Central Laboratory Department Dubai Municipality Testing Laboratories Accreditation No. LB-TEST-205 Initial Accreditation Date Jul 15, 2022 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -5433,7 +5447,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-OHSMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5447,7 +5461,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
+    "name": "IMQ Gulf FZCO Certification Bodies Management systems Accreditation No. CB-FSMS-102 Initial Accreditation Date Jul 15, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9941,7 +9955,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-FSMS-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10487,7 +10501,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-OHSMS-020 Initial Accreditation Date Nov 13, 2023 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
