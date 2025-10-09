@@ -1779,21 +1779,7 @@
   },
   {
     "id": "eiac-bm-trada-ventures-llc-certification-bodies-management-syste",
-    "name": "BM Trada Ventures LLC Certification Bodies Management systems Accreditation No. CB-EMS-019 Initial Accreditation Date Sep 29, 2015 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-10-09",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-bm-trada-ventures-llc-certification-bodies-management-syste",
-    "name": "BM Trada Ventures LLC Certification Bodies Management systems Accreditation No. CB-HACCP-019 Initial Accreditation Date Feb 02, 2010 | Dubai | United Arab Emirates Active",
+    "name": "BM Trada Ventures LLC Certification Bodies Management systems Accreditation No. CB-FSMS-019 Initial Accreditation Date Feb 02, 2010 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4046,8 +4032,36 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-fahss-w.l.l-abu-dhabi-inspection-bodies-accreditation-no.-i",
+    "name": "FAHSS W.L.L Abu Dhabi Inspection Bodies Accreditation No. IB-092 Initial Accreditation Date Mar 23, 2013 | Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-10-09",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-fahss-w.l.l-certification-bodies-management-systems-accredi",
     "name": "FAHSS W.L.L Certification Bodies Management systems Accreditation No. CB-ISMS-011 Initial Accreditation Date Dec 23, 2024 Mezzanine Floor | Danat Tower A | Airport Road | PO Box No. 46030 Abu Dhabi–United Arab Emirates | AbuDhabi Abu Dhabi Emirate | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-10-09",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-fahss-w.l.l-dubai-branch-inspection-bodies-accreditation-no",
+    "name": "FAHSS W.L.L Dubai Branch Inspection Bodies Accreditation No. IB-010 Initial Accreditation Date Feb 13, 2006 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9969,7 +9983,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-FSMS-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-QMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
