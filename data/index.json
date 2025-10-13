@@ -98,6 +98,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-accuver-safety-consultancy-llc-inspection-bodies-accreditat",
+    "name": "ACCUVER SAFETY CONSULTANCY LLC Inspection Bodies Accreditation No. IB-222 Initial Accreditation Date Mar 02, 2023 Warehouse C-44, Industrial Area-01, | Dubai Al Qusais | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-10-13",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-acu-men-international-fzc-dubai-branch-inspection-bodies-ac",
     "name": "ACU MEN INTERNATIONAL FZC DUBAI BRANCH Inspection Bodies Accreditation No. IB-044 Initial Accreditation Date Mar 19, 2013 Office 501, Al Barsha Business Center, Al Barsha 1, Dubai | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -338,20 +352,6 @@
   {
     "id": "eiac-accutech-automation-fzco-calibration-laboratories-accredita",
     "name": "Accutech Automation FZCO Calibration Laboratories Accreditation No. LB-CAL-016 Initial Accreditation Date Sep 23, 2013 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-10-13",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-accuver-safety-consultancy-inspection-bodies-accreditation-",
-    "name": "Accuver Safety Consultancy Inspection Bodies Accreditation No. IB-222 Initial Accreditation Date Mar 02, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
