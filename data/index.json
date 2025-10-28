@@ -812,20 +812,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-mahasin-calibration-devices-llc-calibration-laboratories",
-    "name": "Al Mahasin Calibration Devices LLC Calibration Laboratories Accreditation No. LB-CAL-083 Initial Accreditation Date Jun 14, 2020 | Sharjah | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-10-28",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-al-marfa-hospital-laboratory-pure-lab-group-medical-laborat",
     "name": "Al Marfa Hospital Laboratory-Pure Lab Group Medical Laboratories Accreditation No. LB-MED-295 Initial Accreditation Date May 31, 2024 | Al Dhafra | United Arab Emirates Active",
     "country": "",
@@ -9073,7 +9059,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-BCMS-007 Initial Accreditation Date May 06, 2024 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-HACCP-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
