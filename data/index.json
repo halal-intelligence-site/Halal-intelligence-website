@@ -5096,20 +5096,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-halal-quality-control-group,-hungary-halal-bodies-accredita",
-    "name": "Halal Quality Control Group, Hungary Halal Bodies Accreditation No. HBN-CB-078 Initial Accreditation Date Nov 25, 2022 | Budapest | Hungary Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-10-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-halal-quality-control-group--belgium-halal-bodies-accredita",
     "name": "Halal Quality Control Group- Belgium Halal Bodies Accreditation No. HBN-CB-043 Initial Accreditation Date Jan 21, 2025 | Antwerp | Belgium Active",
     "country": "",
@@ -9059,7 +9045,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-HACCP-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-BCMS-007 Initial Accreditation Date May 06, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9969,7 +9955,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-HACCP-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-QMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10543,7 +10529,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
