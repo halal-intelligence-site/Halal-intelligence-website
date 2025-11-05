@@ -1807,7 +1807,7 @@
   },
   {
     "id": "eiac-bscic-certifications-pvt.-ltd.-certification-bodies-managem",
-    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
+    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-OHSMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5110,8 +5110,22 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-halal-quality-control-group--germany-halal-bodies-accredita",
+    "name": "Halal Quality Control Group- Germany Halal Bodies Accreditation No. HBN-CB-042 Initial Accreditation Date Jan 21, 2019 | Osnabrück | Germany Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-05",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-halal-quality-control-group--the-netherlands-halal-bodies-a",
-    "name": "Halal Quality Control Group- The Netherlands Halal Bodies Accreditation No. HBN-CB-041 Initial Accreditation Date Jan 21, 2019 | The Hague | United Arab Emirates Active",
+    "name": "Halal Quality Control Group- The Netherlands Halal Bodies Accreditation No. HBN-CB-041 Initial Accreditation Date Jan 21, 2019 Laan van Meerdervoort 53d | 2517 AE | Den Haag | The Netherlands | Den haag Europe | Netherlands Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5742,6 +5756,20 @@
   {
     "id": "eiac-instruserv-middle-east-services-l.l.c.-calibration-laborato",
     "name": "Instruserv Middle East Services L.L.C. Calibration Laboratories Accreditation No. LB-CAL-044 Initial Accreditation Date Nov 24, 2016 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-05",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-integrated-safety-international-services-llc-inspection-bod",
+    "name": "Integrated Safety International Services LLC Inspection Bodies Accreditation No. IB-164 Initial Accreditation Date Jun 27, 2019 | Muscat | Oman Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9955,7 +9983,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-HACCP-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
