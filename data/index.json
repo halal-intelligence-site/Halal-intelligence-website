@@ -714,20 +714,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-hoty-stanger-laboratories-icad-halal-bodies-accreditatio",
-    "name": "Al Hoty Stanger Laboratories ICAD Halal Bodies Accreditation No. HB-TEST-002 Initial Accreditation Date Mar 10, 2019 | Abu Dhabi | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-07",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-al-hoty-stanger-laboratories-llc-testing-laboratories-accre",
     "name": "Al Hoty Stanger Laboratories LLC Testing Laboratories Accreditation No. LB-TEST-001 Initial Accreditation Date May 13, 2002 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -1765,7 +1751,21 @@
   },
   {
     "id": "eiac-bm-trada-ventures-llc-certification-bodies-management-syste",
-    "name": "BM Trada Ventures LLC Certification Bodies Management systems Accreditation No. CB-FSMS-019 Initial Accreditation Date Feb 02, 2010 | Dubai | United Arab Emirates Active",
+    "name": "BM Trada Ventures LLC Certification Bodies Management systems Accreditation No. CB-EMS-019 Initial Accreditation Date Sep 29, 2015 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-07",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-bm-trada-ventures-llc-certification-bodies-management-syste",
+    "name": "BM Trada Ventures LLC Certification Bodies Management systems Accreditation No. CB-HACCP-019 Initial Accreditation Date Feb 02, 2010 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3054,6 +3054,20 @@
   {
     "id": "eiac-dubai-aluminum-company-ltd.-clinic-medical-laboratories-acc",
     "name": "Dubai Aluminum Company LTD. Clinic Medical Laboratories Accreditation No. LB-MED-287 Initial Accreditation Date Mar 13, 2024 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-07",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-dubai-central-laboratory-department---dubai-municipality-ha",
+    "name": "Dubai Central Laboratory Department - Dubai Municipality Halal Bodies Accreditation No. HB-TEST-001 Initial Accreditation Date Sep 07, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4480,20 +4494,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-geoscience-testing-laboratory-halal-bodies-accreditation-no",
-    "name": "Geoscience Testing laboratory Halal Bodies Accreditation No. HB-TEST-003 Initial Accreditation Date Mar 12, 2019 P.O. Box 61670, Plot No. 531-519, Dubai Industrial City, Dubai UAE | Dubai United Arab Emirates | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-07",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-geoscience-testing-laboratory-testing-laboratories-accredit",
     "name": "Geoscience Testing laboratory Testing Laboratories Accreditation No. LB-TEST-003 Initial Accreditation Date Jun 05, 2002 P.O. Box 61670, Plot No. 531-519, Dubai Industrial City, Dubai UAE | Dubai United Arab Emirates | United Arab Emirates Active",
     "country": "",
@@ -5376,20 +5376,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-holistic-international-testing-services-fz-llc-halal-bodies",
-    "name": "Holistic International Testing Services FZ LLC Halal Bodies Accreditation No. HB-TEST-005 Initial Accreditation Date Jun 27, 2022 Unit G04-A1,Ground floor | Dubai UAE | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-07",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-holistic-international-testing-services-fz-llc-testing-labo",
     "name": "Holistic International Testing Services FZ LLC Testing Laboratories Accreditation No. LB-TEST-096 Initial Accreditation Date Mar 03, 2014 Unit G04-A1,Ground floor | Dubai UAE | United Arab Emirates Active",
     "country": "",
@@ -5447,7 +5433,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5700,20 +5686,6 @@
   {
     "id": "eiac-inspection-and-control-department-–-ministry-of-energy-and-",
     "name": "Inspection and Control Department – Ministry of Energy and Infrastructure Inspection Bodies Accreditation No. IB-233 Initial Accreditation Date May 22, 2024 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-07",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-inspectorate-international-limited-halal-bodies-accreditati",
-    "name": "Inspectorate International Limited Halal Bodies Accreditation No. HB-TEST-004 Initial Accreditation Date Oct 17, 2019 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6483,7 +6455,7 @@
   },
   {
     "id": "eiac-lms-certifications-pvt.-ltd.-certification-bodies-managemen",
-    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
+    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9969,7 +9941,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-FSMS-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
