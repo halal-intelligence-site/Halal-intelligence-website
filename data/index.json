@@ -8806,6 +8806,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-robust-certifications-private-limited-certification-bodies-",
+    "name": "ROBUST CERTIFICATIONS PRIVATE LIMITED Certification Bodies Management systems Accreditation No. CB-QMS-115 Initial Accreditation Date Nov 05, 2025 H-15, SECTOR 63, GB NAGAR, NOIDA, GAUTAM BUDDHA NA | Noida Uttar Pradesh | India Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-13",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-rohs-certification-private-limited-certification-bodies-man",
     "name": "ROHS Certification Private Limited Certification Bodies Management systems Accreditation No. CB-FSMS-035 Initial Accreditation Date Dec 30, 2012 | Delhi | India Active",
     "country": "",
@@ -9045,7 +9059,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-BCMS-007 Initial Accreditation Date May 06, 2024 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-HACCP-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
