@@ -2786,6 +2786,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-dymer-india-certifications-pvt-ltd-certification-bodies-man",
+    "name": "DYMER INDIA CERTIFICATIONS PVT LTD Certification Bodies Management systems Accreditation No. CB-QMS-085 Initial Accreditation Date Nov 07, 2018 Office No B503-B507|5th Floor| Vraj Life Space| Front of RTO Office| Peth Road| Nashik 422003| Maharashtra| India | Maharashtra Nashik | India Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-14",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-dalma-island-hospital-laboratory-pure-lab-group-medical-lab",
     "name": "Dalma Island hospital Laboratory-Pure Lab Group Medical Laboratories Accreditation No. LB-MED-289 Initial Accreditation Date May 31, 2024 | Al Dhafra | United Arab Emirates Active",
     "country": "",
@@ -2928,20 +2942,6 @@
   {
     "id": "eiac-development-&-research-academy-for-sports-science-activitie",
     "name": "Development & Research Academy for Sports Science Activities (DRASSA) Certification Bodies Persons certification Accreditation No. CB-PRS-023 Initial Accreditation Date Jan 04, 2018 Office 406, Al Serkal Building 1, Al Khabaisi St. | Dubai Deira | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-14",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-dims-services-private-limited-certification-bodies-manageme",
-    "name": "Dims Services Private Limited Certification Bodies Management systems Accreditation No. CB-QMS-085 Initial Accreditation Date Nov 07, 2018 | Maharashtra | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9941,7 +9941,7 @@
   },
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-FSMS-040 Initial Accreditation Date Mar 30, 2017 | Dubai | United Arab Emirates Active",
+    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
