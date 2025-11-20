@@ -1232,6 +1232,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-american-halal-foundation-halal-bodies-accreditation-no.-hb",
+    "name": "American Halal Foundation Halal Bodies Accreditation No. HBN-CB-097 Initial Accreditation Date Oct 28, 2025 | | United States Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-apex-aerospace-fze-dubai-branch-calibration-laboratories-ac",
     "name": "Apex Aerospace FZE Dubai Branch Calibration Laboratories Accreditation No. LB-CAL-036 Initial Accreditation Date Mar 17, 2016 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -1402,6 +1416,20 @@
   {
     "id": "eiac-aries-testing-laboratory-llc-(branch)-testing-laboratories-",
     "name": "Aries Testing laboratory LLC (Branch) Testing Laboratories Accreditation No. LB-TEST-251 Initial Accreditation Date Jul 25, 2023 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-art-fertility-clinics-l.l.c.-al-ain-branch-medical-laborato",
+    "name": "Art Fertility Clinics L.L.C. Al Ain Branch Medical Laboratories Accreditation No. LB-MED-338 Initial Accreditation Date Oct 17, 2025 Hamdan Bin Mohammad Street | 61 Al Tamam Street  A | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2296,6 +2324,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-cellsave-arabia-biobanking-accreditation-no.-lb-biob-002-in",
+    "name": "CellSave Arabia Biobanking Accreditation No. LB-BIOB-002 Initial Accreditation Date Oct 28, 2025 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-centaur-4-safety-calibration-laboratories-accreditation-no.",
     "name": "Centaur 4 Safety Calibration Laboratories Accreditation No. LB-CAL-094 Initial Accreditation Date Jun 01, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -2564,20 +2606,6 @@
   {
     "id": "eiac-cosmesurge-plastic-surgery-hospital-and-clinics-llc-medical",
     "name": "Cosmesurge Plastic Surgery Hospital and Clinics LLC Medical Laboratories Accreditation No. LB-MED-308 Initial Accreditation Date Dec 13, 2024 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-20",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-covenant-halal-services-llc.-halal-bodies-accreditation-no.",
-    "name": "Covenant Halal Services LLC. Halal Bodies Accreditation No. HBN-CB-074 Initial Accreditation Date Sep 20, 2022 | Roswell | United States Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4774,20 +4802,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-hafsa-halal-halal-bodies-accreditation-no.-hbn-cb-073-initi",
-    "name": "HAFSA Halal Halal Bodies Accreditation No. HBN-CB-073 Initial Accreditation Date Jun 03, 2022 | Rotterdam | Caribbean Netherlands Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-11-20",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-halal-control-gmbh-halal-bodies-accreditation-no.-hbn-cb-08",
     "name": "HALAL CONTROL GmbH Halal Bodies Accreditation No. HBN-CB-085 Initial Accreditation Date Apr 18, 2025 Stahlstrasse 44 | Ruesselsheim am Main Hessen | Germany Active",
     "country": "",
@@ -5908,6 +5922,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-islamic-co-ordinating-council-of-victoria-pl.-iccv-halal-bo",
+    "name": "Islamic Co-ordinating Council of Victoria PL. ICCV Halal Bodies Accreditation No. HBN-CB-094 Initial Accreditation Date Sep 15, 2025 | | Australia Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-islamic-community-in-croatia-center-halal-bodies-accreditat",
     "name": "Islamic Community in Croatia Center Halal Bodies Accreditation No. HBN-CB-004 Initial Accreditation Date Feb 26, 2017 | Zagreb | Croatia Active",
     "country": "",
@@ -6092,6 +6120,20 @@
   {
     "id": "eiac-joramco-in-house-calibration-shop-(jcs)-calibration-laborat",
     "name": "Joramco In-House Calibration Shop (JCS) Calibration Laboratories Accreditation No. LB-CAL-059 Initial Accreditation Date Oct 11, 2017 | Amman | Jordan Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-jordan-standards-and-metrology-organization-jsmo--certifica",
+    "name": "Jordan Standards and Metrology Organization JSMO- Certification Department Halal Bodies Accreditation No. HBN-CB-068 Initial Accreditation Date Mar 02, 2022 | Amman | Jordan Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9688,6 +9730,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-steps-polyclinic-llc-medical-laboratories-accreditation-no.",
+    "name": "Steps Polyclinic LLC Medical Laboratories Accreditation No. LB-MED-337 Initial Accreditation Date Oct 16, 2025 Al Sharhan Building | Al Nahda 2nd Dubai | United | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-strainstall-middle-east-testing-laboratories-accreditation-",
     "name": "StrainStall Middle East Testing Laboratories Accreditation No. LB-TEST-103 Initial Accreditation Date Jun 01, 2014 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -10529,7 +10585,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-OHSMS-020 Initial Accreditation Date Nov 13, 2023 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
