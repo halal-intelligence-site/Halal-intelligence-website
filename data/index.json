@@ -1050,6 +1050,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-al-taweelah-medical-center-l.l.c-medical-laboratories-accre",
+    "name": "Al Taweelah Medical Center L.L.C Medical Laboratories Accreditation No. LB-MED-336 Initial Accreditation Date Oct 16, 2025 Emirates Global Aluminium | Khalifa Industrial Cit | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-26",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-al-wagan-hospital-laboratory-medical-laboratories-accredita",
     "name": "Al Wagan Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-307 Initial Accreditation Date Oct 10, 2024 | Al Ain City | United Arab Emirates Active",
     "country": "",
