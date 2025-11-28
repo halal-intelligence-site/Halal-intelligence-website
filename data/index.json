@@ -1849,7 +1849,7 @@
   },
   {
     "id": "eiac-bscic-certifications-pvt.-ltd.-certification-bodies-managem",
-    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
+    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1863,7 +1863,21 @@
   },
   {
     "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-FSMS-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-11-28",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4341,7 +4355,7 @@
   },
   {
     "id": "eiac-gcq-quality-certification-services-l.l.c-certification-bodi",
-    "name": "GCQ Quality Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-HACCP-056 Initial Accreditation Date Oct 26, 2015 Office 109, Al Fahad building NO. 4, Damascus Street, Al Qusais 2, P.O. BOX:115380 Dubai - UAE | Dubai Dubai | United Arab Emirates Active",
+    "name": "GCQ Quality Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-FSMS-056 Initial Accreditation Date Nov 29, 2020 Office 109, Al Fahad building NO. 4, Damascus Street, Al Qusais 2, P.O. BOX:115380 Dubai - UAE | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10627,7 +10641,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
