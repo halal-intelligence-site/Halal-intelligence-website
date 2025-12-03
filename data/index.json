@@ -4998,6 +4998,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-halal-certification-authority-pty-ltd-halal-bodies-accredit",
+    "name": "Halal Certification Authority Pty Ltd Halal Bodies Accreditation No. HBN-CB-098 Initial Accreditation Date Nov 19, 2025 Level 5 | 90 Pitt Street | Sydney NSW 2000 | Sydney NSW 2000 Sydney NSW 2000 | Australia Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-12-03",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-halal-certification-europe-(hce)-halal-bodies-accreditation",
     "name": "Halal Certification Europe (HCE) Halal Bodies Accreditation No. HBN-CB-092 Initial Accreditation Date Aug 15, 2025 4 Stoughton Road, Oadby, Leicester, LE2 4DS | Leicester Leicestershire | United Kingdom Active",
     "country": "",
