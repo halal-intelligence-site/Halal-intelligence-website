@@ -8428,6 +8428,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-prime-4-inspection-petroleum-services-ltd-inspection-bodies",
+    "name": "Prime 4 Inspection Petroleum Services LTD Inspection Bodies Accreditation No. IB-174 Initial Accreditation Date Oct 08, 2019 Flat Tower 1301, Sky Tower, Al Reem Island  Abu Dhabi-United Arab Emirates | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-12-08",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-prime-certification-&-inspection-llc-certification-bodies-m",
     "name": "Prime Certification & Inspection LLC Certification Bodies Management systems Accreditation No. CB-FSMS-063 Initial Accreditation Date Sep 01, 2016 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -8584,20 +8598,6 @@
   {
     "id": "eiac-prime-specialist-medical-center-llc-medical-laboratories-ac",
     "name": "Prime Specialist Medical Center LLC Medical Laboratories Accreditation No. LB-MED-330 Initial Accreditation Date Jul 31, 2025 | Sharjah | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-12-08",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-prime4-inspection-petroleum-services-llc-inspection-bodies-",
-    "name": "Prime4 Inspection Petroleum Services LLC Inspection Bodies Accreditation No. IB-174 Initial Accreditation Date Oct 08, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10655,7 +10655,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
