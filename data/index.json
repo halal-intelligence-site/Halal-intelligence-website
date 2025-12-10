@@ -2450,8 +2450,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-chemical-analysis-laboratories-section-dubai-central-labora",
-    "name": "Chemical Analysis Laboratories Section Dubai Central Laboratory Department Dubai Municipality Testing Laboratories Accreditation No. LB-TEST-205 Initial Accreditation Date Jul 15, 2022 | Dubai | United Arab Emirates Active",
+    "id": "eiac-chemical-analysis-laboratories-section,-dubai-central-labor",
+    "name": "Chemical Analysis Laboratories Section, Dubai Central Laboratory Department, Dubai Municipality Testing Laboratories Accreditation No. LB-TEST-205 Initial Accreditation Date Jul 15, 2022 Dubai, Zaabeel Rd, Karama Area | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2732,6 +2732,20 @@
   {
     "id": "eiac-dnv-as-inspection-bodies-accreditation-no.-ib-095-initial-a",
     "name": "DNV AS Inspection Bodies Accreditation No. IB-095 Initial Accreditation Date Sep 01, 2014 AUH | Abu Dhabi AUH | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-12-10",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-dnv-doha-llc-inspection-bodies-accreditation-no.-ib-258-ini",
+    "name": "DNV Doha LLC Inspection Bodies Accreditation No. IB-258 Initial Accreditation Date Nov 27, 2025 Zone 66 | Street 100 | Building 121 | 1st Floor | | Doha Doha | Qatar Active",
     "country": "",
     "cc": null,
     "scopes": [],
