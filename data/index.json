@@ -1848,22 +1848,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bms-certification-private-limited-certification-bodies-mana",
-    "name": "BMS Certification Private Limited Certification Bodies Management systems Accreditation No. CB-QMS-005 Initial Accreditation Date Feb 10, 2009 | Lawrence Road | India Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-12-23",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-bscic-certifications-pvt.-ltd.-certification-bodies-managem",
-    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
+    "name": "BSCIC Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1877,21 +1863,7 @@
   },
   {
     "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-12-23",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-FSMS-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
