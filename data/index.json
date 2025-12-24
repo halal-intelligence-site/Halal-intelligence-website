@@ -5517,7 +5517,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6356,20 +6356,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ksr-certification-llp-certification-bodies-management-syste",
-    "name": "KSR Certification LLP Certification Bodies Management systems Accreditation No. CB-QMS-107 Initial Accreditation Date May 07, 2024 | Nanauta | India Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-12-24",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-kvqa-certification-services-pvt.-ltd.-certification-bodies-",
     "name": "KVQA Certification Services PVT. LTD. Certification Bodies Management systems Accreditation No. CB-HACCP-045 Initial Accreditation Date Jan 09, 2019 | Noida | India Active",
     "country": "",
@@ -6567,7 +6553,7 @@
   },
   {
     "id": "eiac-lms-certifications-pvt.-ltd.-certification-bodies-managemen",
-    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
+    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10669,7 +10655,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
