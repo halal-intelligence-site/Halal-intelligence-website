@@ -238,6 +238,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-aber-vehicle-registration-service-llc-inspection-bodies-acc",
+    "name": "Aber Vehicle Registration Service LLC Inspection Bodies Accreditation No. IB-256 Initial Accreditation Date Sep 29, 2025 Al Faya Truck Road 2 | Saih Shuaib 2 | Dubai Indus | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-12-25",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-abhath-weights-and-measuring-laboratory-calibration-laborat",
     "name": "Abhath Weights and Measuring Laboratory Calibration Laboratories Accreditation No. LB-CAL-014 Initial Accreditation Date Sep 22, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
