@@ -5026,6 +5026,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-halal-certification-agency---hca-vietnam-halal-bodies-accre",
+    "name": "Halal Certification Agency - HCA Vietnam Halal Bodies Accreditation No. HBN-CB-099 Initial Accreditation Date Dec 11, 2025 | Hanoi Cau Giay District | Vietnam Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2025-12-29",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-halal-certification-authority-pty-ltd-halal-bodies-accredit",
     "name": "Halal Certification Authority Pty Ltd Halal Bodies Accreditation No. HBN-CB-098 Initial Accreditation Date Nov 19, 2025 Level 5 | 90 Pitt Street | Sydney NSW 2000 | Sydney NSW 2000 Sydney NSW 2000 | Australia Active",
     "country": "",
@@ -9688,20 +9702,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-sievert-emirates-inspection-llc-inspection-bodies-accredita",
-    "name": "Sievert Emirates Inspection LLC Inspection Bodies Accreditation No. IB-180 Initial Accreditation Date Mar 08, 2020 | Abu Dhabi | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2025-12-29",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-sika-mb-construction-chemicals-l.l.c-testing-laboratories-a",
     "name": "Sika MB Construction Chemicals L.L.C Testing Laboratories Accreditation No. LB-TEST-260 Initial Accreditation Date May 27, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -10711,7 +10711,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
