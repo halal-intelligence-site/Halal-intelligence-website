@@ -5684,6 +5684,34 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-itmad-certification-services-l.l.c-inspection-bodies-accred",
+    "name": "ITMAD Certification Services L.L.C Inspection Bodies Accreditation No. IB-055 Initial Accreditation Date Feb 06, 2014 208, Dream Building 2, Damascus Street, Al Qusais Industrial Are 4 | Dubai Al Qusais Ind 4 | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-itmad-certification-services-l.l.c-inspection-bodies-accred",
+    "name": "ITMAD Certification Services L.L.C Inspection Bodies Accreditation No. IB-121 Initial Accreditation Date Nov 01, 2017 Musaffah 32/1 | P. O. Box 8266 Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-ibn-nafees-medical-center-laboratory-medical-laboratories-a",
     "name": "Ibn Nafees Medical Center Laboratory Medical Laboratories Accreditation No. LB-MED-114 Initial Accreditation Date Mar 22, 2017 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
@@ -9310,20 +9338,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-swtuv-standardization-certifications-llc-inspection-bodies-",
-    "name": "SWTUV Standardization Certifications LLC Inspection Bodies Accreditation No. IB-055 Initial Accreditation Date Feb 06, 2014 208, Dream Building 2, Damascus Street, Al Qusais Industrial Are 4 | Dubai Al Qusais Ind 4 | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-safety-skills-training-dmcc-certification-bodies-persons-ce",
     "name": "Safety Skills Training DMCC Certification Bodies Persons certification Accreditation No. CB-PRS-015 Initial Accreditation Date Apr 11, 2017 Office 508, The Dome Tower, Cluster N | Dubai Jumeirah Lake Towers | United Arab Emirates Active",
     "country": "",
@@ -10166,20 +10180,6 @@
   {
     "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
     "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tuv-sw-standardization-certifications-inspection-bodies-acc",
-    "name": "TUV SW Standardization Certifications Inspection Bodies Accreditation No. IB-121 Initial Accreditation Date Nov 01, 2017 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
