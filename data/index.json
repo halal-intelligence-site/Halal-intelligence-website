@@ -2227,7 +2227,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-certification-bodies-management-syst",
-    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-FSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4998,6 +4998,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-hqc-europe,-s.l.-halal-bodies-accreditation-no.-hbn-cb-067-",
+    "name": "HQC Europe, S.L. Halal Bodies Accreditation No. HBN-CB-067 Initial Accreditation Date Feb 22, 2022 Spain Paseo de La Castellana 194, C.P. 28046 Madrid Spain Tel: +34 +34 626 164 724 /919 04 97 60 PO Box/Zip Code: 28046 Madrid | Paseo de La Cas Paseo de La Cas | Spain Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-20",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-halal-assurance-and-quality-greece-haq---greece-halal-bodie",
     "name": "Halal Assurance and Quality Greece HAQ - Greece Halal Bodies Accreditation No. HBN-CB-063 Initial Accreditation Date Sep 30, 2021 | Thermi | Greece Active",
     "country": "",
@@ -5280,20 +5294,6 @@
   {
     "id": "eiac-halal-quality-control-group--the-netherlands-halal-bodies-a",
     "name": "Halal Quality Control Group- The Netherlands Halal Bodies Accreditation No. HBN-CB-041 Initial Accreditation Date Jan 21, 2019 Laan van Meerdervoort 53d | 2517 AE | Den Haag | The Netherlands | Den haag Europe | Netherlands Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-20",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-halal-quality-control-group-spain-halal-bodies-accreditatio",
-    "name": "Halal Quality Control Group-Spain Halal Bodies Accreditation No. HBN-CB-067 Initial Accreditation Date Feb 22, 2022 | Paseo de La Cas | Spain Active",
     "country": "",
     "cc": null,
     "scopes": [],
