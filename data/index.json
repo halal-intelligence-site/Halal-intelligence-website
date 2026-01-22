@@ -4970,20 +4970,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-hcab's-logo",
-    "name": "HCAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-hcc-east-african-halal-confirmation-center-limited-halal-bo",
     "name": "HCC East African Halal Confirmation Center Limited Halal Bodies Accreditation No. HBN-CB-058 Initial Accreditation Date Nov 26, 2020 Jomo Kenyatta International Airport (J.K.I.A) | Cargo Village | Orako Building 3rd Floor | Nairobi | Kenya | Nairobi Nairobi | Kenya Active",
     "country": "",
@@ -5206,20 +5192,6 @@
     "lastVerified": "2026-01-22",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-halal-logo",
-    "name": "Halal Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-halal-quality-control-(hqc)---france-halal-bodies-accredita",
@@ -6606,20 +6578,6 @@
     "lastVerified": "2026-01-22",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-lab's-logo",
-    "name": "LAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-labax-chemical-&-biological-laboratory-l.l.c-testing-labora",
@@ -8160,118 +8118,6 @@
     "lastVerified": "2026-01-22",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&-warehousing-serv",
-    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION & WAREHOUSING SERVICES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-1:2019-food",
-    "name": "OIC/SMIIC 1:2019 FOOD",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-34:2020-certification-of-persons-involved-in-the-h",
-    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS INVOLVED IN THE HALAL RELATED ACTIVITIES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-35:2020-laboratories-performing-halal-testing",
-    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING HALAL TESTING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-36:2020-the-proficiency-testing-providers-for-hala",
-    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING PROVIDERS FOR HALAL CONFORMITY PURPOSES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-4:2018-cosmetics",
-    "name": "OIC/SMIIC 4:2018 COSMETICS",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-6:2019-catering",
-    "name": "OIC/SMIIC 6:2019 CATERING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-9:2019-tourism",
-    "name": "OIC/SMIIC 9:2019 TOURISM",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-22",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-omicron-testing-&-research-laboratory-testing-laboratories-",
