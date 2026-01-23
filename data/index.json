@@ -2268,6 +2268,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-caltrols-me-laboratory-calibration-laboratories-accreditati",
+    "name": "Caltrols Me Laboratory Calibration Laboratories Accreditation No. LB-CAL-106 Initial Accreditation Date Dec 24, 2025 LC-6, R/A-8 | Jebel Ali Free Zone | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-23",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-canadian-specialist-hospital-medical-laboratories-accredita",
     "name": "Canadian Specialist Hospital Medical Laboratories Accreditation No. LB-MED-242 Initial Accreditation Date Dec 16, 2021 | Dubai | United Arab Emirates Active",
     "country": "",
