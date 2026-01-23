@@ -2198,6 +2198,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-caltrols-me-laboratory-calibration-laboratories-accreditati",
+    "name": "CALTROLS ME Laboratory Calibration Laboratories Accreditation No. LB-CAL-106 Initial Accreditation Date Dec 24, 2025 LC-6, R/A-8 | Jebel Ali Free Zone | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-23",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-cbi-quality-&-standardization-certificates-issuing-services",
     "name": "CBI Quality & Standardization Certificates Issuing Services L.L.C Certification Bodies Persons certification Accreditation No. CB-PRS-021 Initial Accreditation Date Nov 13, 2018 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -2256,20 +2270,6 @@
   {
     "id": "eiac-cvc-certification-&-testing-co.-ltd-certification-bodies-pr",
     "name": "CVC Certification & Testing Co. LTD Certification Bodies Products certification Accreditation No. CB-PRD-008 Initial Accreditation Date Jan 18, 2023 | Guangzhou | China Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-23",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-caltrols-me-laboratory-calibration-laboratories-accreditati",
-    "name": "Caltrols Me Laboratory Calibration Laboratories Accreditation No. LB-CAL-106 Initial Accreditation Date Dec 24, 2025 LC-6, R/A-8 | Jebel Ali Free Zone | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
