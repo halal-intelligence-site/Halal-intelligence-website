@@ -7938,20 +7938,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-national-reference-laboratory-(nrl)-at-dubai-science-park-m",
-    "name": "National Reference Laboratory (NRL) at Dubai Science Park Medical Laboratories Accreditation No. LB-MED-017 Initial Accreditation Date Jul 07, 2011 Umm Suqeim Road | Al Barsha South | Dubai Biotechnology & Research Park (DuBiotech) | Ground Floor | Lab no. 0013 Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-27",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-national-reference-laboratory-(nrl)-at-healthpoint-hospital",
     "name": "National Reference Laboratory (NRL) at Healthpoint Hospital Medical Laboratories Accreditation No. LB-MED-098 Initial Accreditation Date Mar 02, 2017 Zayed Sports City Abu Dhabi |- United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
@@ -8010,6 +7996,20 @@
   {
     "id": "eiac-national-reference-laboratory-(nrl)-at-icldc-zayed-sports-c",
     "name": "National Reference Laboratory (NRL) at ICLDC Zayed Sports City Medical Laboratories Accreditation No. LB-MED-182 Initial Accreditation Date Mar 24, 2019 | Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-27",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-national-reference-laboratory-(nrl)-at-mh-dubai-medical-lab",
+    "name": "National Reference Laboratory (NRL) at MH Dubai Medical Laboratories Accreditation No. LB-MED-017 Initial Accreditation Date Jul 07, 2011 Umm Suqeim Road | Al Barsha South | Dubai Biotechnology & Research Park (DuBiotech) | Ground Floor | Lab no. 0013 Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
