@@ -8176,8 +8176,22 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&-warehousing-serv",
-    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION & WAREHOUSING SERVICES",
+    "id": "hak-oic/smiic\n\t\t\t\t\t\t\t4:2018-cosmetics",
+    "name": "OIC/SMIIC\n\t\t\t\t\t\t\t4:2018 COSMETICS",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "HAK"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-28",
+    "site": "",
+    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
+  },
+  {
+    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&\n\t\t\t\t\t\t\t\twarehous",
+    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION &\n\t\t\t\t\t\t\t\tWAREHOUSING SERVICES",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8204,8 +8218,8 @@
     "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
-    "id": "hak-oic/smiic-34:2020-certification-of-persons-involved-in-the-h",
-    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS INVOLVED IN THE HALAL RELATED ACTIVITIES",
+    "id": "hak-oic/smiic-34:2020-certification-of-persons\n\t\t\t\t\t\t\t\tinvolved-",
+    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS\n\t\t\t\t\t\t\t\tINVOLVED IN THE HALAL RELATED ACTIVITIES",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8218,8 +8232,8 @@
     "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
-    "id": "hak-oic/smiic-35:2020-laboratories-performing-halal-testing",
-    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING HALAL TESTING",
+    "id": "hak-oic/smiic-35:2020-laboratories-performing\n\t\t\t\t\t\t\t\thalal-test",
+    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING\n\t\t\t\t\t\t\t\tHALAL TESTING",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8232,22 +8246,8 @@
     "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
-    "id": "hak-oic/smiic-36:2020-the-proficiency-testing-providers-for-hala",
-    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING PROVIDERS FOR HALAL CONFORMITY PURPOSES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-01-28",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-4:2018-cosmetics",
-    "name": "OIC/SMIIC 4:2018 COSMETICS",
+    "id": "hak-oic/smiic-36:2020-the-proficiency-testing\n\t\t\t\t\t\t\t\tproviders-",
+    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING\n\t\t\t\t\t\t\t\tPROVIDERS FOR HALAL CONFORMITY PURPOSES",
     "country": "",
     "cc": null,
     "scopes": [],
