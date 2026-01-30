@@ -4466,6 +4466,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-ghc-global-halal-certification-company-limited-halal-bodies",
+    "name": "GHC Global Halal Certification Company Limited Halal Bodies Accreditation No. HBN-CB-100 Initial Accreditation Date Jan 13, 2026 2B3 | Street No. 22 | Quarter 4 | Hiep Binh Ward | | Ho Chi Minh City Vietnam | Vietnam Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-30",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-ghp-testing-and-calibration-lab-testing-laboratories-accred",
     "name": "GHP Testing and Calibration Lab Testing Laboratories Accreditation No. LB-TEST-071 Initial Accreditation Date Sep 13, 2012 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
@@ -5336,6 +5350,20 @@
   {
     "id": "eiac-halal-quality-control-poland-halal-bodies-accreditation-no.",
     "name": "Halal Quality Control Poland Halal Bodies Accreditation No. HBN-CB-093 Initial Accreditation Date Aug 15, 2025 UL. ŻURAWIA 32 / 34, 00-515 WARSZAWA Poland | Warszawa Mazowieckie | Poland Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-01-30",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-halal-standards-committee-of-the-spiritual-board-of-muslims",
+    "name": "Halal Standards Committee of the Spiritual Board of Muslims of the Republic of Tatarstan Halal Bodies Accreditation No. HBN-CB-101 Initial Accreditation Date Jan 28, 2026 22 Magistralnaya Street | Kazan 420108 | Kazan Republic of Tatarstan | Russia Active",
     "country": "",
     "cc": null,
     "scopes": [],
