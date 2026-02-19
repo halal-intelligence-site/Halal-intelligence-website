@@ -2213,7 +2213,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-certification-bodies-management-syst",
-    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-HACCP-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7296,6 +7296,20 @@
   {
     "id": "eiac-medical-park-consultants-one-day-surgery-center-l.l.c-medic",
     "name": "Medical Park Consultants One day surgery center L.L.C Medical Laboratories Accreditation No. LB-MED-185 Initial Accreditation Date Sep 12, 2019 | Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-02-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-medicentres-polyclinic-l.l.c.-medical-laboratories-accredit",
+    "name": "Medicentres Polyclinic L.L.C. Medical Laboratories Accreditation No. LB-MED-276 Initial Accreditation Date Aug 17, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
