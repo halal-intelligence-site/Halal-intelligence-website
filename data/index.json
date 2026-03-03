@@ -1904,6 +1904,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-bulgyo-assessment-india-private-limited-certification-bodie",
+    "name": "BULGYO ASSESSMENT INDIA PRIVATE LIMITED Certification Bodies Management systems Accreditation No. CB-QMS-117 Initial Accreditation Date Feb 25, 2026 | | India Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-03",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-baflah-gold-laboratory-llc-testing-laboratories-accreditati",
     "name": "Baflah Gold Laboratory LLC Testing Laboratories Accreditation No. LB-TEST-155 Initial Accreditation Date Apr 19, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -10837,7 +10851,7 @@
   },
   {
     "id": "eiac-uruguay-islamic-center-halal-bodies-accreditation-no.-hbn-c",
-    "name": "Uruguay Islamic Center Halal Bodies Accreditation No. HBN-CB-036 Initial Accreditation Date Sep 17, 2018 | Montevideo | Uruguay Active",
+    "name": "Uruguay Islamic Center Halal Bodies Accreditation No. HBN-CB-036 Initial Accreditation Date Sep 17, 2018 Soriano 1364 | Montevideo | Uruguay | Montevideo Montevideo | Uruguay Active",
     "country": "",
     "cc": null,
     "scopes": [],
