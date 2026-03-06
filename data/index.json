@@ -5670,6 +5670,48 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-horn-of-africa-livestock-improvement-and-conformity-service",
+    "name": "Horn of Africa Livestock Improvement and Conformity Services (HALICS) Halal Bodies Accreditation No. HBN-CB-064-Kenya Initial Accreditation Date Jan 07, 2022 A1 Ground Floor | Aflah Apartment | Muinami Street | Nairobi Nairobi | Kenya Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-horn-of-africa-livestock-improvement-and-conformity-service",
+    "name": "Horn of Africa Livestock Improvement and Conformity Services (HALICS) Halal Bodies Accreditation No. HBN-CB-064-Tanzania Initial Accreditation Date Jan 07, 2022 Region Dar Es Salam | District Ilala CBD | Ward Ka | Dar es Salaam Dar es Salaam | Tanzania Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-horn-of-africa-livestock-improvement-and-conformity-service",
+    "name": "Horn of Africa Livestock Improvement and Conformity Services (HALICS) Halal Bodies Accreditation No. HBN-CB-064-Uganda Initial Accreditation Date Jan 07, 2022 1st Floor | Lourdel Towers | Lourdel Road | Kampal | Kampala Kampala | Uganda Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
     "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
@@ -9606,6 +9648,20 @@
   {
     "id": "eiac-saudi-industrial-inspection-services-co.-ltd-inspection-bod",
     "name": "Saudi Industrial Inspection Services Co. Ltd Inspection Bodies Accreditation No. IB-062 Initial Accreditation Date Sep 10, 2014 | Al Khobar | Saudi Arabia Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-scalesius-calibration-l.l.c-calibration-laboratories-accred",
+    "name": "Scalesius Calibration L.L.C Calibration Laboratories Accreditation No. LB-CAL-107 Initial Accreditation Date Feb 12, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
