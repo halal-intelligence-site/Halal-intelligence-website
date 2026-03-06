@@ -7840,6 +7840,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-n-m-c-royal-medical-center-medical-laboratories-accreditati",
+    "name": "N M C Royal Medical Center Medical Laboratories Accreditation No. LB-MED-341 Initial Accreditation Date Feb 05, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-n-m-c-specialty-hospital-ltd-medical-laboratories-accredita",
     "name": "N M C Specialty Hospital LTD Medical Laboratories Accreditation No. LB-MED-102 Initial Accreditation Date Mar 02, 2017 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
