@@ -1877,21 +1877,7 @@
   },
   {
     "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-03-09",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-bsi-management-systems-certification-bodies-management-syst",
-    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
+    "name": "BSI Management Systems Certification Bodies Management systems Accreditation No. CB-FSMS-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3473,7 +3459,7 @@
   },
   {
     "id": "eiac-dubai-municipality---public-health-services-department---ha",
-    "name": "Dubai Municipality - Public Health Services Department - Hamriyah Veterinary Diagnostic - Veterinary Laboratories Unit - Veterinary Section Testing Laboratories Accreditation No. LB-TEST-078 Initial Accreditation Date Jul 29, 2013 | Dubai | United Arab Emirates Active",
+    "name": "Dubai Municipality - Public Health Services Department - Hamriyah Veterinary Diagnostic - Veterinary Laboratories Unit - Veterinary Section Testing Laboratories Accreditation No. LB-TEST-078 Initial Accreditation Date Jul 29, 2013 Hamriya Port | Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9928,6 +9914,20 @@
   {
     "id": "eiac-shree-sulaj-envirotech-solutions-inspection-bodies-accredit",
     "name": "Shree Sulaj Envirotech Solutions Inspection Bodies Accreditation No. IB-235 Initial Accreditation Date May 15, 2024 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-09",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-sievert-emirates-inspection-llc-inspection-bodies-accredita",
+    "name": "Sievert Emirates Inspection LLC Inspection Bodies Accreditation No. IB-180 Initial Accreditation Date Mar 08, 2020 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
