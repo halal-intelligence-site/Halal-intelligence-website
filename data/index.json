@@ -196,8 +196,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-abcon-safety-consultancy-inspection-bodies-accreditation-no",
-    "name": "Abcon Safety Consultancy Inspection Bodies Accreditation No. IB-217 Initial Accreditation Date Nov 08, 2022 | Dubai | United Arab Emirates Active",
+    "id": "eiac-abcon-safety-consultancy-llc-inspection-bodies-accreditatio",
+    "name": "Abcon Safety Consultancy LLC Inspection Bodies Accreditation No. IB-217 Initial Accreditation Date Nov 08, 2022 Office no. 01 | First Floor | Abdul Majeed Haji Abdul Rahim Pardesi Offices Plot No. 2127-0 | Nad Al Hamar | Dubai | United Arab | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2241,7 +2241,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-certification-bodies-management-syst",
-    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-HACCP-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4536,8 +4536,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-gia-laboratory-dmcc---dubai-testing-laboratories-accreditat",
-    "name": "GIA Laboratory DMCC - Dubai Testing Laboratories Accreditation No. LB-TEST-274 Initial Accreditation Date Mar 19, 2025 | | United Arab Emirates Active",
+    "id": "eiac-gia-laboratory-fzco-testing-laboratories-accreditation-no.-",
+    "name": "GIA Laboratory FZCO Testing Laboratories Accreditation No. LB-TEST-274 Initial Accreditation Date Mar 19, 2025 Offices 1301 & 1401 | Uptown Tower | First Al Khail Street Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5265,7 +5265,7 @@
   },
   {
     "id": "eiac-halal-italia-srl-halal-bodies-accreditation-no.-hbn-cb-010-",
-    "name": "Halal Italia Srl Halal Bodies Accreditation No. HBN-CB-010 Initial Accreditation Date Jul 09, 2017 | Milan | Italy Active",
+    "name": "Halal Italia Srl Halal Bodies Accreditation No. HBN-CB-010 Initial Accreditation Date Jul 09, 2017 Milan,Italy | Milan MIlan | Italy Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9996,20 +9996,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-sohar-operation-services-laboratory-testing-laboratories-ac",
-    "name": "Sohar Operation Services Laboratory Testing Laboratories Accreditation No. LB-TEST-257 Initial Accreditation Date Feb 13, 2024 Sohar Port, Plot No 21 B | Sohar Port Sohar Port | Oman Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-03-18",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-solas-calibration-services-calibration-laboratories-accredi",
     "name": "Solas Calibration Services Calibration Laboratories Accreditation No. LB-CAL-047 Initial Accreditation Date Jan 12, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -10949,7 +10935,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
