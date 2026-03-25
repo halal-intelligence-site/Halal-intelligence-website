@@ -2380,8 +2380,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-cellsave-arabia-biobanking-accreditation-no.-lb-biob-002-in",
-    "name": "CellSave Arabia Biobanking Accreditation No. LB-BIOB-002 Initial Accreditation Date Oct 28, 2025 | | United Arab Emirates Active",
+    "id": "eiac-cellsave-arabia-biobanking-accreditation-no.-lb-bio-002-ini",
+    "name": "CellSave Arabia Biobanking Accreditation No. LB-BIO-002 Initial Accreditation Date Oct 28, 2025 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3570,20 +3570,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-dulsco-medical-clinic-medical-laboratories-accreditation-no",
-    "name": "Dulsco Medical Clinic Medical Laboratories Accreditation No. LB-MED-264 Initial Accreditation Date Jan 12, 2023 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-03-25",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-durraiya--kamal--medical-clinic-medical-laboratories-accred",
     "name": "Durraiya  Kamal  Medical Clinic Medical Laboratories Accreditation No. LB-MED-259 Initial Accreditation Date Oct 24, 2022 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -4466,8 +4452,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-g42-laboratories-llc-biobanking-accreditation-no.-lb-biob-0",
-    "name": "G42 Laboratories LLC Biobanking Accreditation No. LB-BIOB-001 Initial Accreditation Date Jul 01, 2025 Mohamed Bin Zayed University | Abu Dhabi | United Arab Emirates Active",
+    "id": "eiac-g42-laboratories-llc-biobanking-accreditation-no.-lb-bio-00",
+    "name": "G42 Laboratories LLC Biobanking Accreditation No. LB-BIO-001 Initial Accreditation Date Jul 01, 2025 Mohamed Bin Zayed University | Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9073,7 +9059,7 @@
   },
   {
     "id": "eiac-q-a-i-certification-services-l.l.c-certification-bodies-man",
-    "name": "Q A I Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-QMS-110 Initial Accreditation Date Jan 02, 2025 | Dubai | United Arab Emirates Active",
+    "name": "Q A I Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-OHSMS-110 Initial Accreditation Date Jan 02, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
