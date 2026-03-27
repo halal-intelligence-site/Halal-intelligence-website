@@ -6300,6 +6300,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-itmad-certification-services-l.l.c-certification-bodies-man",
+    "name": "Itmad Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 Office No. 208 | Dream Building 2 | Al Qusais Industrial Area 4 | Damascus Street P. O. Box 232991 | Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-03-27",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-jts-medical-center-laboratory-medical-laboratories-accredit",
     "name": "JTS Medical Center Laboratory Medical Laboratories Accreditation No. LB-MED-062 Initial Accreditation Date Apr 15, 2014 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -9059,7 +9073,7 @@
   },
   {
     "id": "eiac-q-a-i-certification-services-l.l.c-certification-bodies-man",
-    "name": "Q A I Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-OHSMS-110 Initial Accreditation Date Jan 02, 2025 | Dubai | United Arab Emirates Active",
+    "name": "Q A I Certification Services L.L.C Certification Bodies Management systems Accreditation No. CB-QMS-110 Initial Accreditation Date Jan 02, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10348,20 +10362,6 @@
   {
     "id": "eiac-tuv-sud-middle-east-llc-inspection-bodies-accreditation-no.",
     "name": "TUV SUD Middle East LLC Inspection Bodies Accreditation No. IB-011 Initial Accreditation Date Mar 28, 2006 Unit A01-A06, 15th Floor, Tower - A, Empire Heights Building, Abraj Street, Business Bay | Dubai Business Bay | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-03-27",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tuv-sw-standardization-certifications-certification-bodies-",
-    "name": "TUV SW Standardization Certifications Certification Bodies Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
