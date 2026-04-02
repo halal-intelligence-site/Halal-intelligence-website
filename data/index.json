@@ -2058,6 +2058,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-best-life-fertility-center-healthcare-providers-accreditati",
+    "name": "Best Life Fertility Center Healthcare Providers Accreditation No. HCO-010 Initial Accreditation Date Jan 27, 2026 Al Mamzar | Majestic Tower | Sharjah | United Arab | Sharjah Sharjah | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-biohealth-diagnostic-center-medical-laboratories-accreditat",
     "name": "Biohealth Diagnostic Center Medical Laboratories Accreditation No. LB-MED-161 Initial Accreditation Date Apr 23, 2018 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -2129,7 +2143,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-certification-bodies-managemen",
-    "name": "Bureau Veritas Certification Certification Bodies Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification Certification Bodies Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6678,20 +6692,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-kias-safety-consultancy-inspection-bodies-accreditation-no.",
-    "name": "Kias Safety Consultancy Inspection Bodies Accreditation No. IB-012 Initial Accreditation Date Apr 25, 2006 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-04-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-kings-college-hospital-london-br-of-kch-healthcare-llc-medi",
     "name": "Kings College Hospital London Br of KCH Healthcare LLC Medical Laboratories Accreditation No. LB-MED-233 Initial Accreditation Date Aug 03, 2021 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -9604,6 +9604,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-samaa-assisted-fertilization-center-healthcare-providers-ac",
+    "name": "Samaa Assisted Fertilization Center Healthcare Providers Accreditation No. HCO-011 Initial Accreditation Date Feb 27, 2026 Jumeirah 3 | Al Wasl Street Road | Villa No 654  D | Jumeirah Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-sanimed-international-lab-medical-laboratories-accreditatio",
     "name": "Sanimed International Lab Medical Laboratories Accreditation No. LB-MED-333 Initial Accreditation Date Aug 04, 2025 5th Floor | King Faisal 2 building | Qutadah Bin A | Sharjah Sharjah Emirate | United Arab Emirates Active",
     "country": "",
@@ -10893,7 +10907,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-FSMS-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
