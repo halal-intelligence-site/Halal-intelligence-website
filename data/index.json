@@ -6791,7 +6791,21 @@
   },
   {
     "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
-    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-QMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
+    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-FSMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-lrqa-limited-certification-bodies-management-systems-accred",
+    "name": "LRQA Limited Certification Bodies Management systems Accreditation No. CB-HACCP-009 Initial Accreditation Date May 21, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8009,7 +8023,7 @@
   },
   {
     "id": "eiac-national-independent-halaal-trust-halal-bodies-accreditatio",
-    "name": "National Independent Halaal Trust Halal Bodies Accreditation No. HBN-CB-033 Initial Accreditation Date Jul 24, 2018 195 Rose Avenue | Ext 5 Lenasia 1827  Johannesburg | Republic of South Africa | Johannesburg Johannesburg | South Africa Active",
+    "name": "National Independent Halaal Trust Halal Bodies Accreditation No. HBN-CB-033 Initial Accreditation Date Jul 24, 2018 195 Rose Avenue | Ext 3 Lenasia 1827  Johannesburg | Republic of South Africa | Johannesburg Johannesburg | South Africa Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9437,7 +9451,7 @@
   },
   {
     "id": "eiac-sgs-gulf-limited-certification-bodies-management-systems-ac",
-    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-HACCP-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
+    "name": "SGS Gulf Limited Certification Bodies Management systems Accreditation No. CB-FSMS-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10444,6 +10458,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-tawasul-testing-and-inspection-services-inspection-bodies-a",
+    "name": "Tawasul Testing and Inspection Services Inspection Bodies Accreditation No. IB-119 Initial Accreditation Date Sep 07, 2017 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-tawazun-precision-industries-llc-calibration-laboratories-a",
     "name": "Tawazun Precision Industries LLC Calibration Laboratories Accreditation No. LB-CAL-104 Initial Accreditation Date May 15, 2025 Tawazun Industrial Park | Al Ajban Road | Abu Dhab | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
     "country": "",
@@ -10893,7 +10921,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-FMMS-020 Initial Accreditation Date Nov 13, 2023 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-FSMS-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
