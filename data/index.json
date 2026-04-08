@@ -602,8 +602,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-dhaid-hospital-laboratory-pure-health-group-medical-labo",
-    "name": "Al Dhaid Hospital Laboratory Pure Health Group Medical Laboratories Accreditation No. LB-MED-204 Initial Accreditation Date Dec 29, 2019 | Sharjah | United Arab Emirates Active",
+    "id": "eiac-al-dhaid-hospital-laboratory-purelab-north-llc-–-purelab-gr",
+    "name": "Al Dhaid Hospital Laboratory PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-204 Initial Accreditation Date Dec 29, 2019 Dhaid Hospital | Al Dhaid Rd | Near Al Dhaid Public Library | Al Dhaid Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -798,6 +798,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-al-kuwait-hospital-laboratory,-sharjah-purelab-north-llc-–-",
+    "name": "Al Kuwait Hospital Laboratory, Sharjah PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-207 Initial Accreditation Date Dec 29, 2019 Al Kuwait Hospital | Kuwait St | Al Qadisiya Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-08",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-al-mahasin-calibration-devices-llc-calibration-laboratories",
     "name": "Al Mahasin Calibration Devices LLC Calibration Laboratories Accreditation No. LB-CAL-083 Initial Accreditation Date Jun 14, 2020 | Sharjah | United Arab Emirates Active",
     "country": "",
@@ -868,8 +882,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-qassimi-hospital-laboratory-pure-health-group-medical-la",
-    "name": "Al Qassimi Hospital Laboratory-Pure Health Group Medical Laboratories Accreditation No. LB-MED-218 Initial Accreditation Date Jan 09, 2020 | Sharjah | United Arab Emirates Active",
+    "id": "eiac-al-qassimi-hospital-laboratory-purelab-north-llc-–-purelab-",
+    "name": "Al Qassimi Hospital Laboratory PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-218 Initial Accreditation Date Jan 09, 2020 Wasit Street | Mughaidir Suburb Al Khezamia   Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6680,6 +6694,20 @@
   {
     "id": "eiac-khalifa-university-center-for-biotechnology-medical-laborat",
     "name": "Khalifa University Center for Biotechnology Medical Laboratories Accreditation No. LB-MED-257 Initial Accreditation Date Sep 01, 2022 Khalifa University (Main campus) | Center for Biotechnology (B Building – B04042)Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-08",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-khorfakkan-hospital-laboratory-pure-health-group-medical-la",
+    "name": "Khorfakkan Hospital Laboratory Pure Health Group Medical Laboratories Accreditation No. LB-MED-203 Initial Accreditation Date Dec 29, 2019 | Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
