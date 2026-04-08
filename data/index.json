@@ -210,8 +210,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-abdullah-bin-omran-laboratory-pure-health-medical-laborator",
-    "name": "Abdullah Bin Omran Laboratory Pure Health Medical Laboratories Accreditation No. LB-MED-187 Initial Accreditation Date Sep 04, 2019 | Ras Al Khaima | United Arab Emirates Active",
+    "id": "eiac-abdullah-bin-omran-hospital-laboratory--/-purelab-north-llc",
+    "name": "Abdullah Bin Omran Hospital Laboratory  / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-187 Initial Accreditation Date Sep 04, 2019 Airport Road Ras Al Khaima-United Arab Emirates | Ras Al Khaima Ras Al Khaima | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -798,8 +798,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-kuwait-hospital-laboratory,-sharjah-purelab-north-llc-–-",
-    "name": "Al Kuwait Hospital Laboratory, Sharjah PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-207 Initial Accreditation Date Dec 29, 2019 Al Kuwait Hospital | Kuwait St | Al Qadisiya Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
+    "id": "eiac-al-kuwait-hospital-laboratory,-sharjah-/-purelab-north-llc-",
+    "name": "Al Kuwait Hospital Laboratory, Sharjah / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-207 Initial Accreditation Date Dec 29, 2019 Al Kuwait Hospital | Kuwait St | Al Qadisiya Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -882,8 +882,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-qassimi-hospital-laboratory-purelab-north-llc-–-purelab-",
-    "name": "Al Qassimi Hospital Laboratory PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-218 Initial Accreditation Date Jan 09, 2020 Wasit Street | Mughaidir Suburb Al Khezamia   Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
+    "id": "eiac-al-qassimi-hospital-laboratory-/-purelab-north-llc-–-purela",
+    "name": "Al Qassimi Hospital Laboratory / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-218 Initial Accreditation Date Jan 09, 2020 Wasit Street | Mughaidir Suburb Al Khezamia   Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -896,8 +896,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-qassimi-women-and-children-laboratory-pure-health-group-",
-    "name": "Al Qassimi Women and Children Laboratory Pure Health Group Medical Laboratories Accreditation No. LB-MED-213 Initial Accreditation Date Apr 08, 2020 | Dubai | United Arab Emirates Active",
+    "id": "eiac-al-qassimi-women-and-children-laboratory-/-purelab-north-ll",
+    "name": "Al Qassimi Women and Children Laboratory / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-213 Initial Accreditation Date Apr 08, 2020 Al Qassimi Women and Children Hospital Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2633,7 +2633,7 @@
   },
   {
     "id": "eiac-conformity-certification-services-certification-bodies-mana",
-    "name": "Conformity Certification Services Certification Bodies Management systems Accreditation No. CB-QMS-093 Initial Accreditation Date Jun 03, 2020 | Dubai | United Arab Emirates Active",
+    "name": "Conformity Certification Services Certification Bodies Management systems Accreditation No. CB-EMS-093 Initial Accreditation Date Jun 03, 2020 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4466,8 +4466,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-fujairah-hospital-laboratory-medical-laboratories-accredita",
-    "name": "Fujairah Hospital Laboratory Medical Laboratories Accreditation No. LB-MED-258 Initial Accreditation Date Sep 22, 2022 | Al Fujairah City | United Arab Emirates Active",
+    "id": "eiac-fujairah-hospital-laboratory-/-purelab-north-llc-–-purelab-",
+    "name": "Fujairah Hospital Laboratory / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-258 Initial Accreditation Date Sep 22, 2022 Anajaimat Didaa Road Fujairah-United Arab Emirates | Al Fujairah City Al Fujairah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6706,8 +6706,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-khorfakkan-hospital-laboratory-pure-health-group-medical-la",
-    "name": "Khorfakkan Hospital Laboratory Pure Health Group Medical Laboratories Accreditation No. LB-MED-203 Initial Accreditation Date Dec 29, 2019 | Sharjah | United Arab Emirates Active",
+    "id": "eiac-khorfakkan-hospital-laboratory-/-purelab-north-llc-–-purela",
+    "name": "Khorfakkan Hospital Laboratory / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-203 Initial Accreditation Date Dec 29, 2019 Khorfakkan Hospital | Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7184,20 +7184,6 @@
   {
     "id": "eiac-market-surveillance-section---regulatory-oversight-departme",
     "name": "Market Surveillance Section - Regulatory Oversight Department - Ministry of Industry and Advanced Technology  “MOIAT’’ Inspection Bodies Accreditation No. IB-242 Initial Accreditation Date Dec 12, 2024 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-04-08",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-masafi-hospital-laborator--pure-health-group-medical-labora",
-    "name": "Masafi Hospital Laborator  Pure Health Group Medical Laboratories Accreditation No. LB-MED-200 Initial Accreditation Date Dec 23, 2019 | Fujairah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10977,7 +10963,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-FSMS-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
