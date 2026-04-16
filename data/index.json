@@ -6776,8 +6776,22 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-llh-hospital-llc-burjeel-holdings-plc-medical-laboratories-",
+    "name": "LLH Hospital LLC Burjeel Holdings PLC Medical Laboratories Accreditation No. LB-MED-339 Initial Accreditation Date Dec 23, 2025 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-16",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-lms-certifications-pvt.-ltd.-certification-bodies-managemen",
-    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
+    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
