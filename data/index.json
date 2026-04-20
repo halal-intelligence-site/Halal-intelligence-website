@@ -2157,7 +2157,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-certification-bodies-managemen",
-    "name": "Bureau Veritas Certification Certification Bodies Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification Certification Bodies Management systems Accreditation No. CB-EMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2171,7 +2171,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-certification-bodies-managemen",
-    "name": "Bureau Veritas Certification Certification Bodies Management systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification Certification Bodies Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6791,7 +6791,7 @@
   },
   {
     "id": "eiac-lms-certifications-pvt.-ltd.-certification-bodies-managemen",
-    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
+    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8276,20 +8276,6 @@
   {
     "id": "eiac-novomed-surgical-hospital-medical-laboratories-accreditatio",
     "name": "Novomed Surgical Hospital Medical Laboratories Accreditation No. LB-MED-248 Initial Accreditation Date Apr 26, 2022 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-04-20",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-oca-global-testing-inspection-&-certifications-l.l.c-inspec",
-    "name": "OCA Global Testing Inspection & Certifications L.L.C Inspection Bodies Accreditation No. IB-192 Initial Accreditation Date Nov 17, 2020 | Abu Dhabi Island and Internal Islands City | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
