@@ -6034,6 +6034,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-intek-safety-consultancies-llc-inspection-bodies-accreditat",
+    "name": "Intek Safety Consultancies LLC Inspection Bodies Accreditation No. IB-126 Initial Accreditation Date Jan 28, 2018 Office 217A, Arenco Building 4, Dubai Investment Park 1, Dubai , UAE | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-04-22",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-intel-lab-l.l.c-medical-laboratories-accreditation-no.-lb-m",
     "name": "Intel Lab L.L.C Medical Laboratories Accreditation No. LB-MED-309 Initial Accreditation Date Dec 16, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -6791,7 +6805,7 @@
   },
   {
     "id": "eiac-lms-certifications-pvt.-ltd.-certification-bodies-managemen",
-    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
+    "name": "LMS Certifications PVT. LTD. Certification Bodies Management systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9675,7 +9689,7 @@
   },
   {
     "id": "eiac-science-research-laboratory-testing-laboratories-accreditat",
-    "name": "Science Research Laboratory Testing Laboratories Accreditation No. LB-TEST-217 Initial Accreditation Date Jan 23, 2020 | Dubai | United Arab Emirates Active",
+    "name": "Science Research Laboratory Testing Laboratories Accreditation No. LB-TEST-217 Initial Accreditation Date Jan 23, 2020 Al Ittihad Road | Dubai Police General H.Q Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
