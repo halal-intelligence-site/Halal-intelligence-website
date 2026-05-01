@@ -672,6 +672,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-al-garhoud-private-hospital-l.l.c-medical-laboratories-accr",
+    "name": "Al Garhoud Private Hospital L.L.C Medical Laboratories Accreditation No. LB-MED-269 Initial Accreditation Date Apr 12, 2023 Near Millenium Airport Hotel | Opposite DHL  Garhoud | Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-05-01",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-al-hai-&-al-mukaddam-for-geotechnical-works-testing-laborat",
     "name": "Al Hai & Al Mukaddam for Geotechnical Works Testing Laboratories Accreditation No. LB-TEST-005 Initial Accreditation Date Oct 16, 2005 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -2578,20 +2592,6 @@
   {
     "id": "eiac-clinical-pathology-services-medical-laboratories-accreditat",
     "name": "Clinical Pathology Services Medical Laboratories Accreditation No. LB-MED-172 Initial Accreditation Date Jul 25, 2018 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-05-01",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-clinical-pathology-services-medical-laboratories-accreditat",
-    "name": "Clinical Pathology Services Medical Laboratories Accreditation No. LB-MED-269 Initial Accreditation Date Apr 12, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
