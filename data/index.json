@@ -770,20 +770,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-hoty-stanger-laboratory-l.l.c.-testing-laboratories-accr",
-    "name": "Al Hoty Stanger Laboratory L.L.C. Testing Laboratories Accreditation No. LB-TEST-019 Initial Accreditation Date Jun 10, 2003 Industrial City Abu Dhabi (ICAD 1) | Plot 9R7B | Near ICAD 1 Gate no. 2 Beside Emirates Steel | Abu Dhabi | United Arab Emirates | Dubai Dubia | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-05-17",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-al-hoty-stanger-laboratory-llc-testing-laboratories-accredi",
     "name": "Al Hoty Stanger Laboratory LLC Testing Laboratories Accreditation No. LB-TEST-053 Initial Accreditation Date May 25, 2011 | Ras Al Khaima | United Arab Emirates Active",
     "country": "",
@@ -7156,6 +7142,20 @@
   {
     "id": "eiac-lonestar-technical-services-llc-inspection-bodies-accredita",
     "name": "Lonestar Technical Services LLC Inspection Bodies Accreditation No. IB-246 Initial Accreditation Date Jan 22, 2025 Horizon Tower Block D Floor 2106 Rashidiya 1 Ajman - UAE | Ajman Rashidiya 1 | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-05-17",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-lonestar-technical-services-llc.-testing-laboratories-accre",
+    "name": "Lonestar Technical Services LLC. Testing Laboratories Accreditation No. LB-TEST-019 Initial Accreditation Date Jun 10, 2003 Lonestar Technical Services LLC. | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
