@@ -1400,6 +1400,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-aqua-wave-sports-services-llc-certification-bodies-persons-",
+    "name": "Aqua Wave Sports Services LLC Certification Bodies Persons certification Accreditation No. CB-PRS-037 Initial Accreditation Date May 06, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-05-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-aqualis-inspection-services-inspection-bodies-accreditation",
     "name": "Aqualis Inspection Services Inspection Bodies Accreditation No. IB-185 Initial Accreditation Date Jun 14, 2020 | Al Qusais | United Arab Emirates Active",
     "country": "",
@@ -2352,8 +2366,22 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-comply-quality-and-standardization-certificates-issuing-ser",
+    "name": "COMPLY QUALITY AND STANDARDIZATION CERTIFICATES ISSUING SERVICES L.L.C Certification Bodies Management systems Accreditation No. CB-FSMS-098 Initial Accreditation Date Apr 05, 2022 Office  201-05, Emitac Building, Al Garhoud, Dubai, United Arab Emirates | Dubai Al Garhoud | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-05-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-cpg-certifications-llc-certification-bodies-management-syst",
-    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2648,20 +2676,6 @@
   {
     "id": "eiac-cobra-sports-services-certification-bodies-persons-certific",
     "name": "Cobra Sports Services Certification Bodies Persons certification Accreditation No. CB-PRS-034 Initial Accreditation Date Nov 28, 2023 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-05-19",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-comply-quality-and-standardization-certificates-issuing-ser",
-    "name": "Comply Quality and Standardization Certificates Issuing Services Certification Bodies Management systems Accreditation No. CB-FSMS-098 Initial Accreditation Date Apr 05, 2022 Office  201-05, Emitac Building, Al Garhoud, Dubai, United Arab Emirates | Dubai Al Garhoud | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11047,7 +11061,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
