@@ -2381,7 +2381,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-certification-bodies-management-syst",
-    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC Certification Bodies Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5769,7 +5769,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-certification-bodies-management-systems-accre",
-    "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "name": "IMQ GULF FZCO Certification Bodies Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7940,20 +7940,6 @@
   {
     "id": "eiac-n.m.c.-speciality-hospital-ltd---dubai-branch-medical-labor",
     "name": "N.M.C. Speciality Hospital LTD - Dubai Branch Medical Laboratories Accreditation No. LB-MED-255 Initial Accreditation Date Mar 02, 2017 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-05-20",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-nama-quality-certifications-certification-bodies-management",
-    "name": "NAMA Quality Certifications Certification Bodies Management systems Accreditation No. CB-OHSMS-096 Initial Accreditation Date Dec 20, 2021 | Muscat | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11061,7 +11047,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-certification-bodies-man",
-    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Certification Bodies Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11215,7 +11201,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-certificati",
-    "name": "Veritas System Quality Certificates Issuing LLC Certification Bodies Management systems Accreditation No. CB- ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC Certification Bodies Management systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
