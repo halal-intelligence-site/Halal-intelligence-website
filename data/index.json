@@ -2269,7 +2269,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-EMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2283,7 +2283,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5994,20 +5994,6 @@
   {
     "id": "eiac-ideal-diagnostic-centre-l.l.c-medical-laboratories-accredit",
     "name": "Ideal Diagnostic Centre L.L.C Medical Laboratories Accreditation No. LB-MED-328 Initial Accreditation Date Jul 30, 2025 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-08",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-igenomix-fz-llc-medical-laboratories-accreditation-no.-lb-m",
-    "name": "Igenomix FZ LLC Medical Laboratories Accreditation No. LB-MED-251 Initial Accreditation Date May 24, 2022 Dubai Healthcare City, Unit 501,502, 503 and 512 Building 40. Dubai, DUB 66566. United Arab Emirates | Dubai DHCC | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11187,7 +11173,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-cb-management-systems-ac",
-    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11341,7 +11327,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-cb-manageme",
-    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB- ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
