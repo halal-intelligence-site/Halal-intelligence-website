@@ -4620,8 +4620,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ghp-testing-and-calibration-lab-testing-laboratories-accred",
-    "name": "GHP Testing and Calibration Lab Testing Laboratories Accreditation No. LB-TEST-071 Initial Accreditation Date Sep 13, 2012 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
+    "id": "eiac-ghp-testing-and-calibration-lab-calibration-laboratories-ac",
+    "name": "GHP Testing and Calibration Lab Calibration Laboratories Accreditation No. LB-CAL-020 Initial Accreditation Date Jun 26, 2014 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6680,20 +6680,6 @@
   {
     "id": "eiac-kims-medical-centre-medical-laboratories-accreditation-no.-",
     "name": "KIMS Medical Centre Medical Laboratories Accreditation No. LB-MED-158 Initial Accreditation Date Jan 31, 2018 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-10",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-ksr-certification-llp-cb-management-systems-accreditation-n",
-    "name": "KSR Certification LLP CB Management systems Accreditation No. CB-QMS-107 Initial Accreditation Date May 07, 2024 | Nanauta | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
