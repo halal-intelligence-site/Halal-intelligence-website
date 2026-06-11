@@ -112,20 +112,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ahs-pathology-and-laboratory-medicine-abu-dhabi--ahs-group-",
-    "name": "AHS Pathology and Laboratory Medicine Abu Dhabi- AHS Group Medical Laboratories Accreditation No. LB-MED-194 Initial Accreditation Date Oct 07, 2019 | Abu Dhabi | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-11",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-asa-clinical-laboratory-medical-laboratories-accreditation-",
     "name": "ASA Clinical Laboratory Medical Laboratories Accreditation No. LB-MED-340 Initial Accreditation Date Dec 29, 2025 Nastaran Tower | Office Number 607 | Al Jaddaf  Du | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -3180,6 +3166,20 @@
   {
     "id": "eiac-development-&-research-academy-for-sports-science-activitie",
     "name": "Development & Research Academy for Sports Science Activities (DRASSA) CB Persons certification Accreditation No. CB-PRS-023 Initial Accreditation Date Jan 04, 2018 Office 406, Al Serkal Building 1, Al Khabaisi St. | Dubai Deira | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-11",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-disease-prevention-and-screening-center-pure-lab-south-grou",
+    "name": "Disease Prevention and Screening Center Pure lab South group Medical Laboratories Accreditation No. LB-MED-194 Initial Accreditation Date Oct 07, 2019 Sheikh Rashed Bin Saeed Road | Next TP Sheikh Khalifa Medical Center Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
