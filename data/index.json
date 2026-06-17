@@ -1330,6 +1330,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-american-academy-of-cosmetic-surgery-hospital-(aacsh)-fz-ll",
+    "name": "American Academy of Cosmetic Surgery Hospital (AACSH) FZ-LLC Medical Laboratories Accreditation No. LB-MED-347 Initial Accreditation Date Apr 24, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-17",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-american-halal-foundation-halal-bodies-accreditation-no.-hb",
     "name": "American Halal Foundation Halal Bodies Accreditation No. HBN-CB-097 Initial Accreditation Date Oct 28, 2025 | | United States Active",
     "country": "",
@@ -7785,7 +7799,7 @@
   },
   {
     "id": "eiac-metallurgical-mechanical-testing-services-laboratory-testin",
-    "name": "Metallurgical Mechanical Testing Services Laboratory Testing Laboratories Accreditation No. LB-TEST-199 Initial Accreditation Date Mar 31, 2019 | Dubai | United Arab Emirates Active",
+    "name": "Metallurgical Mechanical Testing Services Laboratory Testing Laboratories Accreditation No. LB-TEST-199 Initial Accreditation Date Mar 31, 2019 Plot No. 247 - 0227, Warehouse No.2, Al Qusais Industrial Area 4 - Dubai. | Dubai Al Qusais Industrial | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8822,6 +8836,20 @@
   {
     "id": "eiac-polski-instytut-halal-(pih)-(polish-institute-of-halal)-hal",
     "name": "Polski Instytut Halal (PIH) (Polish Institute of Halal) Halal Bodies Accreditation No. HBN-CB-012 Initial Accreditation Date Sep 07, 2017 | Poznań | Poland Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-17",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-precision-quality-certification-services-calibration-labora",
+    "name": "Precision Quality Certification Services Calibration Laboratories Accreditation No. LB-CAL-108 Initial Accreditation Date Apr 30, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10936,6 +10964,20 @@
   {
     "id": "eiac-thomas-bell-wright-international-consultants-(dubai-br)-cb-",
     "name": "Thomas Bell-Wright International Consultants (Dubai Br) CB Products certification Accreditation No. CB-PRD-004 Initial Accreditation Date May 09, 2021 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-17",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-thumbay-labs-llc1-medical-laboratories-accreditation-no.-lb",
+    "name": "Thumbay Labs LLC1 Medical Laboratories Accreditation No. LB-MED-353 Initial Accreditation Date Jun 12, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
