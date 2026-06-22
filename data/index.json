@@ -4634,8 +4634,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ghp-testing-and-calibration-lab-calibration-laboratories-ac",
-    "name": "GHP Testing and Calibration Lab Calibration Laboratories Accreditation No. LB-CAL-020 Initial Accreditation Date Jun 26, 2014 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
+    "id": "eiac-ghp-testing-and-calibration-lab-testing-laboratories-accred",
+    "name": "GHP Testing and Calibration Lab Testing Laboratories Accreditation No. LB-TEST-071 Initial Accreditation Date Sep 13, 2012 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11201,7 +11201,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-cb-management-systems-ac",
-    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11355,7 +11355,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-cb-manageme",
-    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB- ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
