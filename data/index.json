@@ -7938,6 +7938,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-mobile-veterinary-laboratory--veterinary-services-section-p",
+    "name": "Mobile Veterinary Laboratory- Veterinary Services Section-Public Health Services Department-Dubai Municipality Testing Laboratories Accreditation No. LB-TEST-292 Initial Accreditation Date Apr 14, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-25",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-modawah-clinical-laboratory-medical-laboratories-accreditat",
     "name": "Modawah Clinical Laboratory Medical Laboratories Accreditation No. LB-MED-343 Initial Accreditation Date Mar 26, 2026 | | United Arab Emirates Active",
     "country": "",
@@ -8024,6 +8038,20 @@
   {
     "id": "eiac-n.m.c.-speciality-hospital-ltd---dubai-branch-medical-labor",
     "name": "N.M.C. Speciality Hospital LTD - Dubai Branch Medical Laboratories Accreditation No. LB-MED-255 Initial Accreditation Date Mar 02, 2017 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-25",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-national-reference-laboratory-(nrl)-at-icldc-a-dhafra-medic",
+    "name": "NATIONAL REFERENCE LABORATORY (NRL) AT ICLDC A DHAFRA Medical Laboratories Accreditation No. LB-MED-352 Initial Accreditation Date Jun 12, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
