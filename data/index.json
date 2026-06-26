@@ -2688,20 +2688,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-clinical-pathology-services-medical-laboratories-accreditat",
-    "name": "Clinical Pathology Services Medical Laboratories Accreditation No. LB-MED-172 Initial Accreditation Date Jul 25, 2018 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-26",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-cobra-sports-services-cb-persons-certification-accreditatio",
     "name": "Cobra Sports Services CB Persons certification Accreditation No. CB-PRS-034 Initial Accreditation Date Nov 28, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -4790,6 +4776,20 @@
   {
     "id": "eiac-genetic-and-neonatal-screening-diagnostic-center-–-pure-lab",
     "name": "Genetic and Neonatal Screening Diagnostic Center – Pure Lab Medical Laboratories Accreditation No. LB-MED-274 Initial Accreditation Date Jul 26, 2023 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-26",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-genuine-safety-consultants-llc-inspection-bodies-accreditat",
+    "name": "Genuine Safety Consultants LLC Inspection Bodies Accreditation No. IB-268 Initial Accreditation Date Jun 03, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7772,20 +7772,6 @@
   {
     "id": "eiac-megarme-inspection-&-engineering-services-l.l.c-inspection-",
     "name": "Megarme Inspection & Engineering Services L.L.C Inspection Bodies Accreditation No. IB-096 Initial Accreditation Date Sep 18, 2016 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-26",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-menalabs-medical-laboratory-medical-laboratories-accreditat",
-    "name": "Menalabs Medical Laboratory Medical Laboratories Accreditation No. LB-MED-171 Initial Accreditation Date Jun 15, 2018 Al Mazroui Building, Floor 2, Najda Street, Baniyas | Abu Dhabi AlDana | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
