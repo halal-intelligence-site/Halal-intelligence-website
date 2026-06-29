@@ -2269,7 +2269,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3865,7 +3865,7 @@
   },
   {
     "id": "eiac-east-pipes-integrated-company-for-industry-testing-laborato",
-    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-099 Initial Accreditation Date Mar 24, 2014 | Dammam | Saudi Arabia Active",
+    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-098 Initial Accreditation Date Apr 17, 2023 | Dammam | Saudi Arabia Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4620,8 +4620,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ghp-testing-and-calibration-lab-calibration-laboratories-ac",
-    "name": "GHP Testing and Calibration Lab Calibration Laboratories Accreditation No. LB-CAL-020 Initial Accreditation Date Jun 26, 2014 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
+    "id": "eiac-ghp-testing-and-calibration-lab-testing-laboratories-accred",
+    "name": "GHP Testing and Calibration Lab Testing Laboratories Accreditation No. LB-TEST-071 Initial Accreditation Date Sep 13, 2012 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5866,8 +5866,22 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-qm",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-em",
+    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-29",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-ha",
+    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-HACCP-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6301,7 +6315,21 @@
   },
   {
     "id": "eiac-international-inspection-services-inspection-bodies-accredi",
-    "name": "International Inspection Services Inspection Bodies Accreditation No. IB-102 Initial Accreditation Date Jan 22, 2017 | Dubai | United Arab Emirates Active",
+    "name": "International Inspection Services Inspection Bodies Accreditation No. IB-102 Initial Accreditation Date Jan 22, 2017 Intertek INSPEC | Plot no: 236 | Warehouse No: 4 | Al Khawaneej-2 | Al Tay Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-29",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-international-inspection-services-ltd.-inspection-bodies-ac",
+    "name": "International Inspection Services LTD. Inspection Bodies Accreditation No. IB-177 Initial Accreditation Date Jan 05, 2020 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
