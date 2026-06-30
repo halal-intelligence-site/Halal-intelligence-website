@@ -5866,22 +5866,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-em",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-ha",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-HACCP-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-qm",
+    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8540,6 +8526,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-oca-global-testing-inspection-&-certifications-l.l.c-inspec",
+    "name": "OCA Global Testing Inspection & Certifications L.L.C Inspection Bodies Accreditation No. IB-192 Initial Accreditation Date Nov 17, 2020 | Abu Dhabi Island and Internal Islands City | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-06-30",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "hak-oic/smiic\n\t\t\t\t\t\t\t4:2018-cosmetics",
     "name": "OIC/SMIIC\n\t\t\t\t\t\t\t4:2018 COSMETICS",
     "country": "",
@@ -9228,20 +9228,6 @@
   {
     "id": "eiac-prominent-team-consultancy-l.l.c-inspection-bodies-accredit",
     "name": "Prominent Team Consultancy L.L.C Inspection Bodies Accreditation No. IB-204 Initial Accreditation Date Nov 15, 2021 | Musaffah | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-06-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-prudent-calibration-and-instrumentation-service-llc-calibra",
-    "name": "Prudent Calibration and Instrumentation Service LLC Calibration Laboratories Accreditation No. LB-CAL-076 Initial Accreditation Date Jul 22, 2019 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
