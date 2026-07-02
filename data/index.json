@@ -112,6 +112,34 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-apave-tiv-industrial-facilities-installations-inspection-en",
+    "name": "APAVE TIV Industrial Facilities Installations Inspection Engineering Services L.L.C Inspection Bodies Accreditation No. IB-267 Initial Accreditation Date May 22, 2026 105 Al Rawabeh Building | Sheikh Zayed Road | Al Q | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-07-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-apave-tiv-industrial-facilities-installations-inspection-en",
+    "name": "APAVE TIV Industrial Facilities Installations Inspection Engineering Services L.L.C-O.P.C Inspection Bodies Accreditation No. IB-266 Initial Accreditation Date May 22, 2026 Office. 105 | EREC Bldg. | Al Falah St. | Abu Dhab | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-07-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-asa-clinical-laboratory-medical-laboratories-accreditation-",
     "name": "ASA Clinical Laboratory Medical Laboratories Accreditation No. LB-MED-340 Initial Accreditation Date Dec 29, 2025 Nastaran Tower | Office Number 607 | Al Jaddaf  Du | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -3865,7 +3893,7 @@
   },
   {
     "id": "eiac-east-pipes-integrated-company-for-industry-testing-laborato",
-    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-099 Initial Accreditation Date Mar 24, 2014 | Dammam | Saudi Arabia Active",
+    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-098 Initial Accreditation Date Apr 17, 2023 | Dammam | Saudi Arabia Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11398,20 +11426,6 @@
   {
     "id": "eiac-vertico-xtreme-safety-training-(br.-of-enigma-capital-inves",
     "name": "Vertico Xtreme Safety Training (Br. of Enigma Capital Investments LLC) Inspection Bodies Accreditation No. IB-190 Initial Accreditation Date May 14, 2024 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-07-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-viking-life-saving-equipment-as-dubai-branch-inspection-bod",
-    "name": "Viking Life Saving Equipment AS Dubai Branch Inspection Bodies Accreditation No. IB-006 Initial Accreditation Date Aug 03, 2005 Dubai Maritime City | Dubai Middle East | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
