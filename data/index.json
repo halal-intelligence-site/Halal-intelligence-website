@@ -2283,7 +2283,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-EMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2297,7 +2297,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3893,7 +3893,7 @@
   },
   {
     "id": "eiac-east-pipes-integrated-company-for-industry-testing-laborato",
-    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-098 Initial Accreditation Date Apr 17, 2023 | Dammam | Saudi Arabia Active",
+    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-099 Initial Accreditation Date Mar 24, 2014 | Dammam | Saudi Arabia Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5908,22 +5908,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-em",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-07-13",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-ha",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-HACCP-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-qm",
+    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10753,21 +10739,7 @@
   },
   {
     "id": "eiac-tasneef-rina-business-assurance-llc-cb-management-systems-a",
-    "name": "Tasneef-Rina Business Assurance LLC CB Management systems Accreditation No. CB-FSMS-046 Initial Accreditation Date Feb 03, 2016 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-07-13",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tasneef-rina-business-assurance-llc-cb-management-systems-a",
-    "name": "Tasneef-Rina Business Assurance LLC CB Management systems Accreditation No. CB-HACCP-046 Initial Accreditation Date Jun 24, 2014 | Dubai | United Arab Emirates Active",
+    "name": "Tasneef-Rina Business Assurance LLC CB Management systems Accreditation No. CB-EMS-046 Initial Accreditation Date Jun 24, 2014 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11327,7 +11299,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-cb-management-systems-ac",
-    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
