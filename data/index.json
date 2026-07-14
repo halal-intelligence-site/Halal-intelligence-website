@@ -6916,6 +6916,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-kias-safety-consultancy-inspection-bodies-accreditation-no.",
+    "name": "Kias Safety Consultancy Inspection Bodies Accreditation No. IB-012 Initial Accreditation Date Apr 25, 2006 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-07-14",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-kings-college-hospital-london-br-of-kch-healthcare-llc-medi",
     "name": "Kings College Hospital London Br of KCH Healthcare LLC Medical Laboratories Accreditation No. LB-MED-233 Initial Accreditation Date Aug 03, 2021 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -8052,6 +8066,20 @@
   {
     "id": "eiac-molecular-biology-and-genomics-centre-medical-laboratories-",
     "name": "Molecular Biology and Genomics Centre Medical Laboratories Accreditation No. LB-MED-078 Initial Accreditation Date Mar 13, 2016 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-07-14",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-my-health-medical-center-sole-proprietorship-l.l.c.-medical",
+    "name": "My Health Medical Center-Sole Proprietorship L.L.C. Medical Laboratories Accreditation No. LB-MED-351 Initial Accreditation Date Jun 12, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
