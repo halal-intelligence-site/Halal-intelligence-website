@@ -1807,7 +1807,7 @@
   },
   {
     "id": "eiac-astron-certification-l.l.c,-abu-dhabi-cb-management-systems",
-    "name": "Astron Certification L.L.C, Abu Dhabi CB Management systems Accreditation No. CB-EMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
+    "name": "Astron Certification L.L.C, Abu Dhabi CB Management systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-EMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-HACCP-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2283,7 +2283,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2423,7 +2423,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-cb-management-systems-accreditation-",
-    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3866,20 +3866,6 @@
   {
     "id": "eiac-east-pipes-integrated-company-for-industry-testing-laborato",
     "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-099 Initial Accreditation Date Mar 24, 2014 | Dammam | Saudi Arabia Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-07-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-ecotest-quality-certificates-issuing-services-cb-persons-ce",
-    "name": "Ecotest Quality Certificates Issuing Services CB Persons certification Accreditation No. CB-PRS-032 Initial Accreditation Date Mar 10, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11327,7 +11313,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-cb-management-systems-ac",
-    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11496,20 +11482,6 @@
   {
     "id": "eiac-vertico-xtreme-safety-training-(br.-of-enigma-capital-inves",
     "name": "Vertico Xtreme Safety Training (Br. of Enigma Capital Investments LLC) Inspection Bodies Accreditation No. IB-190 Initial Accreditation Date May 14, 2024 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-07-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-viking-life--saving-equipment-a/s--dubai-branch-cb-persons-",
-    "name": "Viking Life- Saving Equipment A/S- Dubai Branch CB Persons certification Accreditation No. CB-PRS-007 Initial Accreditation Date Feb 19, 2015 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
