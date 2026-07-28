@@ -1386,8 +1386,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-apex-aerospace-fze-dubai-branch-calibration-laboratories-ac",
-    "name": "Apex Aerospace FZE Dubai Branch Calibration Laboratories Accreditation No. LB-CAL-036 Initial Accreditation Date Mar 17, 2016 | Dubai | United Arab Emirates Active",
+    "id": "eiac-apex-aerospace-calibration-services-l.l.c-calibration-labor",
+    "name": "Apex Aerospace Calibration Services L.L.C Calibration Laboratories Accreditation No. LB-CAL-036 Initial Accreditation Date Mar 17, 2016 Warehouse No. S.4 | Plot No. 120-0 | Al Qusais Industrial First Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6498,6 +6498,20 @@
   {
     "id": "eiac-itmad-certification-services-l.l.c-cb-management-systems-ac",
     "name": "Itmad Certification Services L.L.C CB Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 Office No. 208 | Dream Building 2 | Al Qusais Industrial Area 4 | Damascus Street P. O. Box 232991 | Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-07-28",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-jacob-certification-quality-and-standardization-certificate",
+    "name": "JACOB CERTIFICATION QUALITY AND STANDARDIZATION CERTIFICATES ISSUING SERVICES L.L.C - S.P.C. Food Safety Management Systems Accreditation No. CB-FSMS-118 Initial Accreditation Date Jul 22, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
