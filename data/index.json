@@ -2269,7 +2269,7 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-EMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2283,7 +2283,21 @@
   },
   {
     "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-09-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-bureau-veritas-inspection-bodies-accreditation-no.-ib-008-i",
+    "name": "Bureau Veritas Inspection Bodies Accreditation No. IB-008 Initial Accreditation Date Feb 13, 2006 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2423,7 +2437,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-cb-management-systems-accreditation-",
-    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
