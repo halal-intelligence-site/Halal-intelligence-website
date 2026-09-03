@@ -1260,20 +1260,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-aligned-global-assurance-quality--standardization-certifica",
-    "name": "Aligned Global Assurance Quality  Standardization Certificate CB Management systems Accreditation No. CB-FSMS-097 Initial Accreditation Date Feb 02, 2022 Office 101, Al Ahbabi Building, Damascus Street, Al Qusais 2, Dubai | Dubai Al Qusais | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-03",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-almoayara-althakyah-laboratory-(smartcal)-calibration-labor",
     "name": "Almoayara Althakyah laboratory (SmartCal) Calibration Laboratories Accreditation No. LB-CAL-026 Initial Accreditation Date Nov 27, 2014 | Sharjah | United Arab Emirates Active",
     "country": "",
@@ -2437,7 +2423,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-cb-management-systems-accreditation-",
-    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3907,7 +3893,7 @@
   },
   {
     "id": "eiac-east-pipes-integrated-company-for-industry-testing-laborato",
-    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-099 Initial Accreditation Date Mar 24, 2014 | Dammam | Saudi Arabia Active",
+    "name": "East Pipes Integrated Company for Industry Testing Laboratories Accreditation No. LB-TEST-098 Initial Accreditation Date Apr 17, 2023 | Dammam | Saudi Arabia Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9872,6 +9858,20 @@
   {
     "id": "eiac-shj.-environment-co.-llc-–-beeah---environment-consultancy-",
     "name": "SHJ. Environment CO. LLC – BEEAH - Environment Consultancy Services Laboratory (ECSL) Testing Laboratories Accreditation No. LB-TEST-218 Initial Accreditation Date Feb 15, 2024 | Sharjah | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-09-03",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-safe-lab---l.l.c---o.p.c-testing-laboratories-accreditation",
+    "name": "Safe Lab - L.L.C - O.P.C Testing Laboratories Accreditation No. LB-TEST-295 Initial Accreditation Date Aug 14, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
