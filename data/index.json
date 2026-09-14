@@ -112,6 +112,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-al-hoty-stanger-laboratory-llc-van-oord-middle-east-ltd-sit",
+    "name": "AL HOTY STANGER LABORATORY LLC VAN OORD MIDDLE EAST LTD SITE LAB Testing Laboratories Accreditation No. LB-TEST-298 Initial Accreditation Date Sep 09, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-09-14",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-apave-tiv-industrial-facilities-installations-inspection-en",
     "name": "APAVE TIV Industrial Facilities Installations Inspection Engineering Services L.L.C Inspection Bodies Accreditation No. IB-267 Initial Accreditation Date May 22, 2026 105 Al Rawabeh Building | Sheikh Zayed Road | Al Q | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -2423,7 +2437,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-cb-management-systems-accreditation-",
-    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
