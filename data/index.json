@@ -3346,20 +3346,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-dubai-central-laboratory-department---dubai-municipality-ha",
-    "name": "Dubai Central Laboratory Department - Dubai Municipality Halal Bodies Accreditation No. HB-TEST-001 Initial Accreditation Date Sep 07, 2017 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-dubai-central-laboratory-department-microbiological-laborat",
     "name": "Dubai Central Laboratory Department Microbiological Laboratories Section Testing Laboratories Accreditation No. LB-TEST-206 Initial Accreditation Date May 30, 2007 Dubai | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -4690,8 +4676,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ghp-testing-and-calibration-lab-testing-laboratories-accred",
-    "name": "GHP Testing and Calibration Lab Testing Laboratories Accreditation No. LB-TEST-071 Initial Accreditation Date Sep 13, 2012 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
+    "id": "eiac-ghp-testing-and-calibration-lab-calibration-laboratories-ac",
+    "name": "GHP Testing and Calibration Lab Calibration Laboratories Accreditation No. LB-CAL-020 Initial Accreditation Date Jun 26, 2014 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4874,20 +4860,6 @@
   {
     "id": "eiac-geo-chem-middle-east-calibration-laboratories-accreditation",
     "name": "Geo Chem Middle East Calibration Laboratories Accreditation No. LB-CAL-082 Initial Accreditation Date Feb 17, 2020 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-geo-chem-middle-east-halal-bodies-accreditation-no.-hb-test",
-    "name": "Geo Chem Middle East Halal Bodies Accreditation No. HB-TEST-006 Initial Accreditation Date May 08, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5250,20 +5222,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-hcab's-logo",
-    "name": "HCAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-hcc-east-african-halal-confirmation-center-limited-halal-bo",
     "name": "HCC East African Halal Confirmation Center Limited Halal Bodies Accreditation No. HBN-CB-058 Initial Accreditation Date Nov 26, 2020 Jomo Kenyatta International Airport (J.K.I.A) | Cargo Village | Orako Building 3rd Floor | Nairobi | Kenya | Nairobi Nairobi | Kenya Active",
     "country": "",
@@ -5500,20 +5458,6 @@
     "lastVerified": "2026-09-30",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-halal-logo",
-    "name": "Halal Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-halal-quality-control-(hqc)---france-halal-bodies-accredita",
@@ -5950,22 +5894,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-em",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-EMS-102 Initial Accreditation Date Aug 23, 2023 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-ha",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-HACCP-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-qm",
+    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7012,20 +6942,6 @@
     "lastVerified": "2026-09-30",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-lab's-logo",
-    "name": "LAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-labax-chemical-&-biological-laboratory-l.l.c-testing-labora",
@@ -8652,118 +8568,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-oic/smiic\n\t\t\t\t\t\t\t4:2018-cosmetics",
-    "name": "OIC/SMIIC\n\t\t\t\t\t\t\t4:2018 COSMETICS",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&\n\t\t\t\t\t\t\t\twarehous",
-    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION &\n\t\t\t\t\t\t\t\tWAREHOUSING SERVICES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-1:2019-food",
-    "name": "OIC/SMIIC 1:2019 FOOD",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-34:2020-certification-of-persons\n\t\t\t\t\t\t\t\tinvolved-",
-    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS\n\t\t\t\t\t\t\t\tINVOLVED IN THE HALAL RELATED ACTIVITIES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-35:2020-laboratories-performing\n\t\t\t\t\t\t\t\thalal-test",
-    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING\n\t\t\t\t\t\t\t\tHALAL TESTING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-36:2020-the-proficiency-testing\n\t\t\t\t\t\t\t\tproviders-",
-    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING\n\t\t\t\t\t\t\t\tPROVIDERS FOR HALAL CONFORMITY PURPOSES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-6:2019-catering",
-    "name": "OIC/SMIIC 6:2019 CATERING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-9:2019-tourism",
-    "name": "OIC/SMIIC 9:2019 TOURISM",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-omicron-testing-&-research-laboratory-testing-laboratories-",
     "name": "OMICRON TESTING & RESEARCH LABORATORY Testing Laboratories Accreditation No. LB-TEST-252 Initial Accreditation Date Jul 26, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -9116,20 +8920,6 @@
   {
     "id": "eiac-prime-certification-and-inspection-asia-pacific-inc-halal-b",
     "name": "Prime Certification and Inspection Asia Pacific INC Halal Bodies Accreditation No. HBN-CB-027 Initial Accreditation Date Feb 20, 2018 | Magallanes Maka | Philippines Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-prime-certification-and-inspection-company-ltd.-japan-halal",
-    "name": "Prime Certification and Inspection Company LTD. Japan Halal Bodies Accreditation No. HBN-CB-055 Initial Accreditation Date Jul 19, 2023 | Chiba | Japan Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9844,20 +9634,6 @@
   {
     "id": "eiac-sgs-gulf-limited-dubai-branch-testing-laboratories-accredit",
     "name": "SGS Gulf Limited-Dubai Branch Testing Laboratories Accreditation No. LB-TEST-256 Initial Accreditation Date Dec 05, 2023 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-09-30",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-sgs-gulf-ltd-/-h&n-laboratory-halal-bodies-accreditation-no",
-    "name": "SGS Gulf Ltd / H&N laboratory Halal Bodies Accreditation No. HB-TEST-007 Initial Accreditation Date Jul 28, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11299,7 +11075,7 @@
   },
   {
     "id": "eiac-tüv-nord-middle-east-l.l.c.-cb-management-systems-accredita",
-    "name": "TÜV NORD Middle East L.L.C. CB Management systems Accreditation No. CB-OHSMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "name": "TÜV NORD Middle East L.L.C. CB Management systems Accreditation No. CB-QMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
