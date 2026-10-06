@@ -9394,6 +9394,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-qualitas-material-testing-laboratories---dubai-branch-testi",
+    "name": "Qualitas Material Testing Laboratories - Dubai Branch Testing Laboratories Accreditation No. LB-TEST-297 Initial Accreditation Date Sep 04, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-10-06",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-qualitas-material-testing-laboratories-testing-laboratories",
     "name": "Qualitas Material Testing Laboratories Testing Laboratories Accreditation No. LB-TEST-216 Initial Accreditation Date Jan 22, 2020 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
@@ -11481,7 +11495,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-cb-manageme",
-    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
