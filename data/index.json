@@ -1274,6 +1274,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-aligned-global-assurance-quality--standardization-certifica",
+    "name": "Aligned Global Assurance Quality  Standardization Certificate CB Management systems Accreditation No. CB-FSMS-097 Initial Accreditation Date Feb 02, 2022 Office 101, Al Ahbabi Building, Damascus Street, Al Qusais 2, Dubai | Dubai Al Qusais | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-10-08",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-almoayara-althakyah-laboratory-(smartcal)-calibration-labor",
     "name": "Almoayara Althakyah laboratory (SmartCal) Calibration Laboratories Accreditation No. LB-CAL-026 Initial Accreditation Date Nov 27, 2014 | Sharjah | United Arab Emirates Active",
     "country": "",
@@ -4676,8 +4690,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-ghp-testing-and-calibration-lab-calibration-laboratories-ac",
-    "name": "GHP Testing and Calibration Lab Calibration Laboratories Accreditation No. LB-CAL-020 Initial Accreditation Date Jun 26, 2014 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
+    "id": "eiac-ghp-testing-and-calibration-lab-testing-laboratories-accred",
+    "name": "GHP Testing and Calibration Lab Testing Laboratories Accreditation No. LB-TEST-071 Initial Accreditation Date Sep 13, 2012 A-13, Binsoughat Warehouse, Al Qusais Industrial Area -1 | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11089,7 +11103,7 @@
   },
   {
     "id": "eiac-tüv-nord-middle-east-l.l.c.-cb-management-systems-accredita",
-    "name": "TÜV NORD Middle East L.L.C. CB Management systems Accreditation No. CB-QMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "name": "TÜV NORD Middle East L.L.C. CB Management systems Accreditation No. CB-EMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11355,7 +11369,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-cb-manageme",
-    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11397,7 +11411,7 @@
   },
   {
     "id": "eiac-viscount-quality-certifications-cb-management-systems-accre",
-    "name": "Viscount Quality Certifications CB Management systems Accreditation No. CB-OHSMS-076 Initial Accreditation Date Dec 21, 2017 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
+    "name": "Viscount Quality Certifications CB Management systems Accreditation No. CB-BCMS-076 Initial Accreditation Date Jul 21, 2026 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
