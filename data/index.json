@@ -4480,6 +4480,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-fahss-wll-(dubai-branch)-cb-products-certification-accredit",
+    "name": "FAHSS WLL (DUBAI BRANCH) CB Products certification Accreditation No. CB-PRD-013 Initial Accreditation Date Oct 06, 2026 | | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-10-28",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-facade-development-services-co-wll-testing-laboratories-acc",
     "name": "Facade Development Services Co WLL Testing Laboratories Accreditation No. LB-TEST-143 Initial Accreditation Date Apr 28, 2016 Gate 167A/ Road 4903 | Al Muaskar Riffa | Bahrain Active",
     "country": "",
@@ -4566,6 +4580,20 @@
   {
     "id": "eiac-falcon-laboratory-llc-testing-laboratories-accreditation-no",
     "name": "Falcon Laboratory LLC Testing Laboratories Accreditation No. LB-TEST-185 Initial Accreditation Date Jul 29, 2018 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-10-28",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-first-genomix-gene-laboratory-fz---llc-medical-laboratories",
+    "name": "First Genomix Gene laboratory FZ - LLC Medical Laboratories Accreditation No. LB-MED-357 Initial Accreditation Date Oct 09, 2026 | | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11145,7 +11173,7 @@
   },
   {
     "id": "eiac-total-quality-halal-correct-certification-(tqhcc)-halal-bod",
-    "name": "Total Quality Halal Correct Certification (TQHCC) Halal Bodies Accreditation No. HBN-CB-034 Initial Accreditation Date Jul 25, 2018 | Leiden | United Arab Emirates Active",
+    "name": "Total Quality Halal Correct Certification (TQHCC) Halal Bodies Accreditation No. HBN-CB-034 Initial Accreditation Date Jul 25, 2018 Perzikweg 9B 2321 DG Leiden | Netherlands | Leiden Leiden | Netherlands Active",
     "country": "",
     "cc": null,
     "scopes": [],
