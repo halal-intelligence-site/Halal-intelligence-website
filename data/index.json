@@ -168,8 +168,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-asm-quality-certification-cb-management-systems-accreditati",
-    "name": "ASM Quality Certification CB Management systems Accreditation No. CB-HACCP-033 Initial Accreditation Date Dec 13, 2012 | Dubai | United Arab Emirates Active",
+    "id": "eiac-asm-quality-certification-quality-management-systems-accred",
+    "name": "ASM Quality Certification Quality Management Systems Accreditation No. CB-HACCP-033 Initial Accreditation Date Dec 13, 2012 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "eiac-aligned-global-assurance-quality--standardization-certifica",
-    "name": "Aligned Global Assurance Quality  Standardization Certificate CB Management systems Accreditation No. CB-FSMS-097 Initial Accreditation Date Feb 02, 2022 Office 101, Al Ahbabi Building, Damascus Street, Al Qusais 2, Dubai | Dubai Al Qusais | United Arab Emirates Active",
+    "name": "Aligned Global Assurance Quality  Standardization Certificate Quality Management Systems Accreditation No. CB-FSMS-097 Initial Accreditation Date Feb 02, 2022 Office 101, Al Ahbabi Building, Damascus Street, Al Qusais 2, Dubai | Dubai Al Qusais | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1540,8 +1540,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-aries-international-maritime-research-institute-cb-manageme",
-    "name": "Aries International Maritime Research Institute CB Management systems Accreditation No. CB-QMS-092 Initial Accreditation Date Feb 13, 2020 | Sharjah | United Arab Emirates Active",
+    "id": "eiac-aries-international-maritime-research-institute-quality-man",
+    "name": "Aries International Maritime Research Institute Quality Management Systems Accreditation No. CB-QMS-092 Initial Accreditation Date Feb 13, 2020 | Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1806,8 +1806,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-astron-certification-l.l.c,-abu-dhabi-cb-management-systems",
-    "name": "Astron Certification L.L.C, Abu Dhabi CB Management systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
+    "id": "eiac-astron-certification-l.l.c,-abu-dhabi-quality-management-sy",
+    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1946,34 +1946,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bm-trada-ventures-llc-cb-management-systems-accreditation-n",
-    "name": "BM Trada Ventures LLC CB Management systems Accreditation No. CB-EMS-019 Initial Accreditation Date Sep 29, 2015 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-bm-trada-ventures-llc-cb-management-systems-accreditation-n",
-    "name": "BM Trada Ventures LLC CB Management systems Accreditation No. CB-HACCP-019 Initial Accreditation Date Feb 02, 2010 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-bm-trada-ventures-llc-cb-products-certification-accreditati",
     "name": "BM Trada Ventures LLC CB Products certification Accreditation No. CB-PRD-009 Initial Accreditation Date Jun 05, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -1988,8 +1960,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bscic-certifications-pvt.-ltd.-cb-management-systems-accred",
-    "name": "BSCIC Certifications PVT. LTD. CB Management systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
+    "id": "eiac-bm-trada-ventures-llc-quality-management-systems-accreditat",
+    "name": "BM Trada Ventures LLC Quality Management Systems Accreditation No. CB-EMS-019 Initial Accreditation Date Sep 29, 2015 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2002,8 +1974,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bsi-management-systems-cb-management-systems-accreditation-",
-    "name": "BSI Management Systems CB Management systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
+    "id": "eiac-bm-trada-ventures-llc-quality-management-systems-accreditat",
+    "name": "BM Trada Ventures LLC Quality Management Systems Accreditation No. CB-HACCP-019 Initial Accreditation Date Feb 02, 2010 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2016,8 +1988,36 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bsi-management-systems-cb-management-systems-accreditation-",
-    "name": "BSI Management Systems CB Management systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
+    "id": "eiac-bscic-certifications-pvt.-ltd.-quality-management-systems-a",
+    "name": "BSCIC Certifications PVT. LTD. Quality Management Systems Accreditation No. CB-FSMS-017 Initial Accreditation Date Dec 08, 2009 &work, Plot 5B, Sector 15A, First Floor, Crown Plaza Mall | Haryana Faridabad | India Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-bsi-management-systems-quality-management-systems-accredita",
+    "name": "BSI Management Systems Quality Management Systems Accreditation No. CB-HACCP-018 Initial Accreditation Date Dec 17, 2009 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-bsi-management-systems-quality-management-systems-accredita",
+    "name": "BSI Management Systems Quality Management Systems Accreditation No. CB-QMS-018 Initial Accreditation Date Apr 07, 2013 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2044,8 +2044,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bulgyo-assessment-india-private-limited-cb-management-syste",
-    "name": "BULGYO ASSESSMENT INDIA PRIVATE LIMITED CB Management systems Accreditation No. CB-QMS-117 Initial Accreditation Date Feb 25, 2026 | | India Active",
+    "id": "eiac-bulgyo-assessment-india-private-limited-quality-management-",
+    "name": "BULGYO ASSESSMENT INDIA PRIVATE LIMITED Quality Management Systems Accreditation No. CB-QMS-117 Initial Accreditation Date Feb 25, 2026 | | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2282,8 +2282,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
+    "id": "eiac-bureau-veritas-certification-quality-management-systems-acc",
+    "name": "Bureau Veritas Certification Quality Management Systems Accreditation No. CB-FSMS-002 Initial Accreditation Date Sep 23, 2008 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2296,8 +2296,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-bureau-veritas-certification-cb-management-systems-accredit",
-    "name": "Bureau Veritas Certification CB Management systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
+    "id": "eiac-bureau-veritas-certification-quality-management-systems-acc",
+    "name": "Bureau Veritas Certification Quality Management Systems Accreditation No. CB-OHSMS-002 Initial Accreditation Date Jul 13, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2408,8 +2408,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-certificato-iwz---fzco-cb-management-systems-accreditation-",
-    "name": "CERTIFICATO IWZ - FZCO CB Management systems Accreditation No. CB-EMS-105 Initial Accreditation Date Feb 15, 2024 Dubai Silicon Oasis | Dubai Deira | United Arab Emirates Active",
+    "id": "eiac-certificato-iwz---fzco-quality-management-systems-accredita",
+    "name": "CERTIFICATO IWZ - FZCO Quality Management Systems Accreditation No. CB-EMS-105 Initial Accreditation Date Feb 15, 2024 Dubai Silicon Oasis | Dubai Deira | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2437,7 +2437,7 @@
   },
   {
     "id": "eiac-comply-quality-and-standardization-certificates-issuing-ser",
-    "name": "COMPLY QUALITY AND STANDARDIZATION CERTIFICATES ISSUING SERVICES L.L.C CB Management systems Accreditation No. CB-FSMS-098 Initial Accreditation Date Apr 05, 2022 Office  201-05, Emitac Building, Al Garhoud, Dubai, United Arab Emirates | Dubai Al Garhoud | United Arab Emirates Active",
+    "name": "COMPLY QUALITY AND STANDARDIZATION CERTIFICATES ISSUING SERVICES L.L.C Quality Management Systems Accreditation No. CB-FSMS-098 Initial Accreditation Date Apr 05, 2022 Office  201-05, Emitac Building, Al Garhoud, Dubai, United Arab Emirates | Dubai Al Garhoud | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2450,8 +2450,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-cpg-certifications-llc-cb-management-systems-accreditation-",
-    "name": "CPG Certifications LLC CB Management systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "id": "eiac-cpg-certifications-llc-quality-management-systems-accredita",
+    "name": "CPG Certifications LLC Quality Management Systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2772,8 +2772,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-conformity-certification-services-cb-management-systems-acc",
-    "name": "Conformity Certification Services CB Management systems Accreditation No. CB-EMS-093 Initial Accreditation Date Jun 03, 2020 | Dubai | United Arab Emirates Active",
+    "id": "eiac-conformity-certification-services-quality-management-system",
+    "name": "Conformity Certification Services Quality Management Systems Accreditation No. CB-EMS-093 Initial Accreditation Date Jun 03, 2020 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3010,8 +3010,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-dnv-gl-business-assurance-group-a-s-(dubai-branch)-cb-manag",
-    "name": "DNV GL Business Assurance Group A S (Dubai Branch) CB Management systems Accreditation No. CB-QMS-016 Initial Accreditation Date Oct 12, 2009 | Dubai | United Arab Emirates Active",
+    "id": "eiac-dnv-gl-business-assurance-group-a-s-(dubai-branch)-quality-",
+    "name": "DNV GL Business Assurance Group A S (Dubai Branch) Quality Management Systems Accreditation No. CB-QMS-016 Initial Accreditation Date Oct 12, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3066,8 +3066,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-dymer-india-certifications-pvt-ltd-cb-management-systems-ac",
-    "name": "DYMER INDIA CERTIFICATIONS PVT LTD CB Management systems Accreditation No. CB-QMS-085 Initial Accreditation Date Nov 07, 2018 Office No B503-B507|5th Floor| Vraj Life Space| Front of RTO Office| Peth Road| Nashik 422003| Maharashtra| India | Maharashtra Nashik | India Active",
+    "id": "eiac-dymer-india-certifications-pvt-ltd-quality-management-syste",
+    "name": "DYMER INDIA CERTIFICATIONS PVT LTD Quality Management Systems Accreditation No. CB-QMS-085 Initial Accreditation Date Nov 07, 2018 Office No B503-B507|5th Floor| Vraj Life Space| Front of RTO Office| Peth Road| Nashik 422003| Maharashtra| India | Maharashtra Nashik | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "eiac-edarat-alhomam-quality-&-standardization-certificates-issui",
-    "name": "Edarat Alhomam Quality & Standardization Certificates Issuing Services L.L.C CB Management systems Accreditation No. CB-QMS-111 Initial Accreditation Date Mar 17, 2025 1st Floor, Al Masraf Bank Building. Al Gouz 1, Sh. Zayed Road | Dubai Dubai | United Arab Emirates Active",
+    "name": "Edarat Alhomam Quality & Standardization Certificates Issuing Services L.L.C Quality Management Systems Accreditation No. CB-QMS-111 Initial Accreditation Date Mar 17, 2025 1st Floor, Al Masraf Bank Building. Al Gouz 1, Sh. Zayed Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -3962,8 +3962,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-elite-quality-and-standardization-certificates-llc---spc-cb",
-    "name": "Elite Quality and Standardization Certificates LLC - SPC CB Management systems Accreditation No. CB-EMS-116 Initial Accreditation Date Nov 25, 2025 Office# 44, Al Ferdous Tower, Al Dannah, Abu Dhabi | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
+    "id": "eiac-elite-quality-and-standardization-certificates-llc---spc-qu",
+    "name": "Elite Quality and Standardization Certificates LLC - SPC Quality Management Systems Accreditation No. CB-EMS-116 Initial Accreditation Date Nov 25, 2025 Office# 44, Al Ferdous Tower, Al Dannah, Abu Dhabi | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4396,8 +4396,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-european-quality-certification-services-cb-management-syste",
-    "name": "European Quality Certification Services CB Management systems Accreditation No. CB-OHSMS-084 Initial Accreditation Date Nov 29, 2018 Al Sawari Tower B, Khalidiya, Abu Dhabi | AbuDhabi Khalidiya | United Arab Emirates Active",
+    "id": "eiac-european-quality-certification-services-quality-management-",
+    "name": "European Quality Certification Services Quality Management Systems Accreditation No. CB-OHSMS-084 Initial Accreditation Date Nov 29, 2018 Al Sawari Tower B, Khalidiya, Abu Dhabi | AbuDhabi Khalidiya | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4452,8 +4452,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-fahss-w.l.l-cb-management-systems-accreditation-no.-cb-isms",
-    "name": "FAHSS W.L.L CB Management systems Accreditation No. CB-ISMS-011 Initial Accreditation Date Dec 23, 2024 Mezzanine Floor | Danat Tower A | Airport Road | PO Box No. 46030 Abu Dhabi–United Arab Emirates | AbuDhabi Abu Dhabi Emirate | United Arab Emirates Active",
+    "id": "eiac-fahss-w.l.l-dubai-branch-inspection-bodies-accreditation-no",
+    "name": "FAHSS W.L.L Dubai Branch Inspection Bodies Accreditation No. IB-010 Initial Accreditation Date Feb 13, 2006 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4466,8 +4466,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-fahss-w.l.l-dubai-branch-inspection-bodies-accreditation-no",
-    "name": "FAHSS W.L.L Dubai Branch Inspection Bodies Accreditation No. IB-010 Initial Accreditation Date Feb 13, 2006 | Dubai | United Arab Emirates Active",
+    "id": "eiac-fahss-w.l.l-quality-management-systems-accreditation-no.-cb",
+    "name": "FAHSS W.L.L Quality Management Systems Accreditation No. CB-ISMS-011 Initial Accreditation Date Dec 23, 2024 Mezzanine Floor | Danat Tower A | Airport Road | PO Box No. 46030 Abu Dhabi–United Arab Emirates | AbuDhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4690,8 +4690,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-gcq-quality-certification-services-l.l.c-cb-management-syst",
-    "name": "GCQ Quality Certification Services L.L.C CB Management systems Accreditation No. CB-FSMS-056 Initial Accreditation Date Nov 29, 2020 Office 109, Al Fahad building NO. 4, Damascus Street, Al Qusais 2, P.O. BOX:115380 Dubai - UAE | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-gcq-quality-certification-services-l.l.c-quality-management",
+    "name": "GCQ Quality Certification Services L.L.C Quality Management Systems Accreditation No. CB-FSMS-056 Initial Accreditation Date Nov 29, 2020 Office 109, Al Fahad building NO. 4, Damascus Street, Al Qusais 2, P.O. BOX:115380 Dubai - UAE | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -4802,8 +4802,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-gabriel-registrar-certificate-issuing-services-llc-cb-manag",
-    "name": "Gabriel Registrar Certificate Issuing Services LLC CB Management systems Accreditation No. CB-QMS-079 Initial Accreditation Date Feb 07, 2018 | Dubai | United Arab Emirates Active",
+    "id": "eiac-gabriel-registrar-certificate-issuing-services-llc-quality-",
+    "name": "Gabriel Registrar Certificate Issuing Services LLC Quality Management Systems Accreditation No. CB-QMS-079 Initial Accreditation Date Feb 07, 2018 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5012,8 +5012,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-global-business-bureau-certification-llc-cb-management-syst",
-    "name": "Global Business Bureau Certification LLC CB Management systems Accreditation No. CB-QMS-091 Initial Accreditation Date Dec 25, 2019 Central District, Plot No.106, Office M205, Al Ain | Al Ain United Arab Emirates | United Arab Emirates Active",
+    "id": "eiac-global-business-bureau-certification-llc-quality-management",
+    "name": "Global Business Bureau Certification LLC Quality Management Systems Accreditation No. CB-QMS-091 Initial Accreditation Date Dec 25, 2019 Central District, Plot No.106, Office M205, Al Ain | Al Ain United Arab Emirates | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5264,20 +5264,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-hcab's-logo",
-    "name": "HCAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-hcc-east-african-halal-confirmation-center-limited-halal-bo",
     "name": "HCC East African Halal Confirmation Center Limited Halal Bodies Accreditation No. HBN-CB-058 Initial Accreditation Date Nov 26, 2020 Jomo Kenyatta International Airport (J.K.I.A) | Cargo Village | Orako Building 3rd Floor | Nairobi | Kenya | Nairobi Nairobi | Kenya Active",
     "country": "",
@@ -5334,8 +5320,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-halal-center-quality-certification-cb-management-systems-ac",
-    "name": "Halal Center Quality Certification CB Management systems Accreditation No. CB-HACCP-100 Initial Accreditation Date Oct 18, 2022 Office No. P1-050, Al Gurg Tower-3, Reggat Al Buteen, Deira, Dubai, UAE | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-halal-center-quality-certification-l.l.c-halal-bodies-accre",
+    "name": "Halal Center Quality Certification L.L.C Halal Bodies Accreditation No. HBN-CB-080 Initial Accreditation Date Sep 26, 2023 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5348,8 +5334,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-halal-center-quality-certification-l.l.c-halal-bodies-accre",
-    "name": "Halal Center Quality Certification L.L.C Halal Bodies Accreditation No. HBN-CB-080 Initial Accreditation Date Sep 26, 2023 | Dubai | United Arab Emirates Active",
+    "id": "eiac-halal-center-quality-certification-quality-management-syste",
+    "name": "Halal Center Quality Certification Quality Management Systems Accreditation No. CB-HACCP-100 Initial Accreditation Date Oct 18, 2022 Office No. P1-050, Al Gurg Tower-3, Reggat Al Buteen, Deira, Dubai, UAE | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5514,20 +5500,6 @@
     "lastVerified": "2026-11-02",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-halal-logo",
-    "name": "Halal Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-halal-quality-control-(hqc)---france-halal-bodies-accredita",
@@ -5895,20 +5867,6 @@
   },
   {
     "id": "eiac-horn-of-africa-livestock-improvement-and-conformity-service",
-    "name": "Horn of Africa Livestock Improvement and Conformity Services (HALICS) CB Management systems Accreditation No. CB-FSMS-113 Initial Accreditation Date Mar 17, 2025 111 7th Avenue, Kantarolka Galbeed, 70108, Garowe | Garowe Puntland | Somalia Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-horn-of-africa-livestock-improvement-and-conformity-service",
     "name": "Horn of Africa Livestock Improvement and Conformity Services (HALICS) Halal Bodies Accreditation No. HBN-CB-064-Kenya Initial Accreditation Date Jan 07, 2022 A1 Ground Floor | Aflah Apartment | Muinami Street | Nairobi Nairobi | Kenya Active",
     "country": "",
     "cc": null,
@@ -5950,6 +5908,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-horn-of-africa-livestock-improvement-and-conformity-service",
+    "name": "Horn of Africa Livestock Improvement and Conformity Services (HALICS) Quality Management Systems Accreditation No. CB-FSMS-113 Initial Accreditation Date Mar 17, 2025 111 7th Avenue, Kantarolka Galbeed, 70108, Garowe | Garowe Puntland | Somalia Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-ideal-clinical-laboratories-to-ideal-clinical-laboratories-",
     "name": "IDEAL CLINICAL LABORATORIES to IDEAL CLINICAL LABORATORIES - L.L.C - S.P.C Medical Laboratories Accreditation No. LB-MED-110 Initial Accreditation Date Mar 13, 2017 C-44 | Mezzanine M1 | M3 & M4 Sabiyah 10 | Mussafah Abu Dhabi | United Arab Emirates | Abu Dhabi Abu Dhabi | United Arab Emirates Active",
     "country": "",
@@ -5964,8 +5936,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-imq-gulf-fzco-cb-management-systems-accreditation-no.-cb-qm",
-    "name": "IMQ GULF FZCO CB Management systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "id": "eiac-imq-gulf-fzco-quality-management-systems-accreditation-no.-",
+    "name": "IMQ GULF FZCO Quality Management Systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5992,8 +5964,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-iqcs-certifications-private-limited-cb-management-systems-a",
-    "name": "IQCS Certifications Private Limited CB Management systems Accreditation No. CB-QMS-024 Initial Accreditation Date Jul 13, 2010 | Maharashtra | India Active",
+    "id": "eiac-iqcs-certifications-private-limited-quality-management-syst",
+    "name": "IQCS Certifications Private Limited Quality Management Systems Accreditation No. CB-QMS-024 Initial Accreditation Date Jul 13, 2010 | Maharashtra | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6328,8 +6300,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-international-certification-services-pvt-ltd-cb-management-",
-    "name": "International Certification Services PVT LTD CB Management systems Accreditation No. CB-HACCP-008 Initial Accreditation Date May 14, 2009 | Mumbai | India Active",
+    "id": "eiac-international-certification-services-pvt-ltd-quality-manage",
+    "name": "International Certification Services PVT LTD Quality Management Systems Accreditation No. CB-HACCP-008 Initial Accreditation Date May 14, 2009 | Mumbai | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6426,8 +6398,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-intertek-international-limited,-dubai-branch-cb-management-",
-    "name": "Intertek International Limited, Dubai Branch CB Management systems Accreditation No. CB-FSMS-089 Initial Accreditation Date Jul 07, 2019 | Dubai | United Arab Emirates Active",
+    "id": "eiac-intertek-international-limited,-dubai-branch-quality-manage",
+    "name": "Intertek International Limited, Dubai Branch Quality Management Systems Accreditation No. CB-FSMS-089 Initial Accreditation Date Jul 07, 2019 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6538,8 +6510,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-itmad-certification-services-l.l.c-cb-management-systems-ac",
-    "name": "Itmad Certification Services L.L.C CB Management systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 Office No. 208 | Dream Building 2 | Al Qusais Industrial Area 4 | Damascus Street P. O. Box 232991 | Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-itmad-certification-services-l.l.c-quality-management-syste",
+    "name": "Itmad Certification Services L.L.C Quality Management Systems Accreditation No. CB-EMS-040 Initial Accreditation Date Dec 22, 2013 Office No. 208 | Dream Building 2 | Al Qusais Industrial Area 4 | Damascus Street P. O. Box 232991 | Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6818,8 +6790,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-kbs-certification-services-limited-cb-management-systems-ac",
-    "name": "KBS Certification Services Limited CB Management systems Accreditation No. CB-FSMS-065 Initial Accreditation Date Aug 26, 2019 | Faridabad | United Arab Emirates Active",
+    "id": "eiac-kbs-certification-services-limited-quality-management-syste",
+    "name": "KBS Certification Services Limited Quality Management Systems Accreditation No. CB-FSMS-065 Initial Accreditation Date Aug 26, 2019 | Faridabad | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6846,8 +6818,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-kvqa-certification-services-pvt.-ltd.-cb-management-systems",
-    "name": "KVQA Certification Services PVT. LTD. CB Management systems Accreditation No. CB-HACCP-045 Initial Accreditation Date Jan 09, 2019 | Noida | India Active",
+    "id": "eiac-kvqa-certification-services-pvt.-ltd.-quality-management-sy",
+    "name": "KVQA Certification Services PVT. LTD. Quality Management Systems Accreditation No. CB-HACCP-045 Initial Accreditation Date Jan 09, 2019 | Noida | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6860,8 +6832,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-kvqa-certification-services-pvt.-ltd.-cb-management-systems",
-    "name": "KVQA Certification Services PVT. LTD. CB Management systems Accreditation No. CB-QMS-045 Initial Accreditation Date Jun 22, 2014 | Noida | India Active",
+    "id": "eiac-kvqa-certification-services-pvt.-ltd.-quality-management-sy",
+    "name": "KVQA Certification Services PVT. LTD. Quality Management Systems Accreditation No. CB-QMS-045 Initial Accreditation Date Jun 22, 2014 | Noida | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7014,20 +6986,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-lab's-logo",
-    "name": "LAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-labax-chemical-&-biological-laboratory-l.l.c-testing-labora",
     "name": "LABAX Chemical & Biological Laboratory L.L.C Testing Laboratories Accreditation No. LB-TEST-258 Initial Accreditation Date Mar 29, 2024 70 Street |Building-164 | Jabel Ali Industrial Area 3 Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -7084,8 +7042,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-lms-certifications-pvt.-ltd.-cb-management-systems-accredit",
-    "name": "LMS Certifications PVT. LTD. CB Management systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
+    "id": "eiac-lms-certifications-pvt.-ltd.-quality-management-systems-acc",
+    "name": "LMS Certifications PVT. LTD. Quality Management Systems Accreditation No. CB-EMS-006 Initial Accreditation Date Mar 05, 2003 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7098,8 +7056,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-lms-certifications-pvt.-ltd.-cb-management-systems-accredit",
-    "name": "LMS Certifications PVT. LTD. CB Management systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
+    "id": "eiac-lms-certifications-pvt.-ltd.-quality-management-systems-acc",
+    "name": "LMS Certifications PVT. LTD. Quality Management Systems Accreditation No. CB-HACCP-006 Initial Accreditation Date Sep 04, 2019 | Fareedi Nagar | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7112,8 +7070,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-lrqa-limited-cb-management-systems-accreditation-no.-cb-hac",
-    "name": "LRQA Limited CB Management systems Accreditation No. CB-HACCP-009 Initial Accreditation Date May 21, 2009 | Dubai | United Arab Emirates Active",
+    "id": "eiac-lrqa-limited-quality-management-systems-accreditation-no.-c",
+    "name": "LRQA Limited Quality Management Systems Accreditation No. CB-HACCP-009 Initial Accreditation Date May 21, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7126,8 +7084,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-lrqa-limited-cb-management-systems-accreditation-no.-cb-qms",
-    "name": "LRQA Limited CB Management systems Accreditation No. CB-QMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
+    "id": "eiac-lrqa-limited-quality-management-systems-accreditation-no.-c",
+    "name": "LRQA Limited Quality Management Systems Accreditation No. CB-QMS-009 Initial Accreditation Date Nov 29, 2015 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -7168,8 +7126,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-leadmax-quality-and-standardization-llc-cb-management-syste",
-    "name": "Leadmax Quality and Standardization LLC CB Management systems Accreditation No. CB-HACCP-094 Initial Accreditation Date Sep 16, 2020 | Deira | United Arab Emirates Active",
+    "id": "eiac-leadmax-quality-and-standardization-llc-quality-management-",
+    "name": "Leadmax Quality and Standardization LLC Quality Management Systems Accreditation No. CB-HACCP-094 Initial Accreditation Date Sep 16, 2020 | Deira | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8274,8 +8232,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-nqa-certification-limited-cb-management-systems-accreditati",
-    "name": "NQA Certification Limited CB Management systems Accreditation No. CB-OHSMS-058 Initial Accreditation Date Feb 04, 2016 | Dunstable | United Arab Emirates Active",
+    "id": "eiac-nqa-certification-limited-quality-management-systems-accred",
+    "name": "NQA Certification Limited Quality Management Systems Accreditation No. CB-OHSMS-058 Initial Accreditation Date Feb 04, 2016 | Dunstable | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8610,8 +8568,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-normeira-standardization-certifications-cb-management-syste",
-    "name": "Normeira Standardization Certifications CB Management systems Accreditation No. CB-QMS-101 Initial Accreditation Date Nov 25, 2022 Clover Bay Tower | Office No 2403 | Business Bay Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-normeira-standardization-certifications-quality-management-",
+    "name": "Normeira Standardization Certifications Quality Management Systems Accreditation No. CB-QMS-101 Initial Accreditation Date Nov 25, 2022 Clover Bay Tower | Office No 2403 | Business Bay Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8650,118 +8608,6 @@
     "lastVerified": "2026-11-02",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-oic/smiic\n\t\t\t\t\t\t\t4:2018-cosmetics",
-    "name": "OIC/SMIIC\n\t\t\t\t\t\t\t4:2018 COSMETICS",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&\n\t\t\t\t\t\t\t\twarehous",
-    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION &\n\t\t\t\t\t\t\t\tWAREHOUSING SERVICES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-1:2019-food",
-    "name": "OIC/SMIIC 1:2019 FOOD",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-34:2020-certification-of-persons\n\t\t\t\t\t\t\t\tinvolved-",
-    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS\n\t\t\t\t\t\t\t\tINVOLVED IN THE HALAL RELATED ACTIVITIES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-35:2020-laboratories-performing\n\t\t\t\t\t\t\t\thalal-test",
-    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING\n\t\t\t\t\t\t\t\tHALAL TESTING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-36:2020-the-proficiency-testing\n\t\t\t\t\t\t\t\tproviders-",
-    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING\n\t\t\t\t\t\t\t\tPROVIDERS FOR HALAL CONFORMITY PURPOSES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-6:2019-catering",
-    "name": "OIC/SMIIC 6:2019 CATERING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-9:2019-tourism",
-    "name": "OIC/SMIIC 9:2019 TOURISM",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-omicron-testing-&-research-laboratory-testing-laboratories-",
@@ -9086,8 +8932,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-prime-certification-&-inspection-llc-cb-management-systems-",
-    "name": "Prime Certification & Inspection LLC CB Management systems Accreditation No. CB-FSMS-063 Initial Accreditation Date Sep 01, 2016 | Dubai | United Arab Emirates Active",
+    "id": "eiac-prime-certification-&-inspection-llc-halal-bodies-accredita",
+    "name": "Prime Certification & Inspection LLC Halal Bodies Accreditation No. HBN-CB-006 Initial Accreditation Date Feb 26, 2017 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9100,8 +8946,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-prime-certification-&-inspection-llc-halal-bodies-accredita",
-    "name": "Prime Certification & Inspection LLC Halal Bodies Accreditation No. HBN-CB-006 Initial Accreditation Date Feb 26, 2017 | Dubai | United Arab Emirates Active",
+    "id": "eiac-prime-certification-&-inspection-llc-quality-management-sys",
+    "name": "Prime Certification & Inspection LLC Quality Management Systems Accreditation No. CB-FSMS-063 Initial Accreditation Date Sep 01, 2016 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9394,8 +9240,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-q-a-i-certification-services-l.l.c-cb-management-systems-ac",
-    "name": "Q A I Certification Services L.L.C CB Management systems Accreditation No. CB-QMS-110 Initial Accreditation Date Jan 02, 2025 | Dubai | United Arab Emirates Active",
+    "id": "eiac-q-a-i-certification-services-l.l.c-quality-management-syste",
+    "name": "Q A I Certification Services L.L.C Quality Management Systems Accreditation No. CB-QMS-110 Initial Accreditation Date Jan 02, 2025 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9408,8 +9254,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-qs-zurich-ag-cb-management-systems-accreditation-no.-cb-ohs",
-    "name": "QS Zurich AG CB Management systems Accreditation No. CB-OHSMS-087 Initial Accreditation Date Mar 21, 2019 | Zurich | Switzerland Active",
+    "id": "eiac-qs-zurich-ag-quality-management-systems-accreditation-no.-c",
+    "name": "QS Zurich AG Quality Management Systems Accreditation No. CB-OHSMS-087 Initial Accreditation Date Mar 21, 2019 | Zurich | Switzerland Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9534,8 +9380,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-rca-risk-control-advisory-fzco-cb-management-systems-accred",
-    "name": "RCA-Risk Control Advisory-FZCO CB Management systems Accreditation No. CB-QMS-106 Initial Accreditation Date Apr 18, 2024 | Dubai | United Arab Emirates Active",
+    "id": "eiac-rca-risk-control-advisory-fzco-quality-management-systems-a",
+    "name": "RCA-Risk Control Advisory-FZCO Quality Management Systems Accreditation No. CB-QMS-106 Initial Accreditation Date Apr 18, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9562,8 +9408,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-robust-certifications-private-limited-cb-management-systems",
-    "name": "ROBUST CERTIFICATIONS PRIVATE LIMITED CB Management systems Accreditation No. CB-QMS-115 Initial Accreditation Date Nov 05, 2025 H-15, SECTOR 63, GB NAGAR, NOIDA, GAUTAM BUDDHA NA | Noida Uttar Pradesh | India Active",
+    "id": "eiac-robust-certifications-private-limited-quality-management-sy",
+    "name": "ROBUST CERTIFICATIONS PRIVATE LIMITED Quality Management Systems Accreditation No. CB-QMS-115 Initial Accreditation Date Nov 05, 2025 H-15, SECTOR 63, GB NAGAR, NOIDA, GAUTAM BUDDHA NA | Noida Uttar Pradesh | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9576,8 +9422,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-rohs-certification-private-limited-cb-management-systems-ac",
-    "name": "ROHS Certification Private Limited CB Management systems Accreditation No. CB-FSMS-035 Initial Accreditation Date Dec 30, 2012 | Delhi | India Active",
+    "id": "eiac-rohs-certification-private-limited-quality-management-syste",
+    "name": "ROHS Certification Private Limited Quality Management Systems Accreditation No. CB-FSMS-035 Initial Accreditation Date Dec 30, 2012 | Delhi | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9646,8 +9492,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-realcare-certification-private-limited-cb-management-system",
-    "name": "Realcare Certification Private Limited CB Management systems Accreditation No. CB-HACCP-109 Initial Accreditation Date Apr 14, 2025 | Pitampura | India Active",
+    "id": "eiac-realcare-certification-private-limited-quality-management-s",
+    "name": "Realcare Certification Private Limited Quality Management Systems Accreditation No. CB-HACCP-109 Initial Accreditation Date Apr 14, 2025 | Pitampura | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9660,8 +9506,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-realcare-certification-private-limited-cb-management-system",
-    "name": "Realcare Certification Private Limited CB Management systems Accreditation No. CB-QMS-109 Initial Accreditation Date Aug 24, 2024 | Pitampura | India Active",
+    "id": "eiac-realcare-certification-private-limited-quality-management-s",
+    "name": "Realcare Certification Private Limited Quality Management Systems Accreditation No. CB-QMS-109 Initial Accreditation Date Aug 24, 2024 | Pitampura | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -9828,8 +9674,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-sgs-gulf-limited-cb-management-systems-accreditation-no.-cb",
-    "name": "SGS Gulf Limited CB Management systems Accreditation No. CB-FSMS-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
+    "id": "eiac-sgs-gulf-limited-quality-management-systems-accreditation-n",
+    "name": "SGS Gulf Limited Quality Management Systems Accreditation No. CB-FSMS-007 Initial Accreditation Date Mar 25, 2009 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10262,8 +10108,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-sheq-national-cert-international-(pty)-ltd-cb-management-sy",
-    "name": "Sheq National Cert International (PTY) LTD CB Management systems Accreditation No. CB-EMS-114 Initial Accreditation Date Sep 19, 2025 18 Rietbos Avenue | Glen Marais | Kempton Park | 1 | Kempton Park Gauteng | South Africa Active",
+    "id": "eiac-sheq-national-cert-international-(pty)-ltd-quality-manageme",
+    "name": "Sheq National Cert International (PTY) LTD Quality Management Systems Accreditation No. CB-EMS-114 Initial Accreditation Date Sep 19, 2025 18 Rietbos Avenue | Glen Marais | Kempton Park | 1 | Kempton Park Gauteng | South Africa Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10430,8 +10276,8 @@
     "evidence": "https://www.muis.gov.sg/halal/fhcb/"
   },
   {
-    "id": "eiac-stancert-assessors-private-limited-cb-management-systems-ac",
-    "name": "Stancert Assessors Private Limited CB Management systems Accreditation No. CB-QMS-036 Initial Accreditation Date Dec 30, 2012 | Gujarat | India Active",
+    "id": "eiac-stancert-assessors-private-limited-quality-management-syste",
+    "name": "Stancert Assessors Private Limited Quality Management Systems Accreditation No. CB-QMS-036 Initial Accreditation Date Dec 30, 2012 | Gujarat | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10542,8 +10388,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-swiss-cert-pvt.-ltd.-cb-management-systems-accreditation-no",
-    "name": "Swiss Cert PVT. LTD. CB Management systems Accreditation No. CB-OHSMS-004 Initial Accreditation Date Dec 24, 2020 | Pitampura | India Active",
+    "id": "eiac-swiss-cert-pvt.-ltd.-quality-management-systems-accreditati",
+    "name": "Swiss Cert PVT. LTD. Quality Management Systems Accreditation No. CB-OHSMS-004 Initial Accreditation Date Dec 24, 2020 | Pitampura | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10556,8 +10402,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-swiss-cert-pvt.-ltd.-cb-management-systems-accreditation-no",
-    "name": "Swiss Cert PVT. LTD. CB Management systems Accreditation No. CB-QMS-004 Initial Accreditation Date Feb 12, 2009 | Pitampura | India Active",
+    "id": "eiac-swiss-cert-pvt.-ltd.-quality-management-systems-accreditati",
+    "name": "Swiss Cert PVT. LTD. Quality Management Systems Accreditation No. CB-QMS-004 Initial Accreditation Date Feb 12, 2009 | Pitampura | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10570,8 +10416,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-t-c-h-global-quality-certificates-issuing-services-l.l.c-cb",
-    "name": "T C H Global Quality Certificates Issuing Services L.L.C CB Management systems Accreditation No. CB-FSMS-112 Initial Accreditation Date Mar 17, 2025 Office No: 07, First Floor, Madina Mall, Al Qusais | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-t-c-h-global-quality-certificates-issuing-services-l.l.c-qu",
+    "name": "T C H Global Quality Certificates Issuing Services L.L.C Quality Management Systems Accreditation No. CB-FSMS-112 Initial Accreditation Date Mar 17, 2025 Office No: 07, First Floor, Madina Mall, Al Qusais | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10654,8 +10500,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-the-q-quality-certificates-issuing-services-cb-management-s",
-    "name": "THE Q QUALITY CERTIFICATES ISSUING SERVICES CB Management systems Accreditation No. CB-PRD-011 Initial Accreditation Date May 13, 2025 Al Salemiyah Tower, Office 1304, Deira | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-the-q-quality-certificates-issuing-services-quality-managem",
+    "name": "THE Q QUALITY CERTIFICATES ISSUING SERVICES Quality Management Systems Accreditation No. CB-PRD-011 Initial Accreditation Date May 13, 2025 Al Salemiyah Tower, Office 1304, Deira | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10710,20 +10556,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-tuv-rheinland-middle-east-fze-cb-management-systems-accredi",
-    "name": "TUV Rheinland Middle East FZE CB Management systems Accreditation No. CB-QMS-057 Initial Accreditation Date Dec 17, 2015 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-tuv-rheinland-middle-east-fze-cb-persons-certification-accr",
     "name": "TUV Rheinland Middle East FZE CB Persons certification Accreditation No. CB-PRS-027 Initial Accreditation Date Feb 23, 2020 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -10752,8 +10584,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-tuv-sud-middle-east-cb-management-systems-accreditation-no.",
-    "name": "TUV SUD Middle East CB Management systems Accreditation No. CB-QMS-021 Initial Accreditation Date Apr 26, 2010 Unit No.  A01 A06, 15th Floor, Tower A, Empire Heights Building, Abraj Street, Business Bay, P. O. Box  2834, | Dubai Business Bay | United Arab Emirates Active",
+    "id": "eiac-tuv-rheinland-middle-east-fze-quality-management-systems-ac",
+    "name": "TUV Rheinland Middle East FZE Quality Management Systems Accreditation No. CB-QMS-057 Initial Accreditation Date Dec 17, 2015 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10794,6 +10626,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-tuv-sud-middle-east-quality-management-systems-accreditatio",
+    "name": "TUV SUD Middle East Quality Management Systems Accreditation No. CB-QMS-021 Initial Accreditation Date Apr 26, 2010 Unit No.  A01 A06, 15th Floor, Tower A, Empire Heights Building, Abraj Street, Business Bay, P. O. Box  2834, | Dubai Business Bay | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-taha-medical-centre-laboratory-medical-laboratories-accredi",
     "name": "Taha Medical Centre Laboratory Medical Laboratories Accreditation No. LB-MED-109 Initial Accreditation Date Mar 09, 2017 AL FALAH STREET ABU DHABI UAE | Abu Dhabi Select State | United Arab Emirates Active",
     "country": "",
@@ -10808,36 +10654,36 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-tasneef-rina-business-assurance-llc-cb-management-systems-a",
-    "name": "Tasneef-Rina Business Assurance LLC CB Management systems Accreditation No. CB-FSMS-046 Initial Accreditation Date Feb 03, 2016 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tasneef-rina-business-assurance-llc-cb-management-systems-a",
-    "name": "Tasneef-Rina Business Assurance LLC CB Management systems Accreditation No. CB-HACCP-046 Initial Accreditation Date Jun 24, 2014 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-02",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-tasneef-rina-business-assurance-llc-cb-products-certificati",
     "name": "Tasneef-Rina Business Assurance LLC CB Products certification Accreditation No. CB-PRD-007 Initial Accreditation Date Nov 17, 2022 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-tasneef-rina-business-assurance-llc-quality-management-syst",
+    "name": "Tasneef-Rina Business Assurance LLC Quality Management Systems Accreditation No. CB-FSMS-046 Initial Accreditation Date Feb 03, 2016 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-02",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-tasneef-rina-business-assurance-llc-quality-management-syst",
+    "name": "Tasneef-Rina Business Assurance LLC Quality Management Systems Accreditation No. CB-HACCP-046 Initial Accreditation Date Jun 24, 2014 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11284,8 +11130,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-tüv-nord-middle-east-l.l.c.-cb-management-systems-accredita",
-    "name": "TÜV NORD Middle East L.L.C. CB Management systems Accreditation No. CB-QMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-tüv-nord-middle-east-l.l.c.-food-safety-management-systems-",
+    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-HACCP-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11298,8 +11144,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-tüv-nord-middle-east-l.l.c.-food-safety-management-systems-",
-    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-FSMS-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "id": "eiac-tüv-nord-middle-east-l.l.c.-quality-management-systems-accr",
+    "name": "TÜV NORD Middle East L.L.C. Quality Management Systems Accreditation No. CB-EMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11396,8 +11242,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-united-registrar-of-systems-me-fzc-cb-management-systems-ac",
-    "name": "United Registrar of Systems ME FZC CB Management systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "id": "eiac-united-registrar-of-systems-me-fzc-quality-management-syste",
+    "name": "United Registrar of Systems ME FZC Quality Management Systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11466,8 +11312,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-vrc-certification-pvt.-ltd.-cb-management-systems-accredita",
-    "name": "VRC Certification PVT. LTD. CB Management systems Accreditation No. CB-QMS-103 Initial Accreditation Date Oct 12, 2023 | Lucknow | India Active",
+    "id": "eiac-vrc-certification-pvt.-ltd.-quality-management-systems-accr",
+    "name": "VRC Certification PVT. LTD. Quality Management Systems Accreditation No. CB-QMS-103 Initial Accreditation Date Oct 12, 2023 | Lucknow | India Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11550,8 +11396,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-veritas-system-quality-certificates-issuing-llc-cb-manageme",
-    "name": "Veritas System Quality Certificates Issuing LLC CB Management systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "id": "eiac-veritas-system-quality-certificates-issuing-llc-quality-man",
+    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11592,8 +11438,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-viscount-quality-certifications-cb-management-systems-accre",
-    "name": "Viscount Quality Certifications CB Management systems Accreditation No. CB-OHSMS-076 Initial Accreditation Date Dec 21, 2017 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
+    "id": "eiac-viscount-quality-certifications-quality-management-systems-",
+    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-OHSMS-076 Initial Accreditation Date Dec 21, 2017 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11732,8 +11578,8 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-wecert-quality-certificates-issuing-services-cb-management-",
-    "name": "Wecert Quality Certificates Issuing Services CB Management systems Accreditation No. CB-HACCP-108 Initial Accreditation Date May 16, 2024 No. 416, Business Avenue, Sheikh Rashid Rd., Al Khabaisi | Dubai | United Arab Emirates Active",
+    "id": "eiac-wecert-quality-certificates-issuing-services-quality-manage",
+    "name": "Wecert Quality Certificates Issuing Services Quality Management Systems Accreditation No. CB-HACCP-108 Initial Accreditation Date May 16, 2024 No. 416, Business Avenue, Sheikh Rashid Rd., Al Khabaisi | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
