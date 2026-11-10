@@ -3108,20 +3108,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-dar-al-mouasah-diagnostic-centre-llc-medical-laboratories-a",
-    "name": "Dar Al Mouasah Diagnostic Centre LLC Medical Laboratories Accreditation No. LB-MED-088 Initial Accreditation Date Nov 02, 2016 | Abu Dhabi | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-10",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-delta-gulf-quality-certification-services-llc-inspection-bo",
     "name": "Delta Gulf Quality Certification Services LLC Inspection Bodies Accreditation No. IB-260 Initial Accreditation Date Feb 03, 2026 | | United Arab Emirates Active",
     "country": "",
@@ -5222,6 +5208,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-hqc-europe,-s.l.-france-halal-bodies-accreditation-no.-hbn-",
+    "name": "HQC Europe, S.L.-France Halal Bodies Accreditation No. HBN-CB-067-France Initial Accreditation Date May 20, 2026 50, Avenue des Champs-Elysées 75008 Paris | Paris Paris | France Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-10",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-halal-assurance-and-quality-greece-haq---greece-halal-bodie",
     "name": "Halal Assurance and Quality Greece HAQ - Greece Halal Bodies Accreditation No. HBN-CB-063 Initial Accreditation Date Sep 30, 2021 | Thermi | Greece Active",
     "country": "",
@@ -5867,7 +5867,7 @@
   },
   {
     "id": "eiac-imq-gulf-fzco-quality-management-systems-accreditation-no.-",
-    "name": "IMQ GULF FZCO Quality Management Systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office 819, 6WA, Dubai airport Freezone, Dubai, UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
+    "name": "IMQ GULF FZCO Quality Management Systems Accreditation No. CB-QMS-102 Initial Accreditation Date Jul 15, 2025 Office No. 826 | Building Name: 6 West A | Dubai Airport Freezone | P.O. Box 371233 Dubai - UAE | Dubai Dubai airport Freezo | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11173,21 +11173,7 @@
   },
   {
     "id": "eiac-tüv-nord-middle-east-l.l.c.-food-safety-management-systems-",
-    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-HACCP-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-10",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tüv-nord-middle-east-l.l.c.-quality-management-systems-accr",
-    "name": "TÜV NORD Middle East L.L.C. Quality Management Systems Accreditation No. CB-QMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-FSMS-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
