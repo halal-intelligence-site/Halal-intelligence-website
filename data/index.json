@@ -5349,7 +5349,7 @@
   },
   {
     "id": "eiac-halal-food-council-of-europe-(hfce)-halal-bodies-accreditat",
-    "name": "Halal Food Council of Europe (HFCE) Halal Bodies Accreditation No. HBN-CB-015 Initial Accreditation Date Oct 15, 2017 Rue de la Presse, 4, 1000 | Brussels Brussels | Belgium Active",
+    "name": "Halal Food Council of Europe (HFCE) Halal Bodies Accreditation No. HBN-CB-015 Initial Accreditation Date Oct 15, 2017 Avenue Louise 120 | 1050 Brussels | Belgium | Brussels Brussels | Belgium Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -6372,6 +6372,20 @@
   {
     "id": "eiac-islamic-food-and-nutrition-council-of-america-ifanca-halal-",
     "name": "Islamic Food and Nutrition Council of America IFANCA Halal Bodies Accreditation No. HBN-CB-019 Initial Accreditation Date Nov 19, 2017 US | Des Plaines US | United States Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-11",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-islamic-food-and-nutrition-council-of-canada-halal-bodies-a",
+    "name": "Islamic Food and Nutrition Council of Canada Halal Bodies Accreditation No. HBN-CB-018 Initial Accreditation Date Nov 05, 2017 130 Dundas Street East | Suite 206 | Canada | Mississauga canada | Canada Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11005,21 +11019,7 @@
   },
   {
     "id": "eiac-tüv-nord-middle-east-l.l.c.-food-safety-management-systems-",
-    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-HACCP-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-11",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-tüv-nord-middle-east-l.l.c.-quality-management-systems-accr",
-    "name": "TÜV NORD Middle East L.L.C. Quality Management Systems Accreditation No. CB-QMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-FSMS-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11271,7 +11271,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-quality-man",
-    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11299,7 +11299,7 @@
   },
   {
     "id": "eiac-viscount-quality-certifications-quality-management-systems-",
-    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-BCMS-076 Initial Accreditation Date Jul 21, 2026 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
+    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-OHSMS-076 Initial Accreditation Date Dec 21, 2017 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
