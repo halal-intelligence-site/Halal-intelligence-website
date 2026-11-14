@@ -11201,7 +11201,21 @@
   },
   {
     "id": "eiac-tüv-nord-middle-east-l.l.c.-food-safety-management-systems-",
-    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-FSMS-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-HACCP-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-14",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-tüv-nord-middle-east-l.l.c.-quality-management-systems-accr",
+    "name": "TÜV NORD Middle East L.L.C. Quality Management Systems Accreditation No. CB-QMS-119 Initial Accreditation Date Aug 03, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11299,7 +11313,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-quality-management-syste",
-    "name": "United Registrar of Systems ME FZC Quality Management Systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Quality Management Systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
