@@ -5166,20 +5166,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-hcab's-logo",
-    "name": "HCAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-hcc-east-african-halal-confirmation-center-limited-halal-bo",
     "name": "HCC East African Halal Confirmation Center Limited Halal Bodies Accreditation No. HBN-CB-058 Initial Accreditation Date Nov 26, 2020 Jomo Kenyatta International Airport (J.K.I.A) | Cargo Village | Orako Building 3rd Floor | Nairobi | Kenya | Nairobi Nairobi | Kenya Active",
     "country": "",
@@ -5416,20 +5402,6 @@
     "lastVerified": "2026-11-17",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-halal-logo",
-    "name": "Halal Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-halal-quality-control-(hqc)---france-halal-bodies-accredita",
@@ -6916,20 +6888,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-lab's-logo",
-    "name": "LAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-labax-chemical-&-biological-laboratory-l.l.c-testing-labora",
     "name": "LABAX Chemical & Biological Laboratory L.L.C Testing Laboratories Accreditation No. LB-TEST-258 Initial Accreditation Date Mar 29, 2024 70 Street |Building-164 | Jabel Ali Industrial Area 3 Dubai | United Arab Emirates | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -8288,20 +8246,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-national-reference-laboratory-(nrl)-at-cleveland-clinic-abu",
-    "name": "National Reference Laboratory (NRL) at Cleveland Clinic Abu Dhabi LLC Medical Laboratories Accreditation No. LB-MED-130 Initial Accreditation Date May 18, 2017 | Abu Dhabi | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-national-reference-laboratory-(nrl)-at-healthpoint-hospital",
     "name": "National Reference Laboratory (NRL) at Healthpoint Hospital Medical Laboratories Accreditation No. LB-MED-098 Initial Accreditation Date Mar 02, 2017 Zayed Sports City Abu Dhabi |- United Arab Emirates | Abu Dhabi Abu Dhabi Emirate | United Arab Emirates Active",
     "country": "",
@@ -8538,118 +8482,6 @@
     "lastVerified": "2026-11-17",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-oic/smiic\n\t\t\t\t\t\t\t4:2018-cosmetics",
-    "name": "OIC/SMIIC\n\t\t\t\t\t\t\t4:2018 COSMETICS",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&\n\t\t\t\t\t\t\t\twarehous",
-    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION &\n\t\t\t\t\t\t\t\tWAREHOUSING SERVICES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-1:2019-food",
-    "name": "OIC/SMIIC 1:2019 FOOD",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-34:2020-certification-of-persons\n\t\t\t\t\t\t\t\tinvolved-",
-    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS\n\t\t\t\t\t\t\t\tINVOLVED IN THE HALAL RELATED ACTIVITIES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-35:2020-laboratories-performing\n\t\t\t\t\t\t\t\thalal-test",
-    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING\n\t\t\t\t\t\t\t\tHALAL TESTING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-36:2020-the-proficiency-testing\n\t\t\t\t\t\t\t\tproviders-",
-    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING\n\t\t\t\t\t\t\t\tPROVIDERS FOR HALAL CONFORMITY PURPOSES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-6:2019-catering",
-    "name": "OIC/SMIIC 6:2019 CATERING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-9:2019-tourism",
-    "name": "OIC/SMIIC 9:2019 TOURISM",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-omicron-testing-&-research-laboratory-testing-laboratories-",
@@ -9130,20 +8962,6 @@
   {
     "id": "eiac-proficiency-healthcare-diagnostic-laboratories-llc-medical-",
     "name": "Proficiency Healthcare Diagnostic Laboratories LLC Medical Laboratories Accreditation No. LB-MED-037 Initial Accreditation Date Mar 11, 2013 | Abu Dhabi | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-17",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-proficiency-healthcare-diagnostic-laboratories-llc--branch-",
-    "name": "Proficiency Healthcare Diagnostic Laboratories LLC- Branch 1 Medical Laboratories Accreditation No. LB-MED-131 Initial Accreditation Date May 18, 2017 | Al Ain | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11285,7 +11103,7 @@
   },
   {
     "id": "eiac-united-registrar-of-systems-me-fzc-quality-management-syste",
-    "name": "United Registrar of Systems ME FZC Quality Management Systems Accreditation No. CB-HACCP-020 Initial Accreditation Date Apr 05, 2010 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
+    "name": "United Registrar of Systems ME FZC Quality Management Systems Accreditation No. CB-QMS-020 Initial Accreditation Date Nov 23, 2021 Q1-09, SAIF Plus, SAIF Zone, Sharjah / 103, 104 Speedex Centre, Salahuddin Road, Deira, Dubai | Sharjah Sharjah | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
