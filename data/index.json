@@ -1779,7 +1779,7 @@
   },
   {
     "id": "eiac-astron-certification-l.l.c,-abu-dhabi-quality-management-sy",
-    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-EMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
+    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2381,7 +2381,7 @@
   },
   {
     "id": "eiac-certificato-iwz---fzco-quality-management-systems-accredita",
-    "name": "CERTIFICATO IWZ - FZCO Quality Management Systems Accreditation No. CB-EMS-105 Initial Accreditation Date Feb 15, 2024 Dubai Silicon Oasis | Dubai Deira | United Arab Emirates Active",
+    "name": "CERTIFICATO IWZ - FZCO Quality Management Systems Accreditation No. CB-ISMS-105 Initial Accreditation Date Nov 25, 2025 Dubai Silicon Oasis | Dubai Deira | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -2423,7 +2423,7 @@
   },
   {
     "id": "eiac-cpg-certifications-llc-quality-management-systems-accredita",
-    "name": "CPG Certifications LLC Quality Management Systems Accreditation No. CB-OHSMS-095 Initial Accreditation Date Jul 25, 2023 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
+    "name": "CPG Certifications LLC Quality Management Systems Accreditation No. CB-BCMS-095 Initial Accreditation Date Aug 10, 2021 BT15-24,15th Floor, Sheikh Khalifa Bin Zayed Road, Burjuman Business Tower, Al Mankhool - Dubai, U.A.E. | Dubai AL mankhool | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -5166,20 +5166,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "hak-hcab's-logo",
-    "name": "HCAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
     "id": "eiac-hcc-east-african-halal-confirmation-center-limited-halal-bo",
     "name": "HCC East African Halal Confirmation Center Limited Halal Bodies Accreditation No. HBN-CB-058 Initial Accreditation Date Nov 26, 2020 Jomo Kenyatta International Airport (J.K.I.A) | Cargo Village | Orako Building 3rd Floor | Nairobi | Kenya | Nairobi Nairobi | Kenya Active",
     "country": "",
@@ -5416,20 +5402,6 @@
     "lastVerified": "2026-11-18",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-halal-logo",
-    "name": "Halal Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-halal-quality-control-(hqc)---france-halal-bodies-accredita",
@@ -6398,20 +6370,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-islamic-food-and-nutrition-council-of-america-ifanca-halal-",
-    "name": "Islamic Food and Nutrition Council of America IFANCA Halal Bodies Accreditation No. HBN-CB-019 Initial Accreditation Date Nov 19, 2017 US | Des Plaines US | United States Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-islamic-food-and-nutrition-council-of-canada-halal-bodies-a",
     "name": "Islamic Food and Nutrition Council of Canada Halal Bodies Accreditation No. HBN-CB-018 Initial Accreditation Date Nov 05, 2017 130 Dundas Street East | Suite 206 | Canada | Mississauga canada | Canada Active",
     "country": "",
@@ -6914,20 +6872,6 @@
     "lastVerified": "2026-11-18",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-lab's-logo",
-    "name": "LAB's Logo",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-labax-chemical-&-biological-laboratory-l.l.c-testing-labora",
@@ -8524,118 +8468,6 @@
     "lastVerified": "2026-11-18",
     "site": "",
     "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "hak-oic/smiic\n\t\t\t\t\t\t\t4:2018-cosmetics",
-    "name": "OIC/SMIIC\n\t\t\t\t\t\t\t4:2018 COSMETICS",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-17-1-&-17-2:2020-transportation-&\n\t\t\t\t\t\t\t\twarehous",
-    "name": "OIC/SMIIC 17-1 & 17-2:2020 TRANSPORTATION &\n\t\t\t\t\t\t\t\tWAREHOUSING SERVICES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-1:2019-food",
-    "name": "OIC/SMIIC 1:2019 FOOD",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-34:2020-certification-of-persons\n\t\t\t\t\t\t\t\tinvolved-",
-    "name": "OIC/SMIIC 34:2020 CERTIFICATION OF PERSONS\n\t\t\t\t\t\t\t\tINVOLVED IN THE HALAL RELATED ACTIVITIES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-35:2020-laboratories-performing\n\t\t\t\t\t\t\t\thalal-test",
-    "name": "OIC/SMIIC 35:2020 LABORATORIES PERFORMING\n\t\t\t\t\t\t\t\tHALAL TESTING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-36:2020-the-proficiency-testing\n\t\t\t\t\t\t\t\tproviders-",
-    "name": "OIC/SMIIC 36:2020 THE PROFICIENCY TESTING\n\t\t\t\t\t\t\t\tPROVIDERS FOR HALAL CONFORMITY PURPOSES",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-6:2019-catering",
-    "name": "OIC/SMIIC 6:2019 CATERING",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
-  },
-  {
-    "id": "hak-oic/smiic-9:2019-tourism",
-    "name": "OIC/SMIIC 9:2019 TOURISM",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "HAK"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-18",
-    "site": "",
-    "evidence": "https://english.hak.gov.tr/accredited-hcabs"
   },
   {
     "id": "eiac-omicron-testing-&-research-laboratory-testing-laboratories-",
