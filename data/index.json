@@ -560,6 +560,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-al-amal-medical-center-medical-laboratories-accreditation-n",
+    "name": "Al Amal Medical Center Medical Laboratories Accreditation No. LB-MED-128 Initial Accreditation Date May 10, 2017 | Abu Dhabi | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-al-barsha-al-noor-polyclinic-l.l.c-medical-laboratories-acc",
     "name": "Al Barsha Al Noor Polyclinic L.L.C Medical Laboratories Accreditation No. LB-MED-288 Initial Accreditation Date Apr 16, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -1793,7 +1807,7 @@
   },
   {
     "id": "eiac-astron-certification-l.l.c,-abu-dhabi-quality-management-sy",
-    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
+    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-EMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -8806,6 +8820,20 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-pathology-laboratory-dr.-sulaiman-al-habib-hospital-medical",
+    "name": "Pathology Laboratory-Dr. Sulaiman Al Habib Hospital Medical Laboratories Accreditation No. LB-MED-002 Initial Accreditation Date Nov 10, 2008 | Dubai | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-pen-consultancy-fze-healthcare-providers-accreditation-no.-",
     "name": "Pen Consultancy FZE Healthcare Providers Accreditation No. HCO-009 Initial Accreditation Date Aug 05, 2025 Zaa'beel Second, Sheikh Rashid Tower, Dubai | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -11411,7 +11439,21 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-quality-man",
-    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-19",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-vertico-xtreme-safety-training-(br.-of-enigma-capital-inves",
+    "name": "Vertico Xtreme Safety Training (Br. of Enigma Capital Investments LLC) Inspection Bodies Accreditation No. IB-190 Initial Accreditation Date May 14, 2024 | Dubai | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
