@@ -770,20 +770,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-al-hoty---stanger-llc-testing-laboratories-accreditation-no",
-    "name": "Al Hoty - Stanger LLC Testing Laboratories Accreditation No. LB-TEST-165 Initial Accreditation Date Nov 22, 2017 | Kalba | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-al-hoty-stanger-laboratories-llc-testing-laboratories-accre",
     "name": "Al Hoty Stanger Laboratories LLC Testing Laboratories Accreditation No. LB-TEST-001 Initial Accreditation Date May 13, 2002 | Dubai | United Arab Emirates Active",
     "country": "",
@@ -968,20 +954,6 @@
   {
     "id": "eiac-al-qassimi-women-and-children-laboratory-/-purelab-north-ll",
     "name": "Al Qassimi Women and Children Laboratory / PureLab North LLC – PureLab Group Medical Laboratories Accreditation No. LB-MED-213 Initial Accreditation Date Apr 08, 2020 Al Qassimi Women and Children Hospital Sharjah | United Arab Emirates | Sharjah Sharjah | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-al-rafa-medical-center-llc-medical-laboratories-accreditati",
-    "name": "Al Rafa Medical Center LLC Medical Laboratories Accreditation No. LB-MED-150 Initial Accreditation Date Nov 22, 2017 | Abu Dhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -1807,7 +1779,7 @@
   },
   {
     "id": "eiac-astron-certification-l.l.c,-abu-dhabi-quality-management-sy",
-    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-EMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
+    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10052,34 +10024,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-sheikh-khalifa-general-hospital,-ajman-medical-laboratories",
-    "name": "Sheikh Khalifa General Hospital, Ajman Medical Laboratories Accreditation No. LB-MED-222 Initial Accreditation Date Nov 22, 2020 | Ajman | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
-    "id": "eiac-sheikh-khalifa-hospital-masfoot-medical-laboratories-accred",
-    "name": "Sheikh Khalifa Hospital Masfoot Medical Laboratories Accreditation No. LB-MED-223 Initial Accreditation Date Nov 22, 2020 | Masfout | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-sheikh-khalifa-hospital,-fujairah-medical-laboratories-accr",
     "name": "Sheikh Khalifa Hospital, Fujairah Medical Laboratories Accreditation No. LB-MED-323 Initial Accreditation Date May 29, 2025 Al Faseel | Fujairah | United Arab Emirates | Fujairah Fujairah | United Arab Emirates Active",
     "country": "",
@@ -11172,20 +11116,6 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
-    "id": "eiac-trust-medical-laboratory-medical-laboratories-accreditation",
-    "name": "Trust Medical Laboratory Medical Laboratories Accreditation No. LB-MED-284 Initial Accreditation Date Nov 22, 2023 | Dubai | United Arab Emirates Active",
-    "country": "",
-    "cc": null,
-    "scopes": [],
-    "accs": [
-      "EIAC"
-    ],
-    "status": "Accredited",
-    "lastVerified": "2026-11-21",
-    "site": "",
-    "evidence": "https://eiac.gov.ae/directory"
-  },
-  {
     "id": "eiac-tüv-nord-middle-east-l.l.c.-food-safety-management-systems-",
     "name": "TÜV NORD Middle East L.L.C. Food Safety Management Systems Accreditation No. CB-HACCP-119 Initial Accreditation Date Oct 01, 2026 Golden Gate Tower, Office 301, Umm Hureir Road | Dubai Dubai | United Arab Emirates Active",
     "country": "",
@@ -11453,7 +11383,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-quality-man",
-    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11495,7 +11425,7 @@
   },
   {
     "id": "eiac-viscount-quality-certifications-quality-management-systems-",
-    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-BCMS-076 Initial Accreditation Date Jul 21, 2026 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
+    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-OHSMS-076 Initial Accreditation Date Dec 21, 2017 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
