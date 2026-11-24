@@ -1779,7 +1779,7 @@
   },
   {
     "id": "eiac-astron-certification-l.l.c,-abu-dhabi-quality-management-sy",
-    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-QMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
+    "name": "Astron Certification L.L.C, Abu Dhabi Quality Management Systems Accreditation No. CB-EMS-090 Initial Accreditation Date Jul 29, 2019 | AbuDhabi | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -10052,6 +10052,34 @@
     "evidence": "https://eiac.gov.ae/directory"
   },
   {
+    "id": "eiac-sheikh-khalifa-general-hospital,-ajman-medical-laboratories",
+    "name": "Sheikh Khalifa General Hospital, Ajman Medical Laboratories Accreditation No. LB-MED-222 Initial Accreditation Date Nov 22, 2020 | Ajman | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-24",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
+    "id": "eiac-sheikh-khalifa-hospital-masfoot-medical-laboratories-accred",
+    "name": "Sheikh Khalifa Hospital Masfoot Medical Laboratories Accreditation No. LB-MED-223 Initial Accreditation Date Nov 22, 2020 | Masfout | United Arab Emirates Active",
+    "country": "",
+    "cc": null,
+    "scopes": [],
+    "accs": [
+      "EIAC"
+    ],
+    "status": "Accredited",
+    "lastVerified": "2026-11-24",
+    "site": "",
+    "evidence": "https://eiac.gov.ae/directory"
+  },
+  {
     "id": "eiac-sheikh-khalifa-hospital,-fujairah-medical-laboratories-accr",
     "name": "Sheikh Khalifa Hospital, Fujairah Medical Laboratories Accreditation No. LB-MED-323 Initial Accreditation Date May 29, 2025 Al Faseel | Fujairah | United Arab Emirates | Fujairah Fujairah | United Arab Emirates Active",
     "country": "",
@@ -11411,7 +11439,7 @@
   },
   {
     "id": "eiac-veritas-system-quality-certificates-issuing-llc-quality-man",
-    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-ISMS-099 Initial Accreditation Date Mar 18, 2026 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
+    "name": "Veritas System Quality Certificates Issuing LLC Quality Management Systems Accreditation No. CB-OHSMS-099 Initial Accreditation Date Apr 21, 2022 M05A, Al Nakheel Building, Zabeel Road, Al Karama, Dubai | Dubai Al Karama | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
@@ -11453,7 +11481,7 @@
   },
   {
     "id": "eiac-viscount-quality-certifications-quality-management-systems-",
-    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-OHSMS-076 Initial Accreditation Date Dec 21, 2017 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
+    "name": "Viscount Quality Certifications Quality Management Systems Accreditation No. CB-BCMS-076 Initial Accreditation Date Jul 21, 2026 M-11, Dar Al Maha Building, Abu Hail Road, Hor Al Anz East | Dubai Middle East | United Arab Emirates Active",
     "country": "",
     "cc": null,
     "scopes": [],
